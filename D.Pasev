@@ -304,7 +304,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 https://sc.id-tv.kz/31Kanal_38_39.m3u8
 #EXTINF:-1 tvg-name="360°" group-title="Russian" tvg-country="RU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png",360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 tvg-name="360° Новости" group-title="Russian" tvg-country="RU" tvg-logo="https://ntvplus.tv/files/image/01/19/86/pp2.png",360° Новости 
+#EXTINF:-1 tvg-name="360-news" group-title="Russian" tvg-country="RU" tvg-logo="https://ntvplus.tv/files/image/01/19/86/pp2.png",360° Новости 
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 tvg-name="3ABN Russia" group-title="Russian" tvg-country="RU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/1280px-3ABN_logo.svg.png",3ABN Russia
 https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
@@ -1037,714 +1037,129 @@ http://
 
 
 
-
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/80735
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80734
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW HD
-http://rv.flysat.live:80/307210013157/307210013157/80733
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL D HD
-http://rv.flysat.live:80/307210013157/307210013157/80732
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ATV HD
-http://rv.flysat.live:80/307210013157/307210013157/80731
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",STAR HD
-http://rv.flysat.live:80/307210013157/307210013157/80730
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FOX HD
-http://rv.flysat.live:80/307210013157/307210013157/80729
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEYAZ HD
-http://rv.flysat.live:80/307210013157/307210013157/80728
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8 HD
-http://rv.flysat.live:80/307210013157/307210013157/80727
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8.5 HD
-http://rv.flysat.live:80/307210013157/307210013157/80726
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 7 HD
-http://rv.flysat.live:80/307210013157/307210013157/80725
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 4K
-http://rv.flysat.live:80/307210013157/307210013157/80724
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 1 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80723
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 2 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80722
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW UHD
-http://rv.flysat.live:80/307210013157/307210013157/80721
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL D UHD
-http://rv.flysat.live:80/307210013157/307210013157/80720
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ATV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80719
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",STAR UHD
-http://rv.flysat.live:80/307210013157/307210013157/80718
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FOX UHD
-http://rv.flysat.live:80/307210013157/307210013157/80717
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEYAZ UHD
-http://rv.flysat.live:80/307210013157/307210013157/80716
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80715
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8.5 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80714
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 7 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80713
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",360 TV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80712
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DMAX UHD
-http://rv.flysat.live:80/307210013157/307210013157/80711
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A2 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80710
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TEVE 2 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80709
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW MAX
-http://rv.flysat.live:80/307210013157/307210013157/80708
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 4K+
-http://rv.flysat.live:80/307210013157/307210013157/80707
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",YABAN TV HD
-http://rv.flysat.live:80/307210013157/307210013157/80706
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="", HRT AKDENIZ TV
-http://rv.flysat.live:80/307210013157/307210013157/80705
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",RUMELI TV
-http://rv.flysat.live:80/307210013157/307210013157/80704
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DRT DENIZLI
-http://rv.flysat.live:80/307210013157/307210013157/80703
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",EKOTURK
-http://rv.flysat.live:80/307210013157/307210013157/80702
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",AKIT TV HD
-http://rv.flysat.live:80/307210013157/307210013157/80700
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",REHBER TV
-http://rv.flysat.live:80/307210013157/307210013157/80699
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",LALEGUL TV
-http://rv.flysat.live:80/307210013157/307210013157/80698
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ON 4 TV
-http://rv.flysat.live:80/307210013157/307210013157/80697
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SEMERKAND TV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80696
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DOST TV
-http://rv.flysat.live:80/307210013157/307210013157/80695
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",AL QURAN TV
-http://rv.flysat.live:80/307210013157/307210013157/80694
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KABE TV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80693
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT HABER UHD
-http://rv.flysat.live:80/307210013157/307210013157/80691
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",CNN TURK UHD
-http://rv.flysat.live:80/307210013157/307210013157/80690
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NTV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80689
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",24 HABER UHD
-http://rv.flysat.live:80/307210013157/307210013157/80688
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",HABER GLOBAL UHD
-http://rv.flysat.live:80/307210013157/307210013157/80687
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",EKO TURK TV
-http://rv.flysat.live:80/307210013157/307210013157/80686
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV NET UHD
-http://rv.flysat.live:80/307210013157/307210013157/80685
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ULKE TV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80684
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A HABER UHD
-http://rv.flysat.live:80/307210013157/307210013157/80683
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",AKIT TV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80682
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KOY TV
-http://rv.flysat.live:80/307210013157/307210013157/80681
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BLOOMBERG HT UHD
-http://rv.flysat.live:80/307210013157/307210013157/80680
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A PARA UHD
-http://rv.flysat.live:80/307210013157/307210013157/80679
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT WORLD UHD
-http://rv.flysat.live:80/307210013157/307210013157/80678
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A NEWS UHD
-http://rv.flysat.live:80/307210013157/307210013157/80677
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ULUSAL KANAL
-http://rv.flysat.live:80/307210013157/307210013157/80676
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",HALK TV
-http://rv.flysat.live:80/307210013157/307210013157/80675
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TGRT HABER UHD
-http://rv.flysat.live:80/307210013157/307210013157/80674
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TELE 1
-http://rv.flysat.live:80/307210013157/307210013157/80673
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",UZAY HABER
-http://rv.flysat.live:80/307210013157/307210013157/80672
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL B
-http://rv.flysat.live:80/307210013157/307210013157/80671
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KRT UHD
-http://rv.flysat.live:80/307210013157/307210013157/80670
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",HABER TURK UHD
-http://rv.flysat.live:80/307210013157/307210013157/80669
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",YOL TV
-http://rv.flysat.live:80/307210013157/307210013157/80668
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",CAN TV HD
-http://rv.flysat.live:80/307210013157/307210013157/80667
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MC EU
-http://rv.flysat.live:80/307210013157/307210013157/80666
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ARTI TV
-http://rv.flysat.live:80/307210013157/307210013157/80665
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 100 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80664
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT BELGESEL UHD
-http://rv.flysat.live:80/307210013157/307210013157/80662
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TGRT BELGESEL
-http://rv.flysat.live:80/307210013157/307210013157/80661
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY CHANNEL HD
-http://rv.flysat.live:80/307210013157/307210013157/80660
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY SCIENCE HD
-http://rv.flysat.live:80/307210013157/307210013157/80659
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NGC HD
-http://rv.flysat.live:80/307210013157/307210013157/80658
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NGC WILD HD
-http://rv.flysat.live:80/307210013157/307210013157/80657
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",HISTORY CHANNEL HD
-http://rv.flysat.live:80/307210013157/307210013157/80656
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ANIMAL PLANET HD
-http://rv.flysat.live:80/307210013157/307210013157/80655
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TLC UHD
-http://rv.flysat.live:80/307210013157/307210013157/80654
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN GURME HD
-http://rv.flysat.live:80/307210013157/307210013157/80653
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN IZ HD
-http://rv.flysat.live:80/307210013157/307210013157/80652
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ID TR HD
-http://rv.flysat.live:80/307210013157/307210013157/80651
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",VIASAT HISTORY HD
-http://rv.flysat.live:80/307210013157/307210013157/80650
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DOCUBOX HD
-http://rv.flysat.live:80/307210013157/307210013157/80649
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY SHOWCASE HD
-http://rv.flysat.live:80/307210013157/307210013157/80648
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",OUTDOOR SMART HD
-http://rv.flysat.live:80/307210013157/307210013157/80647
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FAST FUN HD
-http://rv.flysat.live:80/307210013157/307210013157/80646
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DTX TR HD
-http://rv.flysat.live:80/307210013157/307210013157/80645
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DA VINCI HD
-http://rv.flysat.live:80/307210013157/307210013157/80644
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",D MAX HD
-http://rv.flysat.live:80/307210013157/307210013157/80643
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BBC EARTH HD
-http://rv.flysat.live:80/307210013157/307210013157/80642
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="", 24 KITCHEN HD
-http://rv.flysat.live:80/307210013157/307210013157/80641
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT COCUK UHD
-http://rv.flysat.live:80/307210013157/307210013157/80639
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MINIKA GO
-http://rv.flysat.live:80/307210013157/307210013157/80638
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MINIKA COCUK
-http://rv.flysat.live:80/307210013157/307210013157/80637
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NICK JR
-http://rv.flysat.live:80/307210013157/307210013157/80636
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NICKELODEON HD
-http://rv.flysat.live:80/307210013157/307210013157/80635
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="", DISNEY XD
-http://rv.flysat.live:80/307210013157/307210013157/80634
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="", DISNEY JR HD
-http://rv.flysat.live:80/307210013157/307210013157/80633
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DISNEY CHANNEL
-http://rv.flysat.live:80/307210013157/307210013157/80632
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOOMERANG HD
-http://rv.flysat.live:80/307210013157/307210013157/80630
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BABY TV
-http://rv.flysat.live:80/307210013157/307210013157/80629
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TOM VE JERRY
-http://rv.flysat.live:80/307210013157/307210013157/80628
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NILOYA TV
-http://rv.flysat.live:80/307210013157/307210013157/80627
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT EBA TV HD ILKOKUL
-http://rv.flysat.live:80/307210013157/307210013157/80626
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT EBA TV HD ORTAOKUL
-http://rv.flysat.live:80/307210013157/307210013157/80625
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT EBA TV HD LISE
-http://rv.flysat.live:80/307210013157/307210013157/80624
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT MUZIK UHD
-http://rv.flysat.live:80/307210013157/307210013157/80622
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NR 1 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80621
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NR 1 TURK UHD
-http://rv.flysat.live:80/307210013157/307210013157/80620
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KRAL TV HD
-http://rv.flysat.live:80/307210013157/307210013157/80619
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KRAL POP HD
-http://rv.flysat.live:80/307210013157/307210013157/80618
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KRAL PERFORMANS TV HD
-http://rv.flysat.live:80/307210013157/307210013157/80617
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",POWER UHD
-http://rv.flysat.live:80/307210013157/307210013157/80616
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",POWER TURK UHD
-http://rv.flysat.live:80/307210013157/307210013157/80615
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DREAM TV
-http://rv.flysat.live:80/307210013157/307210013157/80614
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DREAM TURK
-http://rv.flysat.live:80/307210013157/307210013157/80613
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MAVI KARADENIZ TV
-http://rv.flysat.live:80/307210013157/307210013157/80612
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",VATAN TV
-http://rv.flysat.live:80/307210013157/307210013157/80611
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MILYON TV
-http://rv.flysat.live:80/307210013157/307210013157/80610
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DEM TV
-http://rv.flysat.live:80/307210013157/307210013157/80609
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ATV EU
-http://rv.flysat.live:80/307210013157/307210013157/80607
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 7 EU
-http://rv.flysat.live:80/307210013157/307210013157/80604
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8 INT EU
-http://rv.flysat.live:80/307210013157/307210013157/80603
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW TURK EU
-http://rv.flysat.live:80/307210013157/307210013157/80602
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TGRT EU
-http://rv.flysat.live:80/307210013157/307210013157/80601
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL AVRUPA EU
-http://rv.flysat.live:80/307210013157/307210013157/80600
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DIYANET TV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80598
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT TURK UHD
-http://rv.flysat.live:80/307210013157/307210013157/80597
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT AVAZ UHD
-http://rv.flysat.live:80/307210013157/307210013157/80596
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BENGU TURK
-http://rv.flysat.live:80/307210013157/307210013157/80595
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",CEM TV
-http://rv.flysat.live:80/307210013157/307210013157/80594
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",YILDIZ EN
-http://rv.flysat.live:80/307210013157/307210013157/80593
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KON TV KONYA
-http://rv.flysat.live:80/307210013157/307210013157/80592
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 42 KONYA
-http://rv.flysat.live:80/307210013157/307210013157/80591
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",UCAN KUS TV
-http://rv.flysat.live:80/307210013157/307210013157/80590
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MELTEM TV
-http://rv.flysat.live:80/307210013157/307210013157/80589
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 4 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80588
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 5
-http://rv.flysat.live:80/307210013157/307210013157/80587
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",AKILLI TV
-http://rv.flysat.live:80/307210013157/307210013157/80586
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KUDUS TV
-http://rv.flysat.live:80/307210013157/307210013157/80585
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV KAYSERI
-http://rv.flysat.live:80/307210013157/307210013157/80584
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 1 KAYSERI
-http://rv.flysat.live:80/307210013157/307210013157/80583
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ALTAS TV ORDU
-http://rv.flysat.live:80/307210013157/307210013157/80582
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",CAY TV RIZE
-http://rv.flysat.live:80/307210013157/307210013157/80581
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",CIFT TV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80580
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DRT DENIZLI TV
-http://rv.flysat.live:80/307210013157/307210013157/80579
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL FIRAT ELAZIG
-http://rv.flysat.live:80/307210013157/307210013157/80578
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL URFA
-http://rv.flysat.live:80/307210013157/307210013157/80577
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",PAMUKKALE TV
-http://rv.flysat.live:80/307210013157/307210013157/80576
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 3 ISPARTA HD
-http://rv.flysat.live:80/307210013157/307210013157/80575
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL V ANTALYA
-http://rv.flysat.live:80/307210013157/307210013157/80574
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KOZA TV ADANA
-http://rv.flysat.live:80/307210013157/307210013157/80573
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",VIZYON 58 SIVAS
-http://rv.flysat.live:80/307210013157/307210013157/80572
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TURKMENELI TV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80571
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TEK RUMELI TV
-http://rv.flysat.live:80/307210013157/307210013157/80570
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",GTV TV SANLIURFA
-http://rv.flysat.live:80/307210013157/307210013157/80569
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KENT TURK TV KAYSERA
-http://rv.flysat.live:80/307210013157/307210013157/80568
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TVDEN AYDIN
-http://rv.flysat.live:80/307210013157/307210013157/80567
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TVO
-http://rv.flysat.live:80/307210013157/307210013157/80566
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 32 ISPARTA HD
-http://rv.flysat.live:80/307210013157/307210013157/80565
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BRT 1 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80564
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BRT 2 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80563
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KIBRIS TV
-http://rv.flysat.live:80/307210013157/307210013157/80562
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KIBRIS TV ADA
-http://rv.flysat.live:80/307210013157/307210013157/80561
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL T KIBRIS
-http://rv.flysat.live:80/307210013157/307210013157/80560
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KIBRIS GENC TV
-http://rv.flysat.live:80/307210013157/307210013157/80559
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="", SRT SIVAS
-http://rv.flysat.live:80/307210013157/307210013157/80558
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",AVA TV UHD
-http://rv.flysat.live:80/307210013157/307210013157/80557
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 68
-http://rv.flysat.live:80/307210013157/307210013157/80556
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KARDELEN TV
-http://rv.flysat.live:80/307210013157/307210013157/80555
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE PREMIUM HD
-http://rv.flysat.live:80/307210013157/307210013157/80553
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE PREMIUM 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80552
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE PLATIN HD
-http://rv.flysat.live:80/307210013157/307210013157/80551
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE PLATIN 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80550
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE FAMILY HD
-http://rv.flysat.live:80/307210013157/307210013157/80549
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE FEST HD
-http://rv.flysat.live:80/307210013157/307210013157/80548
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE GOLD HD
-http://rv.flysat.live:80/307210013157/307210013157/80547
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE CLASSIC HD
-http://rv.flysat.live:80/307210013157/307210013157/80546
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE ACTION HD
-http://rv.flysat.live:80/307210013157/307210013157/80545
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE TURK HD
-http://rv.flysat.live:80/307210013157/307210013157/80544
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DiZi PREMIUM HD
-http://rv.flysat.live:80/307210013157/307210013157/80543
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DIZISMART MAX HD
-http://rv.flysat.live:80/307210013157/307210013157/80542
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FX HD
-http://rv.flysat.live:80/307210013157/307210013157/80541
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES ACTION HD
-http://rv.flysat.live:80/307210013157/307210013157/80539
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES ACTION 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80538
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES FAMILY HD
-http://rv.flysat.live:80/307210013157/307210013157/80537
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES PREMIER HD
-http://rv.flysat.live:80/307210013157/307210013157/80536
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES PREMIER 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80535
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES STARS HD
-http://rv.flysat.live:80/307210013157/307210013157/80534
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES TURK HD
-http://rv.flysat.live:80/307210013157/307210013157/80533
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES COMEDY HD
-http://rv.flysat.live:80/307210013157/307210013157/80532
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES DRAMA HD
-http://rv.flysat.live:80/307210013157/307210013157/80531
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES SCI-FI HD
-http://rv.flysat.live:80/307210013157/307210013157/80530
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES VICE HD
-http://rv.flysat.live:80/307210013157/307210013157/80529
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN BOX OFFICE 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/80528
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN BOX OFFICE 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80527
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN BOX OFFICE 3 HD
-http://rv.flysat.live:80/307210013157/307210013157/80526
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL TURK
-http://rv.flysat.live:80/307210013157/307210013157/80524
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL NETFLIX
-http://rv.flysat.live:80/307210013157/307210013157/80523
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL KUKULI
-http://rv.flysat.live:80/307210013157/307210013157/80522
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL KARE
-http://rv.flysat.live:80/307210013157/307210013157/80521
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL ANKARA
-http://rv.flysat.live:80/307210013157/307210013157/80520
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL AKILLI TAVSAN MOMO
-http://rv.flysat.live:80/307210013157/307210013157/80519
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT YESILCAM   3 HD
-http://rv.flysat.live:80/307210013157/307210013157/80518
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART TURK HD
-http://rv.flysat.live:80/307210013157/307210013157/80517
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART GOLD HD
-http://rv.flysat.live:80/307210013157/307210013157/80516
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART FEST HD
-http://rv.flysat.live:80/307210013157/307210013157/80515
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART FAMILY HD
-http://rv.flysat.live:80/307210013157/307210013157/80514
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART ACTION HD
-http://rv.flysat.live:80/307210013157/307210013157/80513
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA YERLI HD
-http://rv.flysat.live:80/307210013157/307210013157/80512
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA YERLI 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80511
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA TV HD
-http://rv.flysat.live:80/307210013157/307210013157/80510
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA TV 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80509
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA KOMEDI HD
-http://rv.flysat.live:80/307210013157/307210013157/80508
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA KOMEDI 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80507
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AKSIYON HD
-http://rv.flysat.live:80/307210013157/307210013157/80506
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AKSIYON 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80505
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AILE HD
-http://rv.flysat.live:80/307210013157/307210013157/80504
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AILE 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80503
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT POP
-http://rv.flysat.live:80/307210013157/307210013157/80502
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NILOYA TV
-http://rv.flysat.live:80/307210013157/307210013157/80501
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NETFLIX 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/80500
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NETFLIX 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80499
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NETFLIX 3 HD
-http://rv.flysat.live:80/307210013157/307210013157/80498
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES PREMIER HD
-http://rv.flysat.live:80/307210013157/307210013157/80497
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES PREMIER 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80496
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES FESTIVAL HD
-http://rv.flysat.live:80/307210013157/307210013157/80495
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES FAMILIY HD
-http://rv.flysat.live:80/307210013157/307210013157/80494
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MASA ILE KOCA AYI
-http://rv.flysat.live:80/307210013157/307210013157/80493
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT KEMAL SUNAL
-http://rv.flysat.live:80/307210013157/307210013157/80492
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD COCUK
-http://rv.flysat.live:80/307210013157/307210013157/80491
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD ANIMASYON 3
-http://rv.flysat.live:80/307210013157/307210013157/80490
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD ANIMASYON 2
-http://rv.flysat.live:80/307210013157/307210013157/80489
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD ANIMASYON 1
-http://rv.flysat.live:80/307210013157/307210013157/80488
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT BOX OFFICE 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/80487
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT BOX OFFICE 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80486
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT BOX OFFICE 3 HD
-http://rv.flysat.live:80/307210013157/307210013157/80485
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT ARABESK
-http://rv.flysat.live:80/307210013157/307210013157/80484
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT ANKARA  HD
-http://rv.flysat.live:80/307210013157/307210013157/80483
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT AKILLI TAVSAN MOMO
-http://rv.flysat.live:80/307210013157/307210013157/80482
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",LOCA 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/80481
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",LOCA 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80480
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",LOCA 3 HD
-http://rv.flysat.live:80/307210013157/307210013157/80479
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 1
-http://rv.flysat.live:80/307210013157/307210013157/80478
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 2
-http://rv.flysat.live:80/307210013157/307210013157/80477
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 3
-http://rv.flysat.live:80/307210013157/307210013157/80476
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 4
-http://rv.flysat.live:80/307210013157/307210013157/80475
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 5
-http://rv.flysat.live:80/307210013157/307210013157/80474
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 6
-http://rv.flysat.live:80/307210013157/307210013157/80473
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 7
-http://rv.flysat.live:80/307210013157/307210013157/80472
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 10
-http://rv.flysat.live:80/307210013157/307210013157/80471
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV KORKU 1
-http://rv.flysat.live:80/307210013157/307210013157/80470
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV KOMEDI 1
-http://rv.flysat.live:80/307210013157/307210013157/80469
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV DRAMA 1
-http://rv.flysat.live:80/307210013157/307210013157/80468
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV WESTERN
-http://rv.flysat.live:80/307210013157/307210013157/80467
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV BILIMKURGU 1
-http://rv.flysat.live:80/307210013157/307210013157/80466
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV ANIMASYON 1
-http://rv.flysat.live:80/307210013157/307210013157/80465
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 1
-http://rv.flysat.live:80/307210013157/307210013157/80464
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 2
-http://rv.flysat.live:80/307210013157/307210013157/80463
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 3
-http://rv.flysat.live:80/307210013157/307210013157/80462
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 4
-http://rv.flysat.live:80/307210013157/307210013157/80461
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 1
-http://rv.flysat.live:80/307210013157/307210013157/80460
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 2
-http://rv.flysat.live:80/307210013157/307210013157/80459
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 3
-http://rv.flysat.live:80/307210013157/307210013157/80458
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 4
-http://rv.flysat.live:80/307210013157/307210013157/80457
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 5
-http://rv.flysat.live:80/307210013157/307210013157/80456
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",YESIL SINEMA TV
-http://rv.flysat.live:80/307210013157/307210013157/80455
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO TURK 1
-http://rv.flysat.live:80/307210013157/307210013157/80454
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO ANIMASYON
-http://rv.flysat.live:80/307210013157/307210013157/80453
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO WESTERN
-http://rv.flysat.live:80/307210013157/307210013157/80452
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 1
-http://rv.flysat.live:80/307210013157/307210013157/80451
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 2
-http://rv.flysat.live:80/307210013157/307210013157/80450
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 3
-http://rv.flysat.live:80/307210013157/307210013157/80449
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 4
-http://rv.flysat.live:80/307210013157/307210013157/80448
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 5
-http://rv.flysat.live:80/307210013157/307210013157/80447
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 6
-http://rv.flysat.live:80/307210013157/307210013157/80446
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 7
-http://rv.flysat.live:80/307210013157/307210013157/80445
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 8
-http://rv.flysat.live:80/307210013157/307210013157/80444
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 9
-http://rv.flysat.live:80/307210013157/307210013157/80443
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 10
-http://rv.flysat.live:80/307210013157/307210013157/80442
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 11
-http://rv.flysat.live:80/307210013157/307210013157/80441
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 12
-http://rv.flysat.live:80/307210013157/307210013157/80440
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 13
-http://rv.flysat.live:80/307210013157/307210013157/80439
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 14
-http://rv.flysat.live:80/307210013157/307210013157/80438
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 15
-http://rv.flysat.live:80/307210013157/307210013157/80437
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/80436
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80435
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 3 HD
-http://rv.flysat.live:80/307210013157/307210013157/80434
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 4 HD
-http://rv.flysat.live:80/307210013157/307210013157/80433
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 5 HD
-http://rv.flysat.live:80/307210013157/307210013157/80432
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 6 HD
-http://rv.flysat.live:80/307210013157/307210013157/80431
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 7 HD
-http://rv.flysat.live:80/307210013157/307210013157/80430
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 8 HD
-http://rv.flysat.live:80/307210013157/307210013157/80429
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 9 HD
-http://rv.flysat.live:80/307210013157/307210013157/80428
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 10 HD
-http://rv.flysat.live:80/307210013157/307210013157/80427
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES KEMAL SUNAL
-http://rv.flysat.live:80/307210013157/307210013157/80426
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV MACERA HD
-http://rv.flysat.live:80/307210013157/307210013157/80424
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV KORKU HD
-http://rv.flysat.live:80/307210013157/307210013157/80423
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BLACK TV ANIMAYON HD
-http://rv.flysat.live:80/307210013157/307210013157/80422
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV KOMEDI HD
-http://rv.flysat.live:80/307210013157/307210013157/80421
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV GERILIM HD
-http://rv.flysat.live:80/307210013157/307210013157/80420
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV FANTASTIK HD
-http://rv.flysat.live:80/307210013157/307210013157/80419
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV DRAM HD
-http://rv.flysat.live:80/307210013157/307210013157/80418
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV COCUK HD
-http://rv.flysat.live:80/307210013157/307210013157/80417
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV BIYOGRAFI HD
-http://rv.flysat.live:80/307210013157/307210013157/80416
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV BILIM-KURGU HD
-http://rv.flysat.live:80/307210013157/307210013157/80415
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV AKSIYON HD
-http://rv.flysat.live:80/307210013157/307210013157/80414
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV TURK HD
-http://rv.flysat.live:80/307210013157/307210013157/80413
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV YESILCAM HD
-http://rv.flysat.live:80/307210013157/307210013157/80412
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV SAVAS HD
-http://rv.flysat.live:80/307210013157/307210013157/80411
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV SPOR HD
-http://rv.flysat.live:80/307210013157/307210013157/80410
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV WESTERN HD
-http://rv.flysat.live:80/307210013157/307210013157/80409
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV YERLI HD
-http://rv.flysat.live:80/307210013157/307210013157/80407
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV YERLI 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80406
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV KOMEDI HD
-http://rv.flysat.live:80/307210013157/307210013157/80405
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV HD
-http://rv.flysat.live:80/307210013157/307210013157/80404
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80403
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV AILE 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80402
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV ACTION HD
-http://rv.flysat.live:80/307210013157/307210013157/80401
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KEMAL SUNAL TV 4K
-http://rv.flysat.live:80/307210013157/307210013157/80400
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/80398
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80397
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 3 HD
-http://rv.flysat.live:80/307210013157/307210013157/80396
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 4 HD
-http://rv.flysat.live:80/307210013157/307210013157/80395
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEINSPORTS 1 SD
-http://rv.flysat.live:80/307210013157/307210013157/80394
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEINSPORTS 1 HD (50fps 1920x1080)
-http://rv.flysat.live:80/307210013157/307210013157/80393
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 1 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80392
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 2 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80391
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 3 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80390
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 4 UHD
-http://rv.flysat.live:80/307210013157/307210013157/80389
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MAX 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/80388
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MAX 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80387
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS HABER UHD
-http://rv.flysat.live:80/307210013157/307210013157/80386
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SPOR SMART HD
-http://rv.flysat.live:80/307210013157/307210013157/80385
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SPORTS TV
-http://rv.flysat.live:80/307210013157/307210013157/80384
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SARAN SPORT HD
-http://rv.flysat.live:80/307210013157/307210013157/80383
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SARAN SPORT 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80382
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR UHD
-http://rv.flysat.live:80/307210013157/307210013157/80381
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/80380
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/80379
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR 3 HD
-http://rv.flysat.live:80/307210013157/307210013157/80378
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TAY TV HD PLUS
-http://rv.flysat.live:80/307210013157/307210013157/80377
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT SPOR HD
-http://rv.flysat.live:80/307210013157/307210013157/80376
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT SPOR UHD
-http://rv.flysat.live:80/307210013157/307210013157/80375
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A SPOR HD
-http://rv.flysat.live:80/307210013157/307210013157/80374
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A SPOR UHD
-http://rv.flysat.live:80/307210013157/307210013157/80373
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT SPOR 2 HD+
-http://rv.flysat.live:80/307210013157/307210013157/80372
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",GS TV
-http://rv.flysat.live:80/307210013157/307210013157/80371
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FB TV HD PLUS
-http://rv.flysat.live:80/307210013157/307210013157/80370
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BJK TV
-http://rv.flysat.live:80/307210013157/307210013157/80369
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NBA HD
-http://rv.flysat.live:80/307210013157/307210013157/80366
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FIGHT BOX HD
-http://rv.flysat.live:80/307210013157/307210013157/80365
-
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT 1 HD TR" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1 HD TR
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
+http://149.255.152.66:8080/atvturk/index.m3u8
+#EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
+http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
+#EXTINF:-1  tvg-name="Show TV HD" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xJZR1jT/showturk.png",Show Türk
+https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png",Star TV
+#https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+https://mn-nl.mncdn.com/blutv_star/star_sd.smil/chunklist_b2064000.m3u8
+#https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png",FOX
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png",Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-id="Kanal 7 Avrupa" tvg-name="Kanal 7 Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1rhzvp0/kanal7avrupa.png",Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
+#https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
+http://149.255.152.66:8080/tv8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
+https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png",Teve2
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png",Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8.m3u8
+#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png",A2
+http://iptvmasterlink.dyndns.org:8080/Entry/a2hd_yeni/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png",Show Max
+http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
+#EXTINF:-1 tvg-id="Vizyon TV" tvg-name="Vizyon TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png",Vizyon TV
+http://cdn-vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vizyon Yeşilçam" tvg-name="Vizyon Yeşilçam" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-YES-e1614468862346.png",Vizyon Yeşilçam
+https://vizyontv.yayin.com.tr/vizyon-yesilcam/vizyon-yesilcam/playlist.m3u8
+#EXTINF:-1 tvg-id="Vizyon Türk Sinema" tvg-name="Vizyon Türk Sinema" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-TURK.png",Vizyon Türk Sinema
+https://vizyontv.yayin.com.tr/vizyon-turksinemasi/vizyon-turksinemasi/playlist.m3u8
+#EXTINF:-1 tvg-id="Vizyon Yabanci Sinema" tvg-name="Vizyon Yabanci Sinema" tvg-language="Turkish" tvg-logo="https://www.vizyontv.eu/wp-content/uploads/2021/02/LL-SIN.png",Vizyon Yabanci Sinema
+https://vizyontv.yayin.com.tr/vizyon-sinema/vizyon-sinema/playlist.m3u8
+#EXTINF:-1 tvg-id="Afyon Türk TV" tvg-name="Afyon Türk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png",Afyon Türk TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine5 TV" tvg-name="Cine5 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png",Cine5 TV
+https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w364255504.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RznYK89/cn.png",Cartoon Network
+http://185.129.1.242:80/cartoonnetworkturk/mpegts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/8KTN00Q/dc.png",Disney Channel
+http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png",TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png",Minika Go
+http://iptvmasterlink.dyndns.org:5566/Entry/minikago_yeni.m3u8
+#EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png",Minika Çocuk
+http://iptvmasterlink.dyndns.org:5566/Entry/minikacocuk_yeni.m3u8
+#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png",A Haber
+http://buyutecaltinda.dyndns.tv:54981/stream/AHABER_HD.m3u8
+#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png",NTV 
+https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7SXmSz4/tgrthaber.png",TGRT Haber
+https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
+#EXTINF:-1 tvg-id="HABERGLOBAL" tvg-name="HABERGLOBAL" tvg-language="Turkish" tvg-logo="https://i.ibb.co/mTTgWjy/haberglobal.png",HABERGLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png",HABERTURK
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="Bloomberg HT" tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg",Bloomberg HT
+http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png",24 TV
+#https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png",CNN Türk
+https://2122248074.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-id="Halk TV" tvg-name="Halk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZSBB9GG/halktv.png",Halk TV
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="Akit TV" tvg-name=""Akit TV tvg-language="Turkish" tvg-logo="https://i.ibb.co/kxRndv8/logo.png",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 tvg-id="Tele 1" tvg-name="Tele 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Yq2m25/tele1.png",Tele 1
+http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
+#EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4VCTd55/logo.png",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/7270qqz0ERRah_0.m3u8
+#EXTINF:-1 tvg-id="Lalegül TV" tvg-name="Lalegül TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HXMLHcS/lalegul.jpg",Lalegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="Semerkand TV" tvg-name="Semerkand TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QHq642F/logo.png",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="DOST TV" tvg-name="DOST TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/LrDzHxW/dost.png",DOST TV
+#http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
+#EXTINF:-1 tvg-id="Tivibu Spor" tvg-name="Tivibu Spor" tvg-language="Turkish" logo="https://i.ibb.co/r7C1DMG/tivibuspor.png",Tivibu Spor
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png",a Spor
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
+https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png",TRT Spor 2
+http://iptvmasterlink.dyndns.org:5566/Entry/trtspor2_yeni.m3u8
+#EXTINF:-1 tvg-id="TRT 3 Spor" tvg-name="TRT 3 Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/CH8rxzb/trt3spor.png",TRT 3 Spor
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png",Sports TV
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png",TLC
+https://mn-nl.mncdn.com/blutv_tlc/tlc_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png",DMAX
+https://mn-nl.mncdn.com/blutv_dmax/dmax_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="Vizyon Belgesel" tvg-name="Vizyon Belgesel" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-BELG-e1614379400781.png",Vizyon Belgesel
+https://vizyontv.yayin.com.tr/vizyon-belgesel/vizyon-belgesel/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyXRfXw/trtbelgesel.png",TRT Belgesel 
+#https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TGRT Belgesel" tvg-name="TGRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-id="YABAN TV" tvg-name="YABAN TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vizyon Müzik" tvg-name="Vizyon Müzik" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-MUZ-e1614630511562.png",Vizyon Müzik
+https://vizyontv.yayin.com.tr/vizyon-muzik/vizyon-muzik/chunklist_w1377171363.m3u8
 
 
 
