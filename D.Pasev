@@ -655,592 +655,379 @@ http://
 http://
 #EXTINF:-1,DE - CORONA VIRUS INFO
 http://golden-ott.com:80/rich0607/85011C4D8398/83147
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DAS ERSTE
+#EXTINF:-1 tvg-name="DAS ERSTE" group-title="Germany" tvg-country="DE" tvg-logo=" ",DAS ERSTE
 http://golden-ott.com:80/rich0607/85011C4D8398/33572
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DAS ERSTE
-http://golden-ott.com:80/rich0607/85011C4D8398/33573
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ARTE HD
+#EXTINF:-1 tvg-name="ARTE HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",ARTE HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33571
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",3 SAT 
+#EXTINF:-1 tvg-name="3 SAT " group-title="Germany" tvg-country="DE" tvg-logo=" ",3 SAT 
 http://golden-ott.com:80/rich0607/85011C4D8398/33568
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZDF HD
+#EXTINF:-1 tvg-name="ZDF HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZDF HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33570
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZDF NEO
+#EXTINF:-1 tvg-name="ZDF NEO" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZDF NEO
 http://golden-ott.com:80/rich0607/85011C4D8398/33569
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL HD
+#EXTINF:-1 tvg-name="RTL HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33554
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL
+#EXTINF:-1 tvg-name="RTL" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL
 http://golden-ott.com:80/rich0607/85011C4D8398/33567
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTLII HD ◉
+#EXTINF:-1 tvg-name="RTLII HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTLII HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70098
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL TELEVISION
+#EXTINF:-1 tvg-name="RTL TELEVISION" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL TELEVISION
 http://golden-ott.com:80/rich0607/85011C4D8398/70097
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL 2 HD ◉
+#EXTINF:-1 tvg-name="RTL 2 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33553
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL2
+#EXTINF:-1 tvg-name="RTL2" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL2
 http://golden-ott.com:80/rich0607/85011C4D8398/33566
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL PLUS ◉
+#EXTINF:-1 tvg-name="RTL PLUS" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/33565
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL NITRO
+#EXTINF:-1 tvg-name="RTL NITRO" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL NITRO
 http://golden-ott.com:80/rich0607/85011C4D8398/33562
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SIXX HD
+#EXTINF:-1 tvg-name="SIXX HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SIXX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33550
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",PROSIEBEN HD ◉
+#EXTINF:-1 tvg-name="PROSIEBEN HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",PROSIEBEN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33547
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SAT 1 HD ◉
+#EXTINF:-1 tvg-name="SAT 1 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SAT 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33552
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SAT 1 GOLD HD ◉
+#EXTINF:-1 tvg-name="SAT 1 GOLD HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SAT 1 GOLD HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33551
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SAT 1
+#EXTINF:-1 tvg-name="SAT 1" group-title="Germany" tvg-country="DE" tvg-logo=" ",SAT 1
 http://golden-ott.com:80/rich0607/85011C4D8398/181617
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",VOX HD ◉
+#EXTINF:-1 tvg-name="VOX HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",VOX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33549
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",VOX
+#EXTINF:-1 tvg-name="VOX" group-title="Germany" tvg-country="DE" tvg-logo=" ",VOX
 http://golden-ott.com:80/rich0607/85011C4D8398/33560
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",PHOENIX HD ◉
+#EXTINF:-1 tvg-name="PHOENIX HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",PHOENIX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70099
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",KABEL EINS HD ◉ 
+#EXTINF:-1 tvg-name="KABEL EINS HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",KABEL EINS HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70100
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",KABEL 1 CLASSICS HD
+#EXTINF:-1 tvg-name="KABEL 1 CLASSICS HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",KABEL 1 CLASSICS HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70101
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TELE 5 HD
+#EXTINF:-1 tvg-name="TELE 5 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",TELE 5 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33544
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ANIXE HD
+#EXTINF:-1 tvg-name="ANIXE HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",ANIXE HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33472
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DMAX HD
+#EXTINF:-1 tvg-name="DMAX HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",DMAX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33545
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",BIBEL TV HD 
+#EXTINF:-1 tvg-name="BIBEL TV HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",BIBEL TV HD 
 http://golden-ott.com:80/rich0607/85011C4D8398/192993
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZDF INFO HD ◉
+#EXTINF:-1 tvg-name="ZDF INFO HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZDF INFO HD
 http://golden-ott.com:80/rich0607/85011C4D8398/83173
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",PROSIEBEN MAXX HD ◉
+#EXTINF:-1 tvg-name="PROSIEBEN MAXX HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",PROSIEBEN MAXX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33546
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NICK /MTV HD
+#EXTINF:-1 tvg-name="NICK /MTV HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",NICK /MTV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33504
+
+
+
 #EXTINF:-1,##### [B][COLOR lime]<<<--DE - Sport-->>>[/COLOR][/B] #####
 http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT NEWS HD
+#EXTINF:-1 tvg-name="SKY SPORT NEWS HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT NEWS HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33453
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 1
+#EXTINF:-1 tvg-name="SKY SPORT 1" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 1
 http://golden-ott.com:80/rich0607/85011C4D8398/33443
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 1 HD
+#EXTINF:-1 tvg-name="SKY SPORT 1 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33445
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 2
+#EXTINF:-1 tvg-name="SKY SPORT 2" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 2
 http://golden-ott.com:80/rich0607/85011C4D8398/33442
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 2 HD
+#EXTINF:-1 tvg-name="SKY SPORT 2 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33444
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 3 HD
+#EXTINF:-1 tvg-name="SKY SPORT 3 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 3 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/155919
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 4 HD
+#EXTINF:-1 tvg-name="SKY SPORT 4 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 4 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/155920
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 5 HD
+#EXTINF:-1 tvg-name="SKY SPORT 5 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 5 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/155921
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 6 HD
+#EXTINF:-1 tvg-name="SKY SPORT 6 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 6 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/155922
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 7 HD
+#EXTINF:-1 tvg-name="SKY SPORT 7 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 7 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/155923
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 8 HD
+#EXTINF:-1 tvg-name="SKY SPORT 8 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 8 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/155924
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 9 HD
+#EXTINF:-1 tvg-name="SKY SPORT 9 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 9 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/155925
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 10 HD
+#EXTINF:-1 tvg-name="SKY SPORT 10 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 10 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/155926
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 11 HD
+#EXTINF:-1 tvg-name="SKY SPORT 11 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 11 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/155927
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT F1 HD
+#EXTINF:-1 tvg-name="SKY SPORT F1 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT F1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/219214
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 1 HD
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 1 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33441
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 2 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 2 HD (ON MATCH TIME)
 http://golden-ott.com:80/rich0607/85011C4D8398/33440
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 3 HD (ON MATCH TIME" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 3 HD (ON MATCH TIME)
 http://golden-ott.com:80/rich0607/85011C4D8398/33439
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 4 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 4 HD (ON MATCH TIME)
 http://golden-ott.com:80/rich0607/85011C4D8398/33438
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 5 HD (ON MATCH TIME)
 http://golden-ott.com:80/rich0607/85011C4D8398/33437
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 6 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 6 HD (ON MATCH TIME)
 http://golden-ott.com:80/rich0607/85011C4D8398/33436
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 7 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 7 HD (ON MATCH TIME)
 http://golden-ott.com:80/rich0607/85011C4D8398/33435
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 8 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 8 HD (ON MATCH TIME)
 http://golden-ott.com:80/rich0607/85011C4D8398/33434
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 9 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 9 HD (ON MATCH TIME)
 http://golden-ott.com:80/rich0607/85011C4D8398/33433
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 10 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 10 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BUNDESLIGA 10 HD (ON MATCH TIME)
 http://golden-ott.com:80/rich0607/85011C4D8398/33432
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",EUROSPORT 1 HD
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",EUROSPORT 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33451
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",EUROSPORT 2  XTRA HD
+#EXTINF:-1 tvg-name="EUROSPORT 2  XTRA HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",EUROSPORT 2  XTRA HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33449
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",EUROSPORT 2 HD
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",EUROSPORT 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33450
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SPORT 1  HD
+#EXTINF:-1 tvg-name="SPORT 1  HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SPORT 1  HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33452
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TELEKOM - FC BAYERN TV HD
+#EXTINF:-1 tvg-name="TELEKOM - FC BAYERN TV HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",TELEKOM - FC BAYERN TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/180750
-#EXTINF:-1,DAZN 1 BAR HD
+#EXTINF:-1 tvg-name="DAZN 1 BAR HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",DAZN 1 BAR HD
 http://golden-ott.com:80/rich0607/85011C4D8398/45656
-#EXTINF:-1,DAZN 2 BAR HD
+#EXTINF:-1 tvg-name="DAZN 2 BAR HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",DAZN 2 BAR HD
 http://golden-ott.com:80/rich0607/85011C4D8398/45657
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",MOTORVISION
+#EXTINF:-1 tvg-name="MOTORVISION" group-title="Germany" tvg-country="DE" tvg-logo=" ",MOTORVISION
 http://golden-ott.com:80/rich0607/85011C4D8398/33448
+
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]<<<--DE - Music-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",JUKEBOX
+#EXTINF:-1 tvg-name="JUKEBOX" group-title="Germany" tvg-country="DE" tvg-logo=" ",JUKEBOX
 http://golden-ott.com:80/rich0607/85011C4D8398/33500
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",CLASSICA
+#EXTINF:-1 tvg-name="CLASSICA" group-title="Germany" tvg-country="DE" tvg-logo=" ",CLASSICA
 http://golden-ott.com:80/rich0607/85011C4D8398/33455
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",MTV HD
+#EXTINF:-1 tvg-name="MTV HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",MTV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33505
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DELUXE MUSIC HD
+#EXTINF:-1 tvg-name="DELUXE MUSIC HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",DELUXE MUSIC HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33503
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",VH1
+#EXTINF:-1 tvg-name="VH1" group-title="Germany" tvg-country="DE" tvg-logo=" ",VH1
 http://golden-ott.com:80/rich0607/85011C4D8398/33501
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]<<<--DE - DOKUMENTARFILME-->>>[/COLOR][/B]#####   
 http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DISCOVERY HD
+#EXTINF:-1 tvg-name="DISCOVERY HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",DISCOVERY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33498
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",E! ENTERTAINMENT HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33506
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",HISTORY CHANNEL
+#EXTINF:-1 tvg-name="HISTORY CHANNEL" group-title="Germany" tvg-country="DE" tvg-logo=" ",HISTORY CHANNEL
 http://golden-ott.com:80/rich0607/85011C4D8398/33490
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ANIMAL PLANET HD
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",ANIMAL PLANET HD
 http://golden-ott.com:80/rich0607/85011C4D8398/179952
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",HISTORY HD
+#EXTINF:-1 tvg-name="HISTORY HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",HISTORY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33495
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NGC
+#EXTINF:-1 tvg-name="NGC" group-title="Germany" tvg-country="DE" tvg-logo=" ",NGC
 http://golden-ott.com:80/rich0607/85011C4D8398/33492
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NGC HD
+#EXTINF:-1 tvg-name="NGC HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",NGC HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33497
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NGC WILD HD
+#EXTINF:-1 tvg-name="NGC WILD HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",NGC WILD HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33496
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NGC WILD
+#EXTINF:-1 tvg-name="NGC WILD" group-title="Germany" tvg-country="DE" tvg-logo=" ",NGC WILD
 http://golden-ott.com:80/rich0607/85011C4D8398/33491
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TLC HD
+#EXTINF:-1 tvg-name="TLC HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",TLC HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33494
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL LIVING
+#EXTINF:-1 tvg-name="RTL LIVING" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL LIVING
 http://golden-ott.com:80/rich0607/85011C4D8398/70103
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SPIEGEL GESCHICHTE
+#EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE" group-title="Germany" tvg-country="DE" tvg-logo=" ",SPIEGEL GESCHICHTE
 http://golden-ott.com:80/rich0607/85011C4D8398/33489
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]<<<--DE - Angere-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",123TV HD
+#EXTINF:-1 tvg-name="123TV HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",123TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33473
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",HSE 24 EXTRA HD
+#EXTINF:-1 tvg-name="HSE 24 EXTRA HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",HSE 24 EXTRA HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33468
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",HSE 24 HD
+#EXTINF:-1 tvg-name="HSE 24 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",HSE 24 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33469
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",KABEL EINS DOCU HD
+#EXTINF:-1 tvg-name="KABEL EINS DOCU HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",KABEL EINS DOCU HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33475
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",MDR S-ANHALT HD
+#EXTINF:-1 tvg-name="MDR S-ANHALT HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",MDR S-ANHALT HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33466
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",MDR CRINGEN HD
+#EXTINF:-1 tvg-name="MDR CRINGEN HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",MDR CRINGEN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33467
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",MDR SACHSEN HD
+#EXTINF:-1 tvg-name="MDR SACHSEN HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",MDR SACHSEN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33465
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NDR FS HH HD
+#EXTINF:-1 tvg-name="NDR FS HH HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",NDR FS HH HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70104
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NDR FS MV HD
+#EXTINF:-1 tvg-name="NDR FS MV HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",NDR FS MV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70105
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NDR FS NDS HD
+#EXTINF:-1 tvg-name="NDR FS NDS HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",NDR FS NDS HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70106
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NDR FS SH HD
+#EXTINF:-1 tvg-name="NDR FS SH HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",NDR FS SH HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70107
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NITRO
+#EXTINF:-1 tvg-name="NITRO" group-title="Germany" tvg-country="DE" tvg-logo=" ",NITRO
 http://golden-ott.com:80/rich0607/85011C4D8398/33556
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SCHAU TV HD
+#EXTINF:-1 tvg-name="SCHAU TV HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SCHAU TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33474
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",QVC HD
+#EXTINF:-1 tvg-name="QVC HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",QVC HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33471
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",QVC2 HD
+#EXTINF:-1 tvg-name="QVC2 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",QVC2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33470
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RBB BERLIN HD
+#EXTINF:-1 tvg-name="RBB BERLIN HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",RBB BERLIN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33461
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RBB BRANDEN BURG
+#EXTINF:-1 tvg-name="RBB BRANDEN BURG" group-title="Germany" tvg-country="DE" tvg-logo=" ",RBB BRANDEN BURG
 http://golden-ott.com:80/rich0607/85011C4D8398/33460
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SONNENKLAR HD
+#EXTINF:-1 tvg-name="SONNENKLAR HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SONNENKLAR HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33459
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SWR FERNSEHEN BW
+#EXTINF:-1 tvg-name="SWR FERNSEHEN BW" group-title="Germany" tvg-country="DE" tvg-logo=" ",SWR FERNSEHEN BW
 http://golden-ott.com:80/rich0607/85011C4D8398/33557
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR AACHEN HD
+#EXTINF:-1 tvg-name="WDR AACHEN HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR AACHEN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33464
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR BONN HD
+#EXTINF:-1 tvg-name="WDR BONN HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR BONN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33463
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR DUISBURG HD
+#EXTINF:-1 tvg-name="WDR DUISBURG HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR DUISBURG HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33462
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR WUPPERTAL HD
+#EXTINF:-1 tvg-name="WDR WUPPERTAL HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR WUPPERTAL HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33458
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]<<<--DE - Jugent-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",BABY TV
+#EXTINF:-1 tvg-name="BABY TV" group-title="Germany" tvg-country="DE" tvg-logo=" ",BABY TV
 http://golden-ott.com:80/rich0607/85011C4D8398/178381
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",BOOMERANG
+#EXTINF:-1 tvg-name="BOOMERANG" group-title="Germany" tvg-country="DE" tvg-logo=" ",BOOMERANG
 http://golden-ott.com:80/rich0607/85011C4D8398/33480
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SUPER RTL
+#EXTINF:-1 tvg-name="SUPER RTL" group-title="Germany" tvg-country="DE" tvg-logo=" ",SUPER RTL
 http://golden-ott.com:80/rich0607/85011C4D8398/33561
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",CARTOON NETWORK
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Germany" tvg-country="DE" tvg-logo=" ",CARTOON NETWORK
 http://golden-ott.com:80/rich0607/85011C4D8398/33481
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DISNEY CHANNEL HD
+#EXTINF:-1 tvg-name="DISNEY CHANNEL HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",DISNEY CHANNEL HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33486
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",KIKA
+#EXTINF:-1 tvg-name="KIKA" group-title="Germany" tvg-country="DE" tvg-logo=" ",KIKA
 http://golden-ott.com:80/rich0607/85011C4D8398/33482
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DISNEY CINEMAGIC
+#EXTINF:-1 tvg-name="DISNEY CINEMAGIC" group-title="Germany" tvg-country="DE" tvg-logo=" ",DISNEY CINEMAGIC
 http://golden-ott.com:80/rich0607/85011C4D8398/33484
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-name="COMEDY CENTRAL HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",COMEDY CENTRAL HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33502
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NICK /MTV
+#EXTINF:-1 tvg-name="NICK /MTV" group-title="Germany" tvg-country="DE" tvg-logo=" ",NICK /MTV
 http://golden-ott.com:80/rich0607/85011C4D8398/33483
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]<<<--DE - Nachrichten-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",N-TV
+#EXTINF:-1 tvg-name="N-TV" group-title="Germany" tvg-country="DE" tvg-logo=" ",N-TV
 http://golden-ott.com:80/rich0607/85011C4D8398/33477
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",EURONEWS GERMAN
+#EXTINF:-1 tvg-name="EURONEWS GERMAN" group-title="Germany" tvg-country="DE" tvg-logo=" ",EURONEWS GERMAN
 http://golden-ott.com:80/rich0607/85011C4D8398/33478
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",N24
+#EXTINF:-1 tvg-name="N24" group-title="Germany" tvg-country="DE" tvg-logo=" ",N24
 http://golden-ott.com:80/rich0607/85011C4D8398/41644
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WELT HD
+#EXTINF:-1 tvg-name="WELT HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",WELT HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33457
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]<<<--DE - Unterchaltung-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SYFY HD
+#EXTINF:-1 tvg-name="SYFY HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SYFY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33513
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TNT SERIE HD
+#EXTINF:-1 tvg-name="TNT SERIE HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",TNT SERIE HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33512
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",13TH STREET
+#EXTINF:-1 tvg-name="13TH STREET" group-title="Germany" tvg-country="DE" tvg-logo=" ",13TH STREET
 http://golden-ott.com:80/rich0607/85011C4D8398/33507
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",13TH STREET HD
+#EXTINF:-1 tvg-name="13TH STREET HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",13TH STREET HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33514
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",FOX HD
+#EXTINF:-1 tvg-name="FOX HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",FOX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33515
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",HEIMAT KANAL
+#EXTINF:-1 tvg-name="HEIMAT KANAL" group-title="Germany" tvg-country="DE" tvg-logo=" ",HEIMAT KANAL
 http://golden-ott.com:80/rich0607/85011C4D8398/33456
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",KINOWELT TV
+#EXTINF:-1 tvg-name="KINOWELT TV" group-title="Germany" tvg-country="DE" tvg-logo=" ",KINOWELT TV
 http://golden-ott.com:80/rich0607/85011C4D8398/33518
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL CRIME HD
+#EXTINF:-1 tvg-name="RTL CRIME HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL CRIME HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33564
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL PASSION HD
+#EXTINF:-1 tvg-name="RTL PASSION HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL PASSION HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33563
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ROMANCE TV
+#EXTINF:-1 tvg-name="ROMANCE TV" group-title="Germany" tvg-country="DE" tvg-logo=" ",ROMANCE TV
 http://golden-ott.com:80/rich0607/85011C4D8398/33510
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZEE ONE
+#EXTINF:-1 tvg-name="ZEE ONE" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZEE ONE
 http://golden-ott.com:80/rich0607/85011C4D8398/33558
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]<<<--DE - Kino-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY 1 HD
+#EXTINF:-1 tvg-name="SKY 1 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33541
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY ATLANTIC HD
+#EXTINF:-1 tvg-name="SKY ATLANTIC HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY ATLANTIC HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33531
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY ATLANTIC
+#EXTINF:-1 tvg-name="SKY ATLANTIC" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY ATLANTIC
 http://golden-ott.com:80/rich0607/85011C4D8398/33519
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",Sky Cinema Family HD
+#EXTINF:-1 tvg-name="Sky Cinema Family HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",Sky Cinema Family HD
 http://golden-ott.com:80/rich0607/85011C4D8398/181438
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA  1 HD [HEVC]
+#EXTINF:-1 tvg-name="SKY CINEMA  1 HD [HEVC]" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA  1 HD [HEVC]
 http://golden-ott.com:80/rich0607/85011C4D8398/33539
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA  24 HD
+#EXTINF:-1 tvg-name="SKY CINEMA  24 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA  24 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33538
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA ACTION HD
+#EXTINF:-1 tvg-name="SKY CINEMA ACTION HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA ACTION HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33536
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA FUN
+#EXTINF:-1 tvg-name="SKY CINEMA FUN" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA FUN
 http://golden-ott.com:80/rich0607/85011C4D8398/70108
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA EMOTION
+#EXTINF:-1 tvg-name="SKY CINEMA EMOTION" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA EMOTION
 http://golden-ott.com:80/rich0607/85011C4D8398/33535
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA FAMILY HD
+#EXTINF:-1 tvg-name="SKY CINEMA FAMILY HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA FAMILY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33537
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA PREMIEREN HD
+#EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA PREMIEREN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33540
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA HITS HD
+#EXTINF:-1 tvg-name="SKY CINEMA HITS HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA HITS HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33533
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA NOSTALGIE
+#EXTINF:-1 tvg-name="SKY CINEMA NOSTALGIE" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA NOSTALGIE
 http://golden-ott.com:80/rich0607/85011C4D8398/33534
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY COMEDY HD
+#EXTINF:-1 tvg-name="SKY COMEDY HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY COMEDY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/242096
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CRIME HD
+#EXTINF:-1 tvg-name="SKY CRIME HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CRIME HD
 http://golden-ott.com:80/rich0607/85011C4D8398/242097
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY KRIMI
+#EXTINF:-1 tvg-name="SKY KRIMI" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY KRIMI
 http://golden-ott.com:80/rich0607/85011C4D8398/33508
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY ONE HD
+#EXTINF:-1 tvg-name="SKY ONE HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY ONE HD
 http://golden-ott.com:80/rich0607/85011C4D8398/116265
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TNT COMEDY HD
+#EXTINF:-1 tvg-name="TNT COMEDY HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",TNT COMEDY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33532
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TNT FILM
+#EXTINF:-1 tvg-name="TNT FILM" group-title="Germany" tvg-country="DE" tvg-logo=" ",TNT FILM
 http://golden-ott.com:80/rich0607/85011C4D8398/33517
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",UNIVERSAL CHANNEL HD
 http://golden-ott.com:80/rich0607/85011C4D8398/181615
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA PREMIEREN +24 HD
+#EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN +24 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA PREMIEREN +24 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/116263
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA CLASSIC
+#EXTINF:-1 tvg-name="SKY CINEMA CLASSIC" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA CLASSIC
 http://golden-ott.com:80/rich0607/85011C4D8398/116264
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]<<<--DE - Sky Select-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 1 HD
+#EXTINF:-1 tvg-name="SKY SELECT 1 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33524
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 2 HD
+#EXTINF:-1 tvg-name="SKY SELECT 2 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33523
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 3 HD
+#EXTINF:-1 tvg-name="SKY SELECT 3 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 3 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33522
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 4 HD
+#EXTINF:-1 tvg-name="SKY SELECT 4 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 4 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33521
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 5 HD
+#EXTINF:-1 tvg-name="SKY SELECT 5 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 5 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/33520
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 6 HD
+#EXTINF:-1 tvg-name="SKY SELECT 6 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 6 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70109
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 7 HD
+#EXTINF:-1 tvg-name="SKY SELECT 7 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 7 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70110
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 8 HD
+#EXTINF:-1 tvg-name="SKY SELECT 8 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 8 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70111
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 9 HD
+#EXTINF:-1 tvg-name="SKY SELECT 9 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SELECT 9 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/70112
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 1 HD
+#EXTINF:-1 tvg-name="SKY POPCORN SELECT 1 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/186066
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 2 HD
+#EXTINF:-1 tvg-name="SKY POPCORN SELECT 2 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/186067
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 3 HD
+#EXTINF:-1 tvg-name="SKY POPCORN SELECT 3 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 3 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/186068
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 4 HD
+#EXTINF:-1 tvg-name="SKY POPCORN SELECT 4 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 4 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/186069
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 5 HD
+#EXTINF:-1 tvg-name="SKY POPCORN SELECT 5 HD" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY POPCORN SELECT 5 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/186071
-#EXTINF:-1,#####[B][COLOR lime]<<<--DE - Hevc-->>>[/COLOR][/B]#####
-http://
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",1-2-3.TV HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60255
-#EXTINF:-1,DE- 13TH STREET HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60254
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",3SAT [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60253
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ANIXE HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60252
-#EXTINF:-1,DE- ARTE HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60251
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",BOOMERANG [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60250
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",CARTOON NETWORK [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60249
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",CLASSICA [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60248
-#EXTINF:-1,DE- COMEDY CENTRAL HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60247
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",CRIME+ INVESTIGATION [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60246
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DAS ERSTE [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60245
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DAS ERSTE HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60244
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DISCOVERY HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60240
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DISNEY CHANNEL HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60239
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DISNEY CINEMAGIC HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60238
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DMAX HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60236
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",E! ENTERTAINM. HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60235
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",EURONEWS FRENCH [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60175
-#EXTINF:-1,DE  - EURONEWS GERMAN [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60174
-#EXTINF:-1,DE  - EUROSPORT 1 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60173
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",EUROSPORT 2 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60172
-#EXTINF:-1,DE  - EUROSPORT 2 HD XTRA [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60171
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",FOX HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60234
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",HEIMATKANAL [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60233
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",HISTORY HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60232
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",HSE24 EXTRA HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60231
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",HSE24 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60230
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",JUKEBOX [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60229
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",JUWELO HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60228
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",KABEL EINS HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60227
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",KIKA [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60226
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",KINOWELT TV [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60225
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",LUXE MUSIC HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60241
-#EXTINF:-1,DE|  - MDR S-ANHALT HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60170
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",MDR SACHSEN HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60169
-#EXTINF:-1,DE| - MDR THOERINGEN HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60168
-#EXTINF:-1,DE  - MOTORVISION TV [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60167
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",MTV HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60166
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",N-TV [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60219
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NAT GEO HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60217
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NAT GEO WILD HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60218
-#EXTINF:-1,DE  - NDR FS HH HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60152
-#EXTINF:-1,DE  - NDR FS MV HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60151
-#EXTINF:-1,DE  - NDR FS NDS HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60150
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NDR FS SH HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60149
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",NITRO [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60216
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",PEARL.TV HD SHOP [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60215
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",PHOENIX HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60154
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",PRO7 MAXX HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60214
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",PROSIEBEN HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60213
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",QVC HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60212
-#EXTINF:-1,DE  - QVC2 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60211
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RBB BERLIN HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60210
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RBB BRAN [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60146
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ROMANCE TV [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60145
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60144
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL TELEVISION [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60143
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL2 [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60142
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTLII HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60141
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",RTL PLUS [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60140
-#EXTINF:-1,DE  - SAT.1 GOLD HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60209
-#EXTINF:-1,DE- SAT.1 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60208
-#EXTINF:-1,DE  - SERVUSTV HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60153
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SIXX HD |HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60207
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA PREMIEREN +24 [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/116266
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",Sky Cinema Family [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/181439
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA CLASSIC [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/116267
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY ONE HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/116268
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY ATLANTIC HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60206
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA 1 [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60224
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA  24 [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60223
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA  24 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60204
-#EXTINF:-1,DE  - SKY CINEMA ACTION [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60222
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA ACTION HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60203
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA FUN [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60202
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",Sky Cinema in love [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60201
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA PREMIEREN HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60200
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BEST OF [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60221
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY BEST OF HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60139
-#EXTINF:-1,DE  - SKY CINEMA FAMILY [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60220
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY CINEMA FAMILY HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60137
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY KRIMI [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60199
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 1 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60198
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 2 [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60197
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT 2 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60195
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT BUNDESLIGA 1 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60194
-#EXTINF:-1,DE  - SKY SPORT BUNDESLIGA 10 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60185
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT BUNDESLIGA 2 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60193
-#EXTINF:-1,DE  - SKY SPORT BUNDESLIGA 3 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60192
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT BUNDESLIGA 4 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60191
-#EXTINF:-1,DE  - SKY SPORT BUNDESLIGA 5 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60190
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT BUNDESLIGA 6 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60189
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT BUNDESLIGA 7 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60188
-#EXTINF:-1,DE  - SKY SPORT BUNDESLIGA 8 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60187
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT BUNDESLIGA 9 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60186
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SKY SPORT NEWS HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60184
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SONNENKLAR.TV HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60183
-#EXTINF:-1,DE  - SPIEGEL GESCHICHTE HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60182
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SPORT1 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60181
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SUPER RTL [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60180
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",SWR FERNSEHEN BW [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60179
-#EXTINF:-1,DE  - SYFY HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60178
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TELE 5 HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60177
-#EXTINF:-1,DE  - TLC HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60176
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TNT COMEDY HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60136
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TNT FILM HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60135
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",TNT SERIE HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60134
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",VOX [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60165
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",VOX HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60164
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR HD AACHEN [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60163
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR HD BONN [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60162
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR HD DUISBURG  [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60161
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WDR HD WUPPERTAL [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60160
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",WELT HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60159
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZDF [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60158
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZDF_NEO [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60157
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",ZEE ONE [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60156
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DAZN 2 BAR HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60242
-#EXTINF:-1 tvg-name="" group-title="Germany" tvg-country="DE" tvg-logo=" ",DAZN 1 BAR HD [HEVC]
-http://golden-ott.com:80/rich0607/85011C4D8398/60243
+
 
 
 
@@ -1253,759 +1040,738 @@ http://
 
 #EXTINF:-1,#####[B][COLOR lime] TR - ULUSAL [/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",CORONA VIRUS INFO
+#EXTINF:-1 tvg-name="CORONA VIRUS INFO" group-title="Turkey" tvg-country="TR" tvg-logo="",CORONA VIRUS INFO
 http://golden-ott.com:80/rich0607/85011C4D8398/83149
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 1 HD
+#EXTINF:-1 tvg-name="TRT 1 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39774
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 2 HD
+#EXTINF:-1 tvg-name="TRT 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65150
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW HD
+#EXTINF:-1 tvg-name="SHOW HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39772
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL D HD
+#EXTINF:-1 tvg-name="KANAL D HD" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL D HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39770
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ATV HD
+#EXTINF:-1 tvg-name="ATV HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ATV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39768
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",STAR HD
+#EXTINF:-1 tvg-name="STAR HD" group-title="Turkey" tvg-country="TR" tvg-logo="",STAR HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39766
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FOX HD
+#EXTINF:-1 tvg-name="FOX HD" group-title="Turkey" tvg-country="TR" tvg-logo="",FOX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39764
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEYAZ HD
+#EXTINF:-1 tvg-name="BEYAZ HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEYAZ HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65149
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8 HD
+#EXTINF:-1 tvg-name="TV 8 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39762
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8.5 HD
+#EXTINF:-1 tvg-name="TV 8.5 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8.5 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39758
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TLC
+#EXTINF:-1 tvg-name="TLC" group-title="Turkey" tvg-country="TR" tvg-logo="",TLC
 http://golden-ott.com:80/rich0607/85011C4D8398/39707
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 7 HD
+#EXTINF:-1 tvg-name="KANAL 7 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 7 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39754
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 4K
+#EXTINF:-1 tvg-name="TRT 4K" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 4K
 http://golden-ott.com:80/rich0607/85011C4D8398/65148
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",YABAN TV HD
+#EXTINF:-1 tvg-name="YABAN TV HD" group-title="Turkey" tvg-country="TR" tvg-logo="",YABAN TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/195540
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 1 HD PLUS
+#EXTINF:-1 tvg-name="TRT 1 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 1 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39773
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 2 HD PLUS
+#EXTINF:-1 tvg-name="TRT 2 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 2 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/65147
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW HD PLUS
+#EXTINF:-1 tvg-name="SHOW HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39771
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL D HD PLUS
+#EXTINF:-1 tvg-name="KANAL D HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL D HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39769
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ATV HD PLUS
+#EXTINF:-1 tvg-name="ATV HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",ATV HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39767
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",STAR HD PLUS
+#EXTINF:-1 tvg-name="STAR HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",STAR HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39765
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FOX HD PLUS
+#EXTINF:-1 tvg-name="FOX HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",FOX HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39763
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEYAZ HD PLUS
+#EXTINF:-1 tvg-name="BEYAZ HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",BEYAZ HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39760
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8 HD PLUS
+#EXTINF:-1 tvg-name="TV 8 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39761
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8.5 HD PLUS
+#EXTINF:-1 tvg-name="TV 8.5 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8.5 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39759
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TLC HD PLUS
+#EXTINF:-1 tvg-name="TLC HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TLC HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/65146
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 7 HD PLUS
+#EXTINF:-1 tvg-name="KANAL 7 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 7 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39753
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",360 TV HD PLUS
+#EXTINF:-1 tvg-name="360 TV HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",360 TV HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39731
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DMAX HD PLUS
+#EXTINF:-1 tvg-name="DMAX HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",DMAX HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39683
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A2 HD PLUS
+#EXTINF:-1 tvg-name="A2 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",A2 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39757
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TEVE 2 HD PLUS
+#EXTINF:-1 tvg-name="TEVE 2 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TEVE 2 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39756
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW MAX
+#EXTINF:-1 tvg-name="SHOW MAX" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW MAX
 http://golden-ott.com:80/rich0607/85011C4D8398/39755
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 4K PLUS
+#EXTINF:-1 tvg-name="TRT 4K PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT 4K PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/65145
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]  TR - EUROPA [/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW TÜRK EUROPA
+#EXTINF:-1 tvg-name="SHOW TÜRK EUROPA" group-title="Turkey" tvg-country="TR" tvg-logo="",SHOW TÜRK EUROPA
 http://golden-ott.com:80/rich0607/85011C4D8398/39745
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",EURO D
+#EXTINF:-1 tvg-name="EURO D" group-title="Turkey" tvg-country="TR" tvg-logo="",EURO D
 http://golden-ott.com:80/rich0607/85011C4D8398/65135
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ATV EUROPA
+#EXTINF:-1 tvg-name="ATV EUROPA" group-title="Turkey" tvg-country="TR" tvg-logo="",ATV EUROPA
 http://golden-ott.com:80/rich0607/85011C4D8398/39751
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",EURO STAR
+#EXTINF:-1 tvg-name="EURO STAR" group-title="Turkey" tvg-country="TR" tvg-logo="",EURO STAR
 http://golden-ott.com:80/rich0607/85011C4D8398/65134
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 7 EUROPA
+#EXTINF:-1 tvg-name="KANAL 7 EUROPA" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 7 EUROPA
 http://golden-ott.com:80/rich0607/85011C4D8398/39747
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8 INT EUROPA
+#EXTINF:-1 tvg-name="TV 8 INT EUROPA" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 8 INT EUROPA
 http://golden-ott.com:80/rich0607/85011C4D8398/39743
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TGRT EU
+#EXTINF:-1 tvg-name="TGRT EU" group-title="Turkey" tvg-country="TR" tvg-logo="",TGRT EU
 http://golden-ott.com:80/rich0607/85011C4D8398/39679
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL AVRUPA
+#EXTINF:-1 tvg-name="KANAL AVRUPA" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL AVRUPA
 http://golden-ott.com:80/rich0607/85011C4D8398/39680
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",STAR EUROPA
+#EXTINF:-1 tvg-name="STAR EUROPA" group-title="Turkey" tvg-country="TR" tvg-logo="",STAR EUROPA
 http://golden-ott.com:80/rich0607/85011C4D8398/39744
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL D EUROPA
+#EXTINF:-1 tvg-name="KANAL D EUROPA" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL D EUROPA
 http://golden-ott.com:80/rich0607/85011C4D8398/39746
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]  TR - SPOR [/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 1 UHD
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 UHD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 1 UHD
 http://golden-ott.com:80/rich0607/85011C4D8398/49352
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 2 UHD
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 UHD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 2 UHD
 http://golden-ott.com:80/rich0607/85011C4D8398/39562
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 3 UHD
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 UHD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 3 UHD
 http://golden-ott.com:80/rich0607/85011C4D8398/39561
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 4 UHD
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 UHD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 4 UHD
 http://golden-ott.com:80/rich0607/85011C4D8398/39560
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39559
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39558
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 3 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39557
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS 4 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39556
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MAX 1 HD
+#EXTINF:-1 tvg-name="BEIN MAX 1 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MAX 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39555
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MAX 2 HD
+#EXTINF:-1 tvg-name="BEIN MAX 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MAX 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39554
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS HABER HD
+#EXTINF:-1 tvg-name="BEIN SPORTS HABER HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SPORTS HABER HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39545
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SMART SPOR HD
+#EXTINF:-1 tvg-name="SMART SPOR HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SMART SPOR HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39553
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SPORTS TV
+#EXTINF:-1 tvg-name="SPORTS TV" group-title="Turkey" tvg-country="TR" tvg-logo="",SPORTS TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39552
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SARAN SPORT HD
+#EXTINF:-1 tvg-name="SARAN SPORT HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SARAN SPORT HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39551
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TİVİBU SPOR HD PLUS
+#EXTINF:-1 tvg-name="TİVİBU SPOR HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TİVİBU SPOR HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39550
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR 1 HD
+#EXTINF:-1 tvg-name="TIVIBU SPOR 1 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39549
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR 2 HD
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39548
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR 3 HD
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",TIVIBU SPOR 3 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39547
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TAY TV HD PLUS
+#EXTINF:-1 tvg-name="TAY TV HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TAY TV HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39543
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT SPOR HD PLUS
+#EXTINF:-1 tvg-name="TRT SPOR HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT SPOR HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39544
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT SPOR 2 HD+
+#EXTINF:-1 tvg-name="TRT SPOR 2 HD+" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT SPOR 2 HD+
 http://golden-ott.com:80/rich0607/85011C4D8398/199853
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A SPOR HD PLUS
+#EXTINF:-1 tvg-name="A SPOR HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",A SPOR HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39542
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",GS TV
+#EXTINF:-1 tvg-name="GS TV" group-title="Turkey" tvg-country="TR" tvg-logo="",GS TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39539
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BJK TV
+#EXTINF:-1 tvg-name="BJK TV" group-title="Turkey" tvg-country="TR" tvg-logo="",BJK TV
 http://golden-ott.com:80/rich0607/85011C4D8398/65117
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",EUROSPORT 1 HD
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",EUROSPORT 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82488
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",EUROSPORT 2 HD
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",EUROSPORT 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82489
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SPOR SMART HD
+#EXTINF:-1 tvg-name="SPOR SMART HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SPOR SMART HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82477
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SPOR SMART HD
+#EXTINF:-1 tvg-name="SPOR SMART HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SPOR SMART HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82490
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NBA HD
+#EXTINF:-1 tvg-name="NBA HD" group-title="Turkey" tvg-country="TR" tvg-logo="",NBA HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82492
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FIGHT BOX HD
+#EXTINF:-1 tvg-name="FIGHT BOX HD" group-title="Turkey" tvg-country="TR" tvg-logo="",FIGHT BOX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82493
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FB TV HD PLUS
+#EXTINF:-1 tvg-name="FB TV HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",FB TV HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39541
-#EXTINF:-1,VIP TR - SMART SPOR HD
-http://golden-ott.com:80/rich0607/85011C4D8398/73152
-#EXTINF:-1,VIP TR - S-Sport HD
-http://golden-ott.com:80/rich0607/85011C4D8398/73154
-#EXTINF:-1,VIP TR - GS TV
-http://golden-ott.com:80/rich0607/85011C4D8398/73156
-#EXTINF:-1,VIP TR - FB TV
-http://golden-ott.com:80/rich0607/85011C4D8398/73157
-#EXTINF:-1,VIP TR - BJK TV
-http://golden-ott.com:80/rich0607/85011C4D8398/73158
-#EXTINF:-1,VIP TR - EUROSPORT 1
-http://golden-ott.com:80/rich0607/85011C4D8398/73159
-#EXTINF:-1,VIP TR - EUROSPORT 2
-http://golden-ott.com:80/rich0607/85011C4D8398/73160
-#EXTINF:-1,VIP TR - TRT SPOR
-http://golden-ott.com:80/rich0607/85011C4D8398/73161
-#EXTINF:-1,VIP TR - A SPOR
-http://golden-ott.com:80/rich0607/85011C4D8398/73163
-#EXTINF:-1,VIP TR - SPORTS TV HD
-http://golden-ott.com:80/rich0607/85011C4D8398/73150
+
+
+
 #EXTINF:-1,##### [B][COLOR lime] TR - HABER [/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT HABER HD
+#EXTINF:-1 tvg-name="TRT HABER HD" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT HABER HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39741
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",CNN TURK HD PLUS
+#EXTINF:-1 tvg-name="CNN TURK HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",CNN TURK HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39740
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NTV HD PLUS
+#EXTINF:-1 tvg-name="NTV HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",NTV HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39739
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",24 HABER HD PLUS
+#EXTINF:-1 tvg-name="24 HABER HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",24 HABER HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39737
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",HABER GLOBAL HD PLUS
+#EXTINF:-1 tvg-name="HABER GLOBAL HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",HABER GLOBAL HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/65144
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",EKO TÜRK TV
+#EXTINF:-1 tvg-name="EKO TÜRK TV" group-title="Turkey" tvg-country="TR" tvg-logo="",EKO TÜRK TV
 http://golden-ott.com:80/rich0607/85011C4D8398/65143
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV NET HD PLUS
+#EXTINF:-1 tvg-name="TV NET HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TV NET HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39734
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ÜLKE TV HD PLUS
+#EXTINF:-1 tvg-name="ÜLKE TV HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",ÜLKE TV HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39733
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A HABER HD PLUS
+#EXTINF:-1 tvg-name="A HABER HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",A HABER HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39736
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",AKIT TV HD PLUS
+#EXTINF:-1 tvg-name="AKIT TV HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",AKIT TV HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39659
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 100 HD PLUS
+#EXTINF:-1 tvg-name="TV 100 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 100 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/65142
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BLOOMBERG HT HD PLUS
+#EXTINF:-1 tvg-name="BLOOMBERG HT HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",BLOOMBERG HT HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39730
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A PARA HD PLUS
+#EXTINF:-1 tvg-name="A PARA HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",A PARA HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39608
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT WORLD HD PLUS
+#EXTINF:-1 tvg-name="TRT WORLD HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT WORLD HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39607
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",A NEWS HD PLUS
+#EXTINF:-1 tvg-name="A NEWS HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",A NEWS HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39729
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ULUSAL KANAL
+#EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Turkey" tvg-country="TR" tvg-logo="",ULUSAL KANAL
 http://golden-ott.com:80/rich0607/85011C4D8398/39677
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",HALK TV
+#EXTINF:-1 tvg-name="HALK TV" group-title="Turkey" tvg-country="TR" tvg-logo="",HALK TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39678
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TGRT HABER
+#EXTINF:-1 tvg-name="TGRT HABER" group-title="Turkey" tvg-country="TR" tvg-logo="",TGRT HABER
 http://golden-ott.com:80/rich0607/85011C4D8398/39735
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TELE 1
+#EXTINF:-1 tvg-name="TELE 1" group-title="Turkey" tvg-country="TR" tvg-logo="",TELE 1
 http://golden-ott.com:80/rich0607/85011C4D8398/65141
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",UZAY HABER
+#EXTINF:-1 tvg-name="UZAY HABER" group-title="Turkey" tvg-country="TR" tvg-logo="",UZAY HABER
 http://golden-ott.com:80/rich0607/85011C4D8398/39654
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL B
+#EXTINF:-1 tvg-name="KANAL B" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL B
 http://golden-ott.com:80/rich0607/85011C4D8398/39732
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KRT HD
+#EXTINF:-1 tvg-name="KRT HD" group-title="Turkey" tvg-country="TR" tvg-logo="",KRT HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65139
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",HABER TURK HD PLUS
+#EXTINF:-1 tvg-name="HABER TURK HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",HABER TURK HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39738
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 100 BALIKESIR
+#EXTINF:-1 tvg-name="TV 100 BALIKESIR" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 100 BALIKESIR
 http://golden-ott.com:80/rich0607/85011C4D8398/39636
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ARTI TV HD
+#EXTINF:-1 tvg-name="ARTI TV HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ARTI TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82313
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",Can TV HD
+#EXTINF:-1 tvg-name="Can TV HD" group-title="Turkey" tvg-country="TR" tvg-logo="",Can TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82314
+
+
+
 #EXTINF:-1,##### [B][COLOR lime] TR - SINEMA [/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES ACTION HD
+#EXTINF:-1 tvg-name="BEIN MOVIES ACTION HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES ACTION HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39604
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES ACTION 2 HD
+#EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES ACTION 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39603
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES FAMILY HD
+#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES FAMILY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39601
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES PREMIER HD
+#EXTINF:-1 tvg-name="BEIN MOVIES PREMIER HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES PREMIER HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39599
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE SMART PREMIER 2 HD
+#EXTINF:-1 tvg-name="MOVIE SMART PREMIER 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE SMART PREMIER 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39598
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES STARS HD
+#EXTINF:-1 tvg-name="BEIN MOVIES STARS HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES STARS HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39597
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES TURK HD
+#EXTINF:-1 tvg-name="BEIN MOVIES TURK HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN MOVIES TURK HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39596
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES COMEDY HD
+#EXTINF:-1 tvg-name="BEIN SERIES COMEDY HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES COMEDY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65126
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES DRAMA HD
+#EXTINF:-1 tvg-name="BEIN SERIES DRAMA HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES DRAMA HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65125
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES SCI-FI HD
+#EXTINF:-1 tvg-name="BEIN SERIES SCI-FI HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES SCI-FI HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65124
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES VICE HD
+#EXTINF:-1 tvg-name="BEIN SERIES VICE HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN SERIES VICE HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65123
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN BOX OFFICE 1 HD
+#EXTINF:-1 tvg-name="BEIN BOX OFFICE 1 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN BOX OFFICE 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39595
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN BOX OFFICE 2 HD
+#EXTINF:-1 tvg-name="BEIN BOX OFFICE 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN BOX OFFICE 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39594
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN BOX OFFICE 3 HD
+#EXTINF:-1 tvg-name="BEIN BOX OFFICE 3 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN BOX OFFICE 3 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39593
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV YERLI HD
+#EXTINF:-1 tvg-name="SINEMA TV YERLI HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV YERLI HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82454
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV KOMEDI HD
+#EXTINF:-1 tvg-name="SINEMA TV KOMEDI HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV KOMEDI HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82456
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA KOMEDI 2 HD
+#EXTINF:-1 tvg-name="ELIT SINEMA KOMEDI 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA KOMEDI 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82457
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV HD
+#EXTINF:-1 tvg-name="SINEMA TV HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82458
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV 2 HD
+#EXTINF:-1 tvg-name="SINEMA TV 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82459
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV AILE HD
+#EXTINF:-1 tvg-name="SINEMA TV AILE HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV AILE HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82460
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV AILE 2 HD
+#EXTINF:-1 tvg-name="SINEMA TV AILE 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV AILE 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82461
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV ACTION HD
+#EXTINF:-1 tvg-name="SINEMA TV ACTION HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV ACTION HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82462
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV ACTION 2 HD
+#EXTINF:-1 tvg-name="SINEMA TV ACTION 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV ACTION 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82463
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV 1001 HD
+#EXTINF:-1 tvg-name="SINEMA TV 1001 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV 1001 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/172776
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV 1002 HD
+#EXTINF:-1 tvg-name="SINEMA TV 1002 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV 1002 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/172777
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SiNEMA TV AKSiYON HD
+#EXTINF:-1 tvg-name="SiNEMA TV AKSiYON HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SiNEMA TV AKSiYON HD
 http://golden-ott.com:80/rich0607/85011C4D8398/172778
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV AKSIYON 2 HD
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA TV AKSIYON 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/172779
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA TV YERLI 2 HD
+#EXTINF:-1 tvg-name="ELIT SINEMA TV YERLI 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA TV YERLI 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/172780
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE SMART PREMIUM HD
+#EXTINF:-1 tvg-name="MOVIE SMART PREMIUM HD" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE SMART PREMIUM HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82418
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE PREMIUM 2 HD
+#EXTINF:-1 tvg-name="MOVIE PREMIUM 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE PREMIUM 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82419
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA 2
+#EXTINF:-1 tvg-name="SINEMA 2" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA 2
 http://golden-ott.com:80/rich0607/85011C4D8398/82420
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE PLATIN 2 HD
+#EXTINF:-1 tvg-name="MOVIE PLATIN 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE PLATIN 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82421
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA AILE 2 HD
+#EXTINF:-1 tvg-name="SINEMA AILE 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SINEMA AILE 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82422
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE FEST HD
+#EXTINF:-1 tvg-name="MOVIE FEST HD" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE FEST HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82423
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE GOLD HD
+#EXTINF:-1 tvg-name="MOVIE GOLD HD" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE GOLD HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82424
-#EXTINF:-1,TR -DIZI SMART HD
-http://golden-ott.com:80/rich0607/85011C4D8398/82425
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE ACTION HD
+#EXTINF:-1 tvg-name="MOVIE ACTION HD" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE ACTION HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82426
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE TURK HD
+#EXTINF:-1 tvg-name="MOVIE TURK HD" group-title="Turkey" tvg-country="TR" tvg-logo="",MOVIE TURK HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82427
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FX HD
+#EXTINF:-1 tvg-name="FX HD" group-title="Turkey" tvg-country="TR" tvg-logo="",FX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82430
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FOX CRIME HD
+#EXTINF:-1 tvg-name="FOX CRIME HD" group-title="Turkey" tvg-country="TR" tvg-logo="",FOX CRIME HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82431
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",REDBOX BOXSET HD
+#EXTINF:-1 tvg-name="REDBOX BOXSET HD" group-title="Turkey" tvg-country="TR" tvg-logo="",REDBOX BOXSET HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82433
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DIZISMART MAX HD
+#EXTINF:-1 tvg-name="DIZISMART MAX HD" group-title="Turkey" tvg-country="TR" tvg-logo="",DIZISMART MAX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82429
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DiZi PREMIUM HD
+#EXTINF:-1 tvg-name="DiZi PREMIUM HD" group-title="Turkey" tvg-country="TR" tvg-logo="",DiZi PREMIUM HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82428
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL TURK
+#EXTINF:-1 tvg-name="METROPOL TURK" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL TURK
 http://golden-ott.com:80/rich0607/85011C4D8398/84311
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL NETFLIX
+#EXTINF:-1 tvg-name="METROPOL NETFLIX" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL NETFLIX
 http://golden-ott.com:80/rich0607/85011C4D8398/84312
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL KUKUL
+#EXTINF:-1 tvg-name="METROPOL KUKUL" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL KUKUL
 http://golden-ott.com:80/rich0607/85011C4D8398/84313
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL KARE
+#EXTINF:-1 tvg-name="METROPOL KARE" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL KARE
 http://golden-ott.com:80/rich0607/85011C4D8398/84314
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL ANKARA
+#EXTINF:-1 tvg-name="METROPOL ANKARA" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL ANKARA
 http://golden-ott.com:80/rich0607/85011C4D8398/84315
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL AKILLI TAVSAN MOMO
+#EXTINF:-1 tvg-name="METROPOL AKILLI TAVSAN MOMO" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL AKILLI TAVSAN MOMO
 http://golden-ott.com:80/rich0607/85011C4D8398/84316
-#EXTINF:-1,VIP TR - BLU BOX 
-http://golden-ott.com:80/rich0607/85011C4D8398/84310
-#EXTINF:-1,VIP TR - SINEMA TV HD
-http://golden-ott.com:80/rich0607/85011C4D8398/73167
-#EXTINF:-1,VIP TR - SINEMA 1 HD
-http://golden-ott.com:80/rich0607/85011C4D8398/73172
-#EXTINF:-1,VIP TR - SINEMA 2 HD
-http://golden-ott.com:80/rich0607/85011C4D8398/73173
-#EXTINF:-1,VIP TR - Sinema TV Aile 2 HD
-http://golden-ott.com:80/rich0607/85011C4D8398/73174
-#EXTINF:-1,VIP TR - FILM TV 1
-http://golden-ott.com:80/rich0607/85011C4D8398/73177
-#EXTINF:-1,VIP TR - FILM TV 2
-http://golden-ott.com:80/rich0607/85011C4D8398/73178
-#EXTINF:-1,VIP TR - FILM TV 3
-http://golden-ott.com:80/rich0607/85011C4D8398/73179
-#EXTINF:-1,VIP TR - FILM TV 4
-http://golden-ott.com:80/rich0607/85011C4D8398/73180
-#EXTINF:-1,VIP TR - FILM TV 5
-http://golden-ott.com:80/rich0607/85011C4D8398/73181
-#EXTINF:-1,VIP TR - FILM TV 6
-http://golden-ott.com:80/rich0607/85011C4D8398/73182
-#EXTINF:-1,VIP TR - FILM TV 7
-http://golden-ott.com:80/rich0607/85011C4D8398/73183
-#EXTINF:-1,VIP TR - FILMBOX HD
-http://golden-ott.com:80/rich0607/85011C4D8398/73185
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT AKILLI TAVSAN MOMO
+#EXTINF:-1 tvg-name="ELIT AKILLI TAVSAN MOMO" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT AKILLI TAVSAN MOMO
 http://golden-ott.com:80/rich0607/85011C4D8398/65116
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT ANKARA HD
+#EXTINF:-1 tvg-name="ELIT ANKARA HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT ANKARA HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65115
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT ARABESK HD
+#EXTINF:-1 tvg-name="ELIT ARABESK HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT ARABESK HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65114
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT BOX OFFICE HD 1
+#EXTINF:-1 tvg-name="ELIT BOX OFFICE HD 1" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT BOX OFFICE HD 1
 http://golden-ott.com:80/rich0607/85011C4D8398/65113
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT BOX OFFICE HD 2
+#EXTINF:-1 tvg-name="ELIT BOX OFFICE HD 2" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT BOX OFFICE HD 2
 http://golden-ott.com:80/rich0607/85011C4D8398/65112
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT BOX OFFICE HD 3
+#EXTINF:-1 tvg-name="ELIT BOX OFFICE HD 3" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT BOX OFFICE HD 3
 http://golden-ott.com:80/rich0607/85011C4D8398/65111
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD ANIMASYON 1
+#EXTINF:-1 tvg-name="ELIT HD ANIMASYON 1" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD ANIMASYON 1
 http://golden-ott.com:80/rich0607/85011C4D8398/65110
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD ANIMASYON 2
+#EXTINF:-1 tvg-name="ELIT HD ANIMASYON 2" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD ANIMASYON 2
 http://golden-ott.com:80/rich0607/85011C4D8398/65109
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD ANIMASYON 3
+#EXTINF:-1 tvg-name="ELIT HD ANIMASYON 3" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD ANIMASYON 3
 http://golden-ott.com:80/rich0607/85011C4D8398/65108
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD COCUK
+#EXTINF:-1 tvg-name="ELIT HD COCUK" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT HD COCUK
 http://golden-ott.com:80/rich0607/85011C4D8398/65104
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MASA ILE KOCA AYI
+#EXTINF:-1 tvg-name="ELIT MASA ILE KOCA AYI" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MASA ILE KOCA AYI
 http://golden-ott.com:80/rich0607/85011C4D8398/65102
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES FAMILY HD
+#EXTINF:-1 tvg-name="ELIT MOVIES FAMILY HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES FAMILY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65098
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES FESTIVAL HD
+#EXTINF:-1 tvg-name="ELIT MOVIES FESTIVAL HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES FESTIVAL HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65097
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES PREMIER 2 HD
+#EXTINF:-1 tvg-name="ELIT MOVIES PREMIER 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES PREMIER 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65096
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES PREMIER HD
+#EXTINF:-1 tvg-name="ELIT MOVIES PREMIER HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT MOVIES PREMIER HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65095
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NETFLIX 1  HD
+#EXTINF:-1 tvg-name="ELIT NETFLIX 1  HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NETFLIX 1  HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65092
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NETFLIX 2 HD
+#EXTINF:-1 tvg-name="ELIT NETFLIX 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NETFLIX 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65091
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NETFLIX 3 HD
+#EXTINF:-1 tvg-name="ELIT NETFLIX 3 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NETFLIX 3 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65090
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NILOYA TV
+#EXTINF:-1 tvg-name="ELIT NILOYA TV" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT NILOYA TV
 http://golden-ott.com:80/rich0607/85011C4D8398/65089
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT POP HD
+#EXTINF:-1 tvg-name="ELIT POP HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT POP HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65088
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AILE 2 HD
+#EXTINF:-1 tvg-name="ELIT SINEMA AILE 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AILE 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65085
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AILE HD
+#EXTINF:-1 tvg-name="ELIT SINEMA AILE HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AILE HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65084
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AKSIYON 2 HD
+#EXTINF:-1 tvg-name="ELIT SINEMA AKSIYON 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AKSIYON 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65083
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AKSIYON HD
+#EXTINF:-1 tvg-name="ELIT SINEMA AKSIYON HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA AKSIYON HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65082
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA KOMEDI 2 HD
+#EXTINF:-1 tvg-name="ELIT SINEMA KOMEDI 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA KOMEDI 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65081
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA KOMEDI HD
+#EXTINF:-1 tvg-name="ELIT SINEMA KOMEDI HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA KOMEDI HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65080
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA TV 2 HD
+#EXTINF:-1 tvg-name="ELIT SINEMA TV 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA TV 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65079
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA TV HD
+#EXTINF:-1 tvg-name="ELIT SINEMA TV HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65078
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA YERLI 2 HD
+#EXTINF:-1 tvg-name="ELIT SINEMA YERLI 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA YERLI 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65077
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA YERLI HD
+#EXTINF:-1 tvg-name="ELIT SINEMA YERLI HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SINEMA YERLI HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65076
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART ACTION HD
+#EXTINF:-1 tvg-name="ELIT SMART ACTION HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART ACTION HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65074
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART FAMILY HD
+#EXTINF:-1 tvg-name="ELIT SMART FAMILY HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART FAMILY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65072
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART FEST HD
+#EXTINF:-1 tvg-name="ELIT SMART FEST HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART FEST HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65071
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART PLATIN HD
+#EXTINF:-1 tvg-name="ELIT SMART PLATIN HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART PLATIN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65068
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART TURK HD
+#EXTINF:-1 tvg-name="ELIT SMART TURK HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT SMART TURK HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65065
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT YESILCAM 3 HD
+#EXTINF:-1 tvg-name="ELIT YESILCAM 3 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ELIT YESILCAM 3 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65062
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TURK CINEMA 1
+#EXTINF:-1 tvg-name="TURK CINEMA 1" group-title="Turkey" tvg-country="TR" tvg-logo="",TURK CINEMA 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148603
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TURK CINEMA 2
+#EXTINF:-1 tvg-name="TURK CINEMA 2" group-title="Turkey" tvg-country="TR" tvg-logo="",TURK CINEMA 2
 http://golden-ott.com:80/rich0607/85011C4D8398/148604
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",YESIL SINEMA TV
+#EXTINF:-1 tvg-name="YESIL SINEMA TV" group-title="Turkey" tvg-country="TR" tvg-logo="",YESIL SINEMA TV
 http://golden-ott.com:80/rich0607/85011C4D8398/148605
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KEMAL SUNAL TV 4K
+#EXTINF:-1 tvg-name="KEMAL SUNAL TV 4K" group-title="Turkey" tvg-country="TR" tvg-logo="",KEMAL SUNAL TV 4K
 http://golden-ott.com:80/rich0607/85011C4D8398/148606
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 1
+#EXTINF:-1 tvg-name="MEDOTV MIX 1" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148607
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 2
+#EXTINF:-1 tvg-name="MEDOTV MIX 2" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 2
 http://golden-ott.com:80/rich0607/85011C4D8398/148608
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 3
+#EXTINF:-1 tvg-name="MEDOTV MIX 3" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 3
 http://golden-ott.com:80/rich0607/85011C4D8398/148609
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 4
+#EXTINF:-1 tvg-name="MEDOTV MIX 4" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 4
 http://golden-ott.com:80/rich0607/85011C4D8398/148610
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 5
+#EXTINF:-1 tvg-name="MEDOTV MIX 5" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 5
 http://golden-ott.com:80/rich0607/85011C4D8398/148611
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 6
+#EXTINF:-1 tvg-name="MEDOTV MIX 6" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 6
 http://golden-ott.com:80/rich0607/85011C4D8398/148612
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 7
+#EXTINF:-1 tvg-name="MEDOTV MIX 7" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 7
 http://golden-ott.com:80/rich0607/85011C4D8398/148613
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 10
+#EXTINF:-1 tvg-name="MEDOTV MIX 10" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV MIX 10
 http://golden-ott.com:80/rich0607/85011C4D8398/148614
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV KORKU 1
+#EXTINF:-1 tvg-name="MEDOTV KORKU 1" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV KORKU 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148615
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV KOMEDI 1
+#EXTINF:-1 tvg-name="MEDOTV KOMEDI 1" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV KOMEDI 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148616
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV DRAMA 1
+#EXTINF:-1 tvg-name="MEDOTV DRAMA 1" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV DRAMA 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148617
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV WESTERN
+#EXTINF:-1 tvg-name="MEDOTV WESTERN" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV WESTERN
 http://golden-ott.com:80/rich0607/85011C4D8398/148618
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV BILIMKURGU 1
+#EXTINF:-1 tvg-name="MEDOTV BILIMKURGU 1" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV BILIMKURGU 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148619
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV ANIMASYON 1
+#EXTINF:-1 tvg-name="MEDOTV ANIMASYON 1" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV ANIMASYON 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148620
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 1
+#EXTINF:-1 tvg-name="MEDOTV AKSIYON 1" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148621
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 2
+#EXTINF:-1 tvg-name="MEDOTV AKSIYON 2" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 2
 http://golden-ott.com:80/rich0607/85011C4D8398/148622
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 3
+#EXTINF:-1 tvg-name="MEDOTV AKSIYON 3" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 3
 http://golden-ott.com:80/rich0607/85011C4D8398/148623
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 4
+#EXTINF:-1 tvg-name="MEDOTV AKSIYON 4" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV AKSIYON 4
 http://golden-ott.com:80/rich0607/85011C4D8398/148624
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 1
+#EXTINF:-1 tvg-name="MEDOTV TURK SINEMA 1" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148625
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 2
+#EXTINF:-1 tvg-name="MEDOTV TURK SINEMA 2" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 2
 http://golden-ott.com:80/rich0607/85011C4D8398/148626
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 3
+#EXTINF:-1 tvg-name="MEDOTV TURK SINEMA 3" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 3
 http://golden-ott.com:80/rich0607/85011C4D8398/148627
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 4
+#EXTINF:-1 tvg-name="MEDOTV TURK SINEMA 4" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 4
 http://golden-ott.com:80/rich0607/85011C4D8398/148628
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 5
+#EXTINF:-1 tvg-name="MEDOTV TURK SINEMA 5" group-title="Turkey" tvg-country="TR" tvg-logo="",MEDOTV TURK SINEMA 5
 http://golden-ott.com:80/rich0607/85011C4D8398/148629
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO TURK 1
+#EXTINF:-1 tvg-name="ENO TURK 1" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO TURK 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148630
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO ANIMASYON
+#EXTINF:-1 tvg-name="ENO ANIMASYON" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO ANIMASYON
 http://golden-ott.com:80/rich0607/85011C4D8398/148631
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO WESTERN
+#EXTINF:-1 tvg-name="ENO WESTERN" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO WESTERN
 http://golden-ott.com:80/rich0607/85011C4D8398/148632
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 1
+#EXTINF:-1 tvg-name="ENO VIZYON 1" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 1
 http://golden-ott.com:80/rich0607/85011C4D8398/148633
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 2
+#EXTINF:-1 tvg-name="ENO VIZYON 2" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 2
 http://golden-ott.com:80/rich0607/85011C4D8398/148634
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 3
+#EXTINF:-1 tvg-name="ENO VIZYON 3" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 3
 http://golden-ott.com:80/rich0607/85011C4D8398/148635
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 4
+#EXTINF:-1 tvg-name="ENO VIZYON 4" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 4
 http://golden-ott.com:80/rich0607/85011C4D8398/148636
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 5
+#EXTINF:-1 tvg-name="ENO VIZYON 5" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 5
 http://golden-ott.com:80/rich0607/85011C4D8398/148637
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 6
+#EXTINF:-1 tvg-name="ENO VIZYON 6" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 6
 http://golden-ott.com:80/rich0607/85011C4D8398/148638
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 7
+#EXTINF:-1 tvg-name="ENO VIZYON 7" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 7
 http://golden-ott.com:80/rich0607/85011C4D8398/148639
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 8
+#EXTINF:-1 tvg-name="ENO VIZYON 8" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 8
 http://golden-ott.com:80/rich0607/85011C4D8398/148640
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 9
+#EXTINF:-1 tvg-name="ENO VIZYON 9" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 9
 http://golden-ott.com:80/rich0607/85011C4D8398/148641
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 10
+#EXTINF:-1 tvg-name="ENO VIZYON 10" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 10
 http://golden-ott.com:80/rich0607/85011C4D8398/148642
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 11
+#EXTINF:-1 tvg-name="ENO VIZYON 11" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 11
 http://golden-ott.com:80/rich0607/85011C4D8398/148643
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 12
+#EXTINF:-1 tvg-name="ENO VIZYON 12" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 12
 http://golden-ott.com:80/rich0607/85011C4D8398/148644
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 13
+#EXTINF:-1 tvg-name="ENO VIZYON 13" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 13
 http://golden-ott.com:80/rich0607/85011C4D8398/148645
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 14
+#EXTINF:-1 tvg-name="ENO VIZYON 14" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 14
 http://golden-ott.com:80/rich0607/85011C4D8398/148646
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 15
+#EXTINF:-1 tvg-name="ENO VIZYON 15" group-title="Turkey" tvg-country="TR" tvg-logo="",ENO VIZYON 15
 http://golden-ott.com:80/rich0607/85011C4D8398/148647
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 1 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 1 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148648
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 2 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 2 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 2 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148649
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 3 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 3 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 3 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148650
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 4 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 4 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 4 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148651
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 5 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 5 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 5 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148652
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 6 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 6 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 6 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148653
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 7 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 7 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 7 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148654
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 8 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 8 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 8 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148655
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 9 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 9 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 9 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148656
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 10 HD
+#EXTINF:-1 tvg-name="BOSS MOVIES 10 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES 10 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148657
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES KEMAL SUNAL
+#EXTINF:-1 tvg-name="BOSS MOVIES KEMAL SUNAL" group-title="Turkey" tvg-country="TR" tvg-logo="",BOSS MOVIES KEMAL SUNAL
 http://golden-ott.com:80/rich0607/85011C4D8398/148658
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV KORKU HD
+#EXTINF:-1 tvg-name="JUMBOTV KORKU HD" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV KORKU HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148659
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV KOMEDI HD
+#EXTINF:-1 tvg-name="JUMBOTV KOMEDI HD" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV KOMEDI HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148661
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV GERILIM HD
+#EXTINF:-1 tvg-name="JUMBOTV GERILIM HD" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV GERILIM HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148662
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV FANTASTIK HD
+#EXTINF:-1 tvg-name="JUMBOTV FANTASTIK HD" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV FANTASTIK HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148663
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV DRAM HD
+#EXTINF:-1 tvg-name="JUMBOTV DRAM HD" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV DRAM HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148664
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV COCUK HD
+#EXTINF:-1 tvg-name="JUMBOTV COCUK HD" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV COCUK HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148665
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV BIYOGRAFI HD
+#EXTINF:-1 tvg-name="JUMBOTV BIYOGRAFI HD" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV BIYOGRAFI HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148666
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV BILIM-KURGU HD
+#EXTINF:-1 tvg-name="JUMBOTV BILIM-KURGU HD" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV BILIM-KURGU HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148667
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV AKSIYON HD
+#EXTINF:-1 tvg-name="JUMBOTV AKSIYON HD" group-title="Turkey" tvg-country="TR" tvg-logo="",JUMBOTV AKSIYON HD
 http://golden-ott.com:80/rich0607/85011C4D8398/148668
+
+
+
 #EXTINF:-1,##### [B][COLOR lime] TR - KEMAL SUNAL[/COLOR][/B] #####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KEMAL SUNAL TV
+#EXTINF:-1 tvg-name="KEMAL SUNAL TV" group-title="Turkey" tvg-country="TR" tvg-logo="",KEMAL SUNAL TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39565
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]  TR - BELGESEL[/COLOR][/B] #####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT BELGESEL HD PLUS
+#EXTINF:-1 tvg-name="TRT BELGESEL HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT BELGESEL HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39720
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TGRT BELGESEL
+#EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Turkey" tvg-country="TR" tvg-logo="",TGRT BELGESEL
 http://golden-ott.com:80/rich0607/85011C4D8398/39719
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ANIMAL PLANET HD
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" group-title="Turkey" tvg-country="TR" tvg-logo="",ANIMAL PLANET HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39717
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY CHANNEL HD PLUS
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY CHANNEL HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39716
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY SCIENCE HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39715
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NGC HD
+#EXTINF:-1 tvg-name="NGC HD" group-title="Turkey" tvg-country="TR" tvg-logo="",NGC HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39714
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NGC WILD HD PLUS
+#EXTINF:-1 tvg-name="NGC WILD HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",NGC WILD HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39713
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",HISTORY CHANNEL HD
+#EXTINF:-1 tvg-name="HISTORY CHANNEL HD" group-title="Turkey" tvg-country="TR" tvg-logo="",HISTORY CHANNEL HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39710
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN GÜRME HD
+#EXTINF:-1 tvg-name="BEIN GÜRME HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN GÜRME HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39708
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN IZ HD
+#EXTINF:-1 tvg-name="BEIN IZ HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BEIN IZ HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65138
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",24 KITCHEN HD
+#EXTINF:-1 tvg-name="24 KITCHEN HD" group-title="Turkey" tvg-country="TR" tvg-logo="",24 KITCHEN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82324
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BBC EARTH HD
+#EXTINF:-1 tvg-name="BBC EARTH HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BBC EARTH HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82325
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BBC EARTH HD
+#EXTINF:-1 tvg-name="BBC EARTH HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BBC EARTH HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82341
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DA VINCI HD
+#EXTINF:-1 tvg-name="DA VINCI HD" group-title="Turkey" tvg-country="TR" tvg-logo="",DA VINCI HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82327
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DA VINCI HD
+#EXTINF:-1 tvg-name="DA VINCI HD" group-title="Turkey" tvg-country="TR" tvg-logo="",DA VINCI HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82339
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",VIASAT HISTORY HD
+#EXTINF:-1 tvg-name="VIASAT HISTORY HD" group-title="Turkey" tvg-country="TR" tvg-logo="",VIASAT HISTORY HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82328
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",OUTDOOR SMART HD
+#EXTINF:-1 tvg-name="OUTDOOR SMART HD" group-title="Turkey" tvg-country="TR" tvg-logo="",OUTDOOR SMART HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82336
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY SHOWCASE HD
+#EXTINF:-1 tvg-name="DISCOVERY SHOWCASE HD" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY SHOWCASE HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82332
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY SCIENCE EURO HD
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE EURO HD" group-title="Turkey" tvg-country="TR" tvg-logo="",DISCOVERY SCIENCE EURO HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82333
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",FAST FUN HD
+#EXTINF:-1 tvg-name="FAST FUN HD" group-title="Turkey" tvg-country="TR" tvg-logo="",FAST FUN HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82337
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",D MAX HD
+#EXTINF:-1 tvg-name="D MAX HD" group-title="Turkey" tvg-country="TR" tvg-logo="",D MAX HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82340
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]  TR - COCUK[/COLOR][/B] #####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT ÇOCUK HD PLUS
+#EXTINF:-1 tvg-name="TRT ÇOCUK HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT ÇOCUK HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39703
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MINIKA GO
+#EXTINF:-1 tvg-name="MINIKA GO" group-title="Turkey" tvg-country="TR" tvg-logo="",MINIKA GO
 http://golden-ott.com:80/rich0607/85011C4D8398/39701
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MINIKA ÇOCUK
+#EXTINF:-1 tvg-name="MINIKA ÇOCUK" group-title="Turkey" tvg-country="TR" tvg-logo="",MINIKA ÇOCUK
 http://golden-ott.com:80/rich0607/85011C4D8398/39700
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NICK JR
+#EXTINF:-1 tvg-name="NICK JR" group-title="Turkey" tvg-country="TR" tvg-logo="",NICK JR
 http://golden-ott.com:80/rich0607/85011C4D8398/39699
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NICKELODEON HD
+#EXTINF:-1 tvg-name="NICKELODEON HD" group-title="Turkey" tvg-country="TR" tvg-logo="",NICKELODEON HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39698
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DISNEY CHANNEL
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" group-title="Turkey" tvg-country="TR" tvg-logo="",DISNEY CHANNEL
 http://golden-ott.com:80/rich0607/85011C4D8398/39697
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",CARTOON NETWORK
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Turkey" tvg-country="TR" tvg-logo="",CARTOON NETWORK
 http://golden-ott.com:80/rich0607/85011C4D8398/39696
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BOOMERANG HD
+#EXTINF:-1 tvg-name="BOOMERANG HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BOOMERANG HD
 http://golden-ott.com:80/rich0607/85011C4D8398/82350
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BABY TV
+#EXTINF:-1 tvg-name="BABY TV" group-title="Turkey" tvg-country="TR" tvg-logo="",BABY TV
 http://golden-ott.com:80/rich0607/85011C4D8398/82351
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NILOYA TV
+#EXTINF:-1 tvg-name="NILOYA TV" group-title="Turkey" tvg-country="TR" tvg-logo="",NILOYA TV
 http://golden-ott.com:80/rich0607/85011C4D8398/82353
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SMART COCUK HD
+#EXTINF:-1 tvg-name="SMART COCUK HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SMART COCUK HD
 http://golden-ott.com:80/rich0607/85011C4D8398/172775
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]  TR - MUZIK [/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KRAL TV
+#EXTINF:-1 tvg-name="KRAL TV" group-title="Turkey" tvg-country="TR" tvg-logo="",KRAL TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39694
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KRAL POP
+#EXTINF:-1 tvg-name="KRAL POP" group-title="Turkey" tvg-country="TR" tvg-logo="",KRAL POP
 http://golden-ott.com:80/rich0607/85011C4D8398/39693
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",POWER TURK HD PLUS
+#EXTINF:-1 tvg-name="POWER TURK HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",POWER TURK HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39692
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",POWER HD PLUS
+#EXTINF:-1 tvg-name="POWER HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",POWER HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39690
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DREAM TÜRK
+#EXTINF:-1 tvg-name="DREAM TÜRK" group-title="Turkey" tvg-country="TR" tvg-logo="",DREAM TÜRK
 http://golden-ott.com:80/rich0607/85011C4D8398/39691
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NR 1 HD PLUS
+#EXTINF:-1 tvg-name="NR 1 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",NR 1 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39687
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",NR 1 TURK HD PLUS
+#EXTINF:-1 tvg-name="NR 1 TURK HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",NR 1 TURK HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39688
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT MUZIK HD PLUS
+#EXTINF:-1 tvg-name="TRT MUZIK HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT MUZIK HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39725
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL TURKU ON7
+#EXTINF:-1 tvg-name="METROPOL TURKU ON7" group-title="Turkey" tvg-country="TR" tvg-logo="",METROPOL TURKU ON7
 http://golden-ott.com:80/rich0607/85011C4D8398/84318
+
+
+
 #EXTINF:-1,#####[B][COLOR lime]  TR - YEREL[/COLOR][/B] #####
 http://
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT DIYANET
+#EXTINF:-1 tvg-name="TRT DIYANET" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT DIYANET
 http://golden-ott.com:80/rich0607/85011C4D8398/39726
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT TÜRK
+#EXTINF:-1 tvg-name="TRT TÜRK" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT TÜRK
 http://golden-ott.com:80/rich0607/85011C4D8398/39724
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT AVAZ HD PLUS
+#EXTINF:-1 tvg-name="TRT AVAZ HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT AVAZ HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39723
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",VATAN TV
+#EXTINF:-1 tvg-name="VATAN TV" group-title="Turkey" tvg-country="TR" tvg-logo="",VATAN TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39682
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BENGU TURK
+#EXTINF:-1 tvg-name="BENGU TURK" group-title="Turkey" tvg-country="TR" tvg-logo="",BENGU TURK
 http://golden-ott.com:80/rich0607/85011C4D8398/39681
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",CEM TV
+#EXTINF:-1 tvg-name="CEM TV" group-title="Turkey" tvg-country="TR" tvg-logo="",CEM TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39676
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KON TV KONYA
+#EXTINF:-1 tvg-name="KON TV KONYA" group-title="Turkey" tvg-country="TR" tvg-logo="",KON TV KONYA
 http://golden-ott.com:80/rich0607/85011C4D8398/39674
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 42 KONYA
+#EXTINF:-1 tvg-name="KANAL 42 KONYA" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 42 KONYA
 http://golden-ott.com:80/rich0607/85011C4D8398/39673
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",UCAN KUS TV
+#EXTINF:-1 tvg-name="UCAN KUS TV" group-title="Turkey" tvg-country="TR" tvg-logo="",UCAN KUS TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39672
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MELTEM TV
+#EXTINF:-1 tvg-name="MELTEM TV" group-title="Turkey" tvg-country="TR" tvg-logo="",MELTEM TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39668
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 4 HD PLUS
+#EXTINF:-1 tvg-name="TV 4 HD PLUS" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 4 HD PLUS
 http://golden-ott.com:80/rich0607/85011C4D8398/39667
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 5
+#EXTINF:-1 tvg-name="TV 5" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 5
 http://golden-ott.com:80/rich0607/85011C4D8398/39666
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",AKILLI TV
+#EXTINF:-1 tvg-name="AKILLI TV" group-title="Turkey" tvg-country="TR" tvg-logo="",AKILLI TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39658
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ARTI TV
+#EXTINF:-1 tvg-name="ARTI TV" group-title="Turkey" tvg-country="TR" tvg-logo="",ARTI TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39657
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KUDUS TV
+#EXTINF:-1 tvg-name="KUDUS TV" group-title="Turkey" tvg-country="TR" tvg-logo="",KUDUS TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39655
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MILYON TV
+#EXTINF:-1 tvg-name="MILYON TV" group-title="Turkey" tvg-country="TR" tvg-logo="",MILYON TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39653
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV KAYSERI
+#EXTINF:-1 tvg-name="TV KAYSERI" group-title="Turkey" tvg-country="TR" tvg-logo="",TV KAYSERI
 http://golden-ott.com:80/rich0607/85011C4D8398/39652
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 1 KAYSERI
+#EXTINF:-1 tvg-name="TV 1 KAYSERI" group-title="Turkey" tvg-country="TR" tvg-logo="",TV 1 KAYSERI
 http://golden-ott.com:80/rich0607/85011C4D8398/39651
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",MAVI KARADENIZ
+#EXTINF:-1 tvg-name="MAVI KARADENIZ" group-title="Turkey" tvg-country="TR" tvg-logo="",MAVI KARADENIZ
 http://golden-ott.com:80/rich0607/85011C4D8398/39649
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ALTAS TV ORDU
+#EXTINF:-1 tvg-name="ALTAS TV ORDU" group-title="Turkey" tvg-country="TR" tvg-logo="",ALTAS TV ORDU
 http://golden-ott.com:80/rich0607/85011C4D8398/39648
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",ÇAY TV RIZE
+#EXTINF:-1 tvg-name="ÇAY TV RIZE" group-title="Turkey" tvg-country="TR" tvg-logo="",ÇAY TV RIZE
 http://golden-ott.com:80/rich0607/85011C4D8398/39644
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DRT DENIZLI TV
+#EXTINF:-1 tvg-name="DRT DENIZLI TV" group-title="Turkey" tvg-country="TR" tvg-logo="",DRT DENIZLI TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39642
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",REHBER TV
+#EXTINF:-1 tvg-name="REHBER TV" group-title="Turkey" tvg-country="TR" tvg-logo="",REHBER TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39641
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL FIRAT ELAZIG
+#EXTINF:-1 tvg-name="KANAL FIRAT ELAZIG" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL FIRAT ELAZIG
 http://golden-ott.com:80/rich0607/85011C4D8398/39640
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL URFA
+#EXTINF:-1 tvg-name="KANAL URFA" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL URFA
 http://golden-ott.com:80/rich0607/85011C4D8398/39639
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",PAMUKKALE TV
+#EXTINF:-1 tvg-name="PAMUKKALE TV" group-title="Turkey" tvg-country="TR" tvg-logo="",PAMUKKALE TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39637
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 3 ISPARTA
+#EXTINF:-1 tvg-name="KANAL 3 ISPARTA" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 3 ISPARTA
 http://golden-ott.com:80/rich0607/85011C4D8398/39635
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL V ANTALYA
+#EXTINF:-1 tvg-name="KANAL V ANTALYA" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL V ANTALYA
 http://golden-ott.com:80/rich0607/85011C4D8398/39634
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KOZA TV ADANA
+#EXTINF:-1 tvg-name="KOZA TV ADANA" group-title="Turkey" tvg-country="TR" tvg-logo="",KOZA TV ADANA
 http://golden-ott.com:80/rich0607/85011C4D8398/39633
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 58 SIVAS
+#EXTINF:-1 tvg-name="KANAL 58 SIVAS" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 58 SIVAS
 http://golden-ott.com:80/rich0607/85011C4D8398/39630
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TURKMENELI TV HD
+#EXTINF:-1 tvg-name="TURKMENELI TV HD" group-title="Turkey" tvg-country="TR" tvg-logo="",TURKMENELI TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39628
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TEK RUMELI TV
+#EXTINF:-1 tvg-name="TEK RUMELI TV" group-title="Turkey" tvg-country="TR" tvg-logo="",TEK RUMELI TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39670
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",GTV TV ŞANLIURFA
+#EXTINF:-1 tvg-name="GTV TV ŞANLIURFA" group-title="Turkey" tvg-country="TR" tvg-logo="",GTV TV ŞANLIURFA
 http://golden-ott.com:80/rich0607/85011C4D8398/65132
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KENTTÜRK TV KAYSERİ
+#EXTINF:-1 tvg-name="KENTTÜRK TV KAYSERİ" group-title="Turkey" tvg-country="TR" tvg-logo="",KENTTÜRK TV KAYSERİ
 http://golden-ott.com:80/rich0607/85011C4D8398/65131
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TVDEN AYDIN
+#EXTINF:-1 tvg-name="TVDEN AYDIN" group-title="Turkey" tvg-country="TR" tvg-logo="",TVDEN AYDIN
 http://golden-ott.com:80/rich0607/85011C4D8398/65130
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TVO
+#EXTINF:-1 tvg-name="TVO" group-title="Turkey" tvg-country="TR" tvg-logo="",TVO
 http://golden-ott.com:80/rich0607/85011C4D8398/65129
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 32 ISPARTA HD
+#EXTINF:-1 tvg-name="KANAL 32 ISPARTA HD" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL 32 ISPARTA HD
 http://golden-ott.com:80/rich0607/85011C4D8398/65128
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BRT 1 HD
+#EXTINF:-1 tvg-name="BRT 1 HD" group-title="Turkey" tvg-country="TR" tvg-logo="",BRT 1 HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39626
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",BRT 2
+#EXTINF:-1 tvg-name="BRT 2" group-title="Turkey" tvg-country="TR" tvg-logo="",BRT 2
 http://golden-ott.com:80/rich0607/85011C4D8398/39625
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KIBRIS TV
+#EXTINF:-1 tvg-name="KIBRIS TV" group-title="Turkey" tvg-country="TR" tvg-logo="",KIBRIS TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39624
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KIBRIS ADA TV
+#EXTINF:-1 tvg-name="KIBRIS ADA TV" group-title="Turkey" tvg-country="TR" tvg-logo="",KIBRIS ADA TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39623
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL T KIBRIS
+#EXTINF:-1 tvg-name="KANAL T KIBRIS" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL T KIBRIS
 http://golden-ott.com:80/rich0607/85011C4D8398/39621
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KIBRIS GENC TV
+#EXTINF:-1 tvg-name="KIBRIS GENC TV" group-title="Turkey" tvg-country="TR" tvg-logo="",KIBRIS GENC TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39620
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",LALEGUL TV
+#EXTINF:-1 tvg-name="LALEGUL TV" group-title="Turkey" tvg-country="TR" tvg-logo="",LALEGUL TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39613
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",SEMERKAND TV HD
+#EXTINF:-1 tvg-name="SEMERKAND TV HD" group-title="Turkey" tvg-country="TR" tvg-logo="",SEMERKAND TV HD
 http://golden-ott.com:80/rich0607/85011C4D8398/39617
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",DOST TV
+#EXTINF:-1 tvg-name="DOST TV" group-title="Turkey" tvg-country="TR" tvg-logo="",DOST TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39618
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",AL QURAN TV
+#EXTINF:-1 tvg-name="AL QURAN TV" group-title="Turkey" tvg-country="TR" tvg-logo="",AL QURAN TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39616
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KABE TV
+#EXTINF:-1 tvg-name="KABE TV" group-title="Turkey" tvg-country="TR" tvg-logo="",KABE TV
 http://golden-ott.com:80/rich0607/85011C4D8398/39615
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL T
+#EXTINF:-1 tvg-name="KANAL T" group-title="Turkey" tvg-country="TR" tvg-logo="",KANAL T
 http://golden-ott.com:80/rich0607/85011C4D8398/39664
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT EBA TV HD ORTAOKUL ◉ 
+#EXTINF:-1 tvg-name="TRT EBA TV HD ORTAOKUL" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT EBA TV HD ORTAOKUL
 http://golden-ott.com:80/rich0607/85011C4D8398/83220
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT EBA TV HD LISE ◉ 
+#EXTINF:-1 tvg-name="TRT EBA TV HD LISE" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT EBA TV HD LISE
 http://golden-ott.com:80/rich0607/85011C4D8398/83221
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",TRT EBA TV HD ILKOKUL ◉ 
+#EXTINF:-1 tvg-name="TRT EBA TV HD ILKOKUL " group-title="Turkey" tvg-country="TR" tvg-logo="",TRT EBA TV HD ILKOKUL 
 http://golden-ott.com:80/rich0607/85011C4D8398/83222
-#EXTINF:-1 tvg-name="" group-title="Turkey" tvg-country="TR" tvg-logo="",YOL TV 
+#EXTINF:-1 tvg-name="YOL TV " group-title="Turkey" tvg-country="TR" tvg-logo="",YOL TV 
 http://golden-ott.com:80/rich0607/85011C4D8398/73047
 
 
