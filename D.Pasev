@@ -14,7 +14,7 @@ https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50256f/playlist.m3u8?be
 #EXTINF:-1 tvg-name="BTV" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BTV-logo.png/120px-BTV-logo.png",bTV
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5024fd/playlist.m3u8?begin=1626717600&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
 #EXTINF:-1 tvg-name="Nova" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://nstatic.nova.bg/files/nova/images/nova-logo.png", Nova
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502595/playlist.m3u8?begin=1626717600&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
+https://play.elemental.tv/4ff0d68c-3b82-4076-8c83-86b34a9ee5ac
 #EXTINF:0  tvg-name="Nova News" tvg-country="BG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/FB_IMG_1605449680290-removebg-preview.png/revision/latest/scale-to-width-down/340?cb=20201203181951",NovaNews
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502501/playlist.m3u8?begin=1626721200&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
 #EXTINF:-1 tvg-name="Evropa TV" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tv_evropa.svg/1200px-Tv_evropa.svg.png", tveurope
