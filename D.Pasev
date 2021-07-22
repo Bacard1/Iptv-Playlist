@@ -8,7 +8,7 @@ http://
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Bulgaria",[B][COLOR lime]--Национални--[/COLOR][/B]
 http://
 
-#EXTINF:-1 tvg-name="BNT1" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png",BNT1
+#EXTINF:-1 tvg-name="BNT 1" tvg-id="BNT1.bg" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png",BNT 1
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.898f3d8fab9d7db22de3f12e956ad2224cf760627b/0.m3u8?begin=1626921600
 https://@:play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.898f3d8fab9d7db22de3f12e956ad2224cf760627b/0.m3u8?begin=1626922800
 #EXTINF:-1 tvg-name="БНТ2" tvg-id="" tvg-id="" group-title="Bulgaria" tvg-country="BG"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/BNT2.png",BNT2
