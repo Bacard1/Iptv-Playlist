@@ -5,6 +5,7 @@ http://
 http://
 
 
+
 #EXTINF:-1 tvg-name="BNT 1" tvg-id="BNT1.bg" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png",BNT 1
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627898400
 #EXTINF:-1 tvg-name="БНТ2" tvg-id="" tvg-id="" group-title="Bulgaria" tvg-country="BG"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/BNT2.png",BNT2
@@ -294,8 +295,8 @@ https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502592/t.d73e9beb628a3f
 
 
 
-
-#EXTINF:-1 tvg-name="" BG EPG codes group-title="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" group-title="Russian",[B][COLOR red]<<<--RUSSIAN-->>>[/COLOR][/B]
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" group-title="Russian",[B][COLOR red]<<<--RUSSIAN-->>>[/COLOR][/B]
 http://
 
 
@@ -650,7 +651,7 @@ http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
 
 
 
-
+#EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" group-title="Germany",[B][COLOR red]<<<--GERMANY-->>>[/COLOR][/B]
 http://
 #EXTINF:-1,##### [B][COLOR lime]<<<--DE - FTA-->>>[/COLOR][/B] #####
@@ -1031,7 +1032,7 @@ http://golden-ott.com:80/rich0607/85011C4D8398/186069
 http://golden-ott.com:80/rich0607/85011C4D8398/186071
 
 
-
+#EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" group-title="United Kingdom",[B][COLOR red]<<<--UNITED KINGDOM-->>>[/COLOR][/B]
 http://
 
@@ -1329,6 +1330,7 @@ http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38691
 
 
 
+#EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/220px-Flag_of_Turkey.svg.png" group-title="Turkey",[B][COLOR red]<<<--TURKEY-->>>[/COLOR][/B]
 http://
 
@@ -1354,7 +1356,7 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-name="Kanal 7" tvg-country="TR" group-title="Turkey" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:-1 Avrupa" tvg-name="Kanal 7 Avrupa" tvg-country="TR" group-title="Turkey" tvg-logo="https://i.ibb.co/1rhzvp0/kanal7avrupa.png",Kanal 7 Avrupa
+#EXTINF:-1 tvg-name="Kanal 7 Avrupa" tvg-country="TR" group-title="Turkey" tvg-logo="https://i.ibb.co/1rhzvp0/kanal7avrupa.png",Kanal 7 Avrupa
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-country="TR" group-title="Turkey" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
 #https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
@@ -1469,7 +1471,7 @@ https://vizyontv.yayin.com.tr/vizyon-muzik/vizyon-muzik/chunklist_w1377171363.m3
 
 
 
-
+#EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",[B][COLOR red]<<<--EROTIK-->>>[/COLOR][/B]
 http://
 
