@@ -1,15 +1,8 @@
-Available EPG codes
-These are NOT channels/streams!!!
-Last update: 2021-05-10
-
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/2560px-Flag_of_Bulgaria.svg.png" group-title="Bulgaria",[B][COLOR red]<<<--BULGARIA-->>>[/COLOR][/B]
 http://
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Bulgaria",[B][COLOR lime]--Национални--[/COLOR][/B]
 http://
-#EXTM3U
-#EXTINF:0,Channel 1
-blob:https://play.elemental.tv/9dc4f4df-4dfc-49a7-a7b5-904e830422e5
 
 #EXTM3U
 #EXTINF:-1 tvg-name="BNT 1" tvg-id="BNT1.bg" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png",BNT 1
