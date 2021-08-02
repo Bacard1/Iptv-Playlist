@@ -7,23 +7,25 @@ Last update: 2021-05-10
 http://
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Bulgaria",[B][COLOR lime]--Национални--[/COLOR][/B]
 http://
+#EXTM3U
+#EXTINF:0,Channel 1
+blob:https://play.elemental.tv/9dc4f4df-4dfc-49a7-a7b5-904e830422e5
 
+#EXTM3U
 #EXTINF:-1 tvg-name="BNT 1" tvg-id="BNT1.bg" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png",BNT 1
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.898f3d8fab9d7db22de3f12e956ad2224cf760627b/0.m3u8?begin=1626921600
-https://@:play.elemental.tv/channels
-https://@:play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.898f3d8fab9d7db22de3f12e956ad2224cf760627b/0.m3u8?begin=1626922800
+https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/playpatch
 #EXTINF:-1 tvg-name="БНТ2" tvg-id="" tvg-id="" group-title="Bulgaria" tvg-country="BG"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/BNT2.png",BNT2
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502513/playlist.m3u8?begin=1626721200&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42 https://@:https://play.elemental.tv/channels
 #EXTINF:-1 tvg-name="БНТ3" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BNT3.png/400px-BNT3.png", BNT3
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502511/playlist.m3u8?begin=1626721200&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
 #EXTINF:-1 tvg-name="БНТ4" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BNT4.png",BNT4
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50256f/t.e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42/LO/30064.ts?vod=1
+https://e100-ts.cdn.bg/bnt1/fls/bntW.stream/at=O0M9ODcuMTczLjIzNS4xOTQ7RT0xNjI3MDM3MjYwO0E9MTtLPTM7UD0wMTExMDtTPTY1OTRhZjY5M2NlYTY5ODhmNmMzOTQ5MGFhNGExYjAwOThlOGQ5NTY=/chunklist.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BTV-logo.png/120px-BTV-logo.png",bTV
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5024fd/playlist.m3u8?begin=1626890400&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
+https://www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js
 #EXTINF:-1 tvg-name="Nova" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://nstatic.nova.bg/files/nova/images/nova-logo.png", Nova
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502595/playlist.m3u8?begin=1626903000&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
+https://e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/chunklist.m3u8?at=8bf5b76c854325e4b08dca2608af8d9d
 #EXTINF:0  tvg-name="Nova News" tvg-id="" tvg-country="BG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/FB_IMG_1605449680290-removebg-preview.png/revision/latest/scale-to-width-down/340?cb=20201203181951",NovaNews
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502501/playlist.m3u8?begin=1626721200&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
+https://e113-ts.cdn.bg/ntv/fls/NNHD.stream/chunklist.m3u8?at=8bf5b76c854325e4b08dca2608af8d9d
 #EXTINF:-1 tvg-name="Evropa TV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tv_evropa.svg/1200px-Tv_evropa.svg.png", tveurope
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502534/playlist.m3u8?begin=1626721500&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
 #EXTINF:-1 tvg-name="Alfa TV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="http://www.predavatel.com/bg/tv/images/alfatv.png", Alfa
@@ -74,7 +76,7 @@ http://
 #EXTINF:-1 tvg-name="BTV Action" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/44/BTV_Action_Logo.png",bTVAction
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50250c/playlist.m3u8?begin=1626903000&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
 #EXTINF:-1 tvg-name="BTV Comedy" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Btv-Comedy.jpg",bTVComedy
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502502/playlist.m3u8?begin=1626721200&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
+https://raw.githubusercontent.com/Bacard1/Iptv-Playlist/main/btv%20comedy.m3u
 #EXTINF:-1 tvg-name="BTV Cinema" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BTV_Cinema_2016_logo.png/800px-BTV_Cinema_2016_logo.png",bTVCinema
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50250b/t.e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42/0.m3u8?begin=1626897600
 #EXTINF:-1 tvg-name="BTV Lady" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://img.favpng.com/22/20/4/btv-lady-television-in-bulgaria-logo-png-favpng-7KuLNXDSKKavFYUwgNDDaFWnw.jpg",bTVLady
