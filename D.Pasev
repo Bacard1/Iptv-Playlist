@@ -1494,7 +1494,7 @@ http://yeninesiliptv.com:8080/ediz99/ediz9999/53532
 http://yeninesiliptv.com:8080/ediz99/ediz9999/53538
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pics.onsizzle.com/brazzers-tv-europe-index-of-logos-49171550.png" group-title="XXX",BRAZZERS TV EUROPE
 http://yeninesiliptv.com:8080/ediz99/ediz9999/53531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/149684440837_barely_legal_tv.jpg" group-title="XXX",BARELY LEGAL
+#EXTINF:-1 tvg-id="https://ntvplus.ru./channel/barely-legal-446" tvg-name="" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/149684440837_barely_legal_tv.jpg" group-title="XXX",BARELY LEGAL
 http://yeninesiliptv.com:8080/ediz99/ediz9999/53528
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Balkan_Erotic_HD.png" group-title="XXX",BALKAN EROTIC HD
 http://yeninesiliptv.com:8080/ediz99/ediz9999/53527
@@ -1512,13 +1512,13 @@ http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Beate-Uhse.TV_Logo.png" group-title="XXX", Beate Uhse HD
 http://5.146.116.76:8001/1:0:19:85:1:85:FFFF0000:0:0:0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png" group-title="XXX", Playboy TV
+#EXTINF:-1  tvg-id="https://ntvplus.ru./channel/playboy-tv-156"  tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png" group-title="XXX", Playboy TV
 http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c9/f9/65/c9f9654bc37af2d0935cd7cd2824ebfc.jpg" group-title="XXX", Blue Hustler
+#EXTINF:-1 tvg-id="https://ntvplus.ru./channel/blue-hustler-12" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c9/f9/65/c9f9654bc37af2d0935cd7cd2824ebfc.jpg" group-title="XXX", Blue Hustler
 http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.starnet.cz/tv/leotvextasy.png" group-title="XXX", Extasy/LeoTV HD 
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ntvplus.tv/files/image/07/10/28/r01.png" group-title="XXX",Русская ночь
+#EXTINF:-1 tvg-id="https://ntvplus.ru./channel/russkaya-noch-77" tvg-name="" tvg-logo="https://ntvplus.tv/files/image/07/10/28/r01.png" group-title="XXX",Русская ночь
 http://93.189.224.117:9030/russkayanoch
 #EXTINF:0  tvg-id="HustlerTV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f2/Hustler_TV_Logo.svg/2000px-Hustler_TV_Logo.svg.png" group-title="XXX",Hustler TV
 http://78.83.191.18:8000/play/a078
