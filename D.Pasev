@@ -76,7 +76,7 @@ http://
 #EXTINF:-1 tvg-name="BTV Action" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/44/BTV_Action_Logo.png",bTVAction
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50250c/playlist.m3u8?begin=1626903000&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
 #EXTINF:-1 tvg-name="BTV Comedy" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Btv-Comedy.jpg",bTVComedy
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502502/playlist.m3u8?begin=1627902000&access_token=d73e9beb628a3f269711b3303c95b2a8301bb227aa
+https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502502/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/3.m3u8?begin=1627902000
 #EXTINF:-1 tvg-name="BTV Cinema" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BTV_Cinema_2016_logo.png/800px-BTV_Cinema_2016_logo.png",bTVCinema
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50250b/t.e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42/0.m3u8?begin=1626897600
 #EXTINF:-1 tvg-name="BTV Lady" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://img.favpng.com/22/20/4/btv-lady-television-in-bulgaria-logo-png-favpng-7KuLNXDSKKavFYUwgNDDaFWnw.jpg",bTVLady
