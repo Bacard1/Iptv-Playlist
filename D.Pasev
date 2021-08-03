@@ -1,18 +1,9 @@
-<genres>
-  <name>My Streams Genres Mappings</name>
-  <genre genreId="0x10">Bulgaria</genre>               <!-- General Movie/Drama - 0x10 in DVB hex-->
-  <genre genreId="0x10">Russian</genre>      <!-- General Movie/Drama - 0x10 in DVB hex-->
-  <genre genreId="0x10">Germany</genre>     <!-- General Movie/Drama - 0x10 in DVB hex-->
-  <genre genreId="0x30">United Kingdom</genre>             <!-- Show/Game Show - 0x30 in DVB hex-->
-  <genre genreId="0x30">Turkey</genre>           <!-- Show/Game Show - 0x30 in DVB hex-->
-  <genre genreId="0x30">XXX</genre>           <!-- Show/Game Show - 0x30 in DVB hex-->
 
-</genres>
 
 #EXTM3U 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/2560px-Flag_of_Bulgaria.svg.png" group-title="Bulgaria",[B][COLOR red]<<<--BULGARIA-->>>[/COLOR][/B]
 https://
-#EXTM3U 
+#EXTM3U tvg-shift="-2" x-tvg-url="https://raw.githubusercontent.com/Bacard1/EPG/main/BG.xml"
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Bulgaria",[B][COLOR lime]--Национални--[/COLOR][/B]
 https://
 
@@ -80,8 +71,8 @@ https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502582/t.d73e9beb628a3f
 http://
 #EXTINF:-1 tvg-name="BTV Action" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/btv-action/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/44/BTV_Action_Logo.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50250c/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",bTVAction
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50250c/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627995600
-#EXTINF:-1 tvg-name="BTV Comedy" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/btv-comedy/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Btv-Comedy.jpg" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502502/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",bTVComedy
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502502/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627999200
+#EXTINF:-1 tvg-name="BTV Comedy" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/btv-comedy/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502502/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",bTVComedy
+https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502502/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/1.m3u8?begin=1628024400
 #EXTINF:-1 tvg-name="BTV Cinema" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/btv-cinema/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BTV_Cinema_2016_logo.png/800px-BTV_Cinema_2016_logo.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50250b/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",bTVCinema
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50250b/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627998300
 #EXTINF:-1 tvg-name="BTV Lady" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/btv-lady/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://img.favpng.com/22/20/4/btv-lady-television-in-bulgaria-logo-png-favpng-7KuLNXDSKKavFYUwgNDDaFWnw.jpg" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502524/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",bTVLady
@@ -306,7 +297,7 @@ https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502592/t.d73e9beb628a3f
 
 
 
-#EXTM3U
+#EXTM3U tvg-shift="-2" x-tvg-url=" http://epg.it999.ru/edem.xml.gz | gunzip> path_to_tvheadend/config/data/guide.xml"
 #EXTINF:-1 tvg-name="" group-title="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" group-title="Russian",[B][COLOR red]<<<--RUSSIAN-->>>[/COLOR][/B]
 http://
 
