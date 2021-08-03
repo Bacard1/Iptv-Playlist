@@ -82,7 +82,7 @@ https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502521/t.d73e9beb628a3f
 #EXTINF:-1 tvg-name="Fox" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/fox-channel/" group-title="Bulgaria" tvg-country="BG" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1200px-FOX_HD.svg.png",Fox
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502516/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627906800
 #EXTINF:-1 tvg-name="Fox Crime" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/fox-crime/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/FOX_Crime_BG.png", FoxCrime
-https://raw.githubusercontent.com/Bacard1/Iptv-Playlist/main/Fox%20Crime
+chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#https://github.com/Bacard1/Iptv-Playlist/raw/main/FoxCrime.m3u8
 #EXTINF:-1 tvg-name="Fox Life" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/fox-life/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png",FoxLife
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50251b/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627906200
 #EXTINF:-1 tvg-name="Kino Nova" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/kinonova/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/KinoNova.png",KinoNova
