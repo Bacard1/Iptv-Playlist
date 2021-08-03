@@ -1,3 +1,14 @@
+<genres>
+  <name>My Streams Genres Mappings</name>
+  <genre genreId="0x10">Bulgaria</genre>               <!-- General Movie/Drama - 0x10 in DVB hex-->
+  <genre genreId="0x10">Russian</genre>      <!-- General Movie/Drama - 0x10 in DVB hex-->
+  <genre genreId="0x10">Germany</genre>     <!-- General Movie/Drama - 0x10 in DVB hex-->
+  <genre genreId="0x30">United Kingdom</genre>             <!-- Show/Game Show - 0x30 in DVB hex-->
+  <genre genreId="0x30">Turkey</genre>           <!-- Show/Game Show - 0x30 in DVB hex-->
+  <genre genreId="0x30">XXX</genre>           <!-- Show/Game Show - 0x30 in DVB hex-->
+
+</genres>
+
 #EXTM3U 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/2560px-Flag_of_Bulgaria.svg.png" group-title="Bulgaria",[B][COLOR red]<<<--BULGARIA-->>>[/COLOR][/B]
 https://
