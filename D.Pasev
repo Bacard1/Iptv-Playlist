@@ -8,19 +8,19 @@ http://
 
 #EXTINF:0 tvg-name="BNT 1" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png" catchup="default" ,BNT 1
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/3.m3u8?begin=1627985700
-#EXTINF:-1 tvg-name="БНТ2" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt2/" tvg-id="" group-title="Bulgaria" tvg-country="BG"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/BNT2.png",BNT2
+#EXTINF:-1 tvg-name="БНТ2" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt2/" tvg-id="" group-title="Bulgaria" tvg-country="BG"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/BNT2.png" catchup="default",BNT2
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502513/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627909200
-#EXTINF:-1 tvg-name="БНТ3" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt-hd/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BNT3.png/400px-BNT3.png", BNT3
+#EXTINF:-1 tvg-name="БНТ3" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt-hd/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BNT3.png/400px-BNT3.png" catchup="default", BNT3
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502511/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627909200
-#EXTINF:-1 tvg-name="БНТ4" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt-world/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BNT4.png",BNT4
+#EXTINF:-1 tvg-name="БНТ4" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt-world/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BNT4.png" catchup="default",BNT4
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50256f/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627909200
-#EXTINF:-1 tvg-name="BTV" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/btv/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BTV-logo.png/120px-BTV-logo.png",bTV
+#EXTINF:-1 tvg-name="BTV" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/btv/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BTV-logo.png/120px-BTV-logo.png" catchup="default",bTV
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5024fd/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627903800
 #EXTINF:0 tvg-name="Nova" tvg-id="https://nova.bg/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://nstatic.nova.bg/files/nova/images/nova-logo.png"catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502595/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="10", Nova
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502595/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627905600
-#EXTINF:0  tvg-name="Nova News" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/nova-news/" tvg-country="BG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/FB_IMG_1605449680290-removebg-preview.png/revision/latest/scale-to-width-down/340?cb=20201203181951",NovaNews
+#EXTINF:0  tvg-name="Nova News" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/nova-news/" tvg-country="BG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/FB_IMG_1605449680290-removebg-preview.png/revision/latest/scale-to-width-down/340?cb=20201203181951" catchup="default",NovaNews
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502501/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/1.m3u8?begin=1627910100
-#EXTINF:-1 tvg-name="Evropa TV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tv_evropa.svg/1200px-Tv_evropa.svg.png", tveurope
+#EXTINF:-1 tvg-name="Evropa TV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tv_evropa.svg/1200px-Tv_evropa.svg.png" catchup="default", tveurope
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502534/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/1.m3u8?begin=1627909800
 #EXTINF:-1 tvg-name="Alfa TV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="http://www.predavatel.com/bg/tv/images/alfatv.png", Alfa
 http://golden-ott.com:80/rich0607/85011C4D8398/70192
