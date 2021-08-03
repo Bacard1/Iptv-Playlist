@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/2560px-Flag_of_Bulgaria.svg.png" group-title="Bulgaria",[B][COLOR red]<<<--BULGARIA-->>>[/COLOR][/B]
 https://
 #EXTM3U 
-#EXTINF:0tvg-name="" tvg-id="" tvg-logo="" group-title="Bulgaria",[B][COLOR lime]--Национални--[/COLOR][/B]
+#EXTINF:0 tvg-name="" tvg-id="" tvg-logo="" group-title="Bulgaria",[B][COLOR lime]--Национални--[/COLOR][/B]
 https://
 
 
