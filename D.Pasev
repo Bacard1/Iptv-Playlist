@@ -103,7 +103,7 @@ http://golden-ott.com:80/rich0607/85011C4D8398/21578
 http://golden-ott.com:80/rich0607/85011C4D8398/21575
 #EXTINF:-1 tvg-name="CINEMANIA" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://cinemania.ae/images/cinemanialogo.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5025c0/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",Cinemania
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5025c0/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627995600
-#EXTINF:-1 tvg-name="Cinemax 1" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/cinemax/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" catchup="default" catchup-source="/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",CineMax1
+#EXTINF:-1 tvg-name="Cinemax 1" tvg-id="Cinemax.bg" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" catchup="default" catchup-source="/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",CineMax1
 http://golden-ott.com:80/rich0607/85011C4D8398/184934
 #EXTINF:-1 tvg-name="Cinemax 2" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png catchup="default" catchup-source="/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",CineMax2
 http://tegusta.tv:8000/carmelo/carmelo123/35943
