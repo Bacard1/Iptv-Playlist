@@ -46,7 +46,7 @@ https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502509/t.d73e9beb628a3f
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5025a7/playlist.m3u8?begin=1626722700&access_token=e75ae20ab75c362a9b17bdee9a523ad6ac94fe1f42
 #EXTINF:-1  tvg-name="Fishing & Hunting Channel" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/hu-fishing-hunting-channel-8171.jpg" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50255b/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3" ,Fishing & Hunting Channel
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50255b/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1628001000
-#EXTINF:-1  tvg-name="BSTV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/BSTV_Logo.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502586/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3" ,БСТВ
+#EXTINF:-1  tvg-name="BSTV" tvg-id="https://www.vivacom.bg/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/BSTV_Logo.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502586/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3" ,БСТВ
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502586/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627997400
 
 
