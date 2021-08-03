@@ -201,11 +201,11 @@ http://golden-ott.com:80/rich0607/85011C4D8398/21555
 http://api.gostartv.com:8080/bkAgaiiwjU/Oys7zInPZB/1526
 #EXTINF:0  tvg-name="CBS Reality" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/cbs-reality/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5025ae/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",CBS Reality
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5025ae/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627996200
-#EXTINF:-1 tvg-name="GINXTV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="E:\Program's\Kodi\Logo Kanali\Viasat History.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5025af/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",GiNX
+#EXTINF:-1 tvg-name="GINXTV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/1280px-GINX_Esports_TV_Logo_flat.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5025af/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",GiNX
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5025af/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627999200
 #EXTINF:-1 tvg-name="Viasat Explore" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/viasat-explorer/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" catchup="default" catchup-source="/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",ViasatExplorer
 http://golden-ott.com:80/rich0607/85011C4D8398/70191
-#EXTINF:-1 tvg-name="Viasat History" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/viasat-history/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/1200px-Viasat_History_Logo.jpg" catchup="default" catchup-source="/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",Viasat History
+#EXTINF:-1 tvg-name="Viasat History" tvg-id="https://www.potv.bg/tv-programa/viasat-history.html" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/1200px-Viasat_History_Logo.jpg" catchup="default" catchup-source="/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",Viasat History
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50251c/t.7f1cbe919e9b60077562b197474889057d8dececc9/0.m3u8?begin=1626264000
 #EXTINF:-1 tvg-name="Wnnes TV" tvg-id="" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/wness-tv-logo.png" catchup="default" catchup-source="/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",wness
 https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -1512,7 +1512,7 @@ http://api.gostartv.com:8080/bkAgaiiwjU/Oys7zInPZB/1584
 #http://yeninesiliptv.com:8080/ediz99/ediz9999/53532
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/detail/146-1463388_erotic2-logo-erotic-2-tv.png" group-title="XXX",erotic 2
 http://yeninesiliptv.com:8080/ediz99/ediz9999/53538
-#EXTINF:-1 tvg-name="Brazzers tv Europa" tvg-id="https://programtv.onet.pl/program-tv/brazzers-tv-europe-279" tvg-logo="https://pics.onsizzle.com/brazzers-tv-europe-index-of-logos-49171550.png" group-title="XXX",BRAZZERS TV EUROPE
+#EXTINF:-1 tvg-name="Brazzers tv Europa" tvg-id="https://www.filmweb.pl/program-tv/Brazzers+TV+Europe" tvg-logo="https://pics.onsizzle.com/brazzers-tv-europe-index-of-logos-49171550.png" group-title="XXX",BRAZZERS TV EUROPE
 http://yeninesiliptv.com:8080/ediz99/ediz9999/53531
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Brazzers HD
 http://api.gostartv.com:8080/bkAgaiiwjU/Oys7zInPZB/11930
