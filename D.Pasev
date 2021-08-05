@@ -8,15 +8,16 @@ https://
 https://
 
 
+
 #EXTINF:-1 catchup="fs" tvg-name="BNT 1" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png" ,BNT1
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/playlist.m3u8?begin=1628100000&access_token=d73e9beb628a3f269711b3303c95b2a8301bb227aa
 
 #EXTINF:-1 catchup="fs" tvg-name="БНТ2" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt2/" tvg-id="" group-title="Bulgaria" tvg-country="BG"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/BNT2.png",BNT2
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502513/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627993800
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5024fd/playlist.m3u8?begin=1628092800&access_token=d73e9beb628a3f269711b3303c95b2a8301bb227aa
+
+
 #EXTINF:-1 tvg-name="БНТ3" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt-hd/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BNT3.png/400px-BNT3.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502511/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3", BNT3
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502511/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627985700
 #EXTINF:-1 tvg-name="БНТ4" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt-world/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BNT4.png" catchup="default" catchup-source="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50256f/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/catchup-b.ts&cutv={Y}-{m}-{d}T{H}:{M}:{S}" catchup-days="3",BNT4
