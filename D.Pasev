@@ -5,7 +5,7 @@ https://
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Bulgaria",[B][COLOR lime]--Национални--[/COLOR][/B]
 https://
 
-
+catchup-sourse=""
 
 #EXTINF:-1 catchup="fs" tvg-name="BNT1" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png" ,BNT1
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
@@ -22,8 +22,9 @@ https://play.elemental.tv/v1/playlists/573f5a14761973ec1d50256f/t.d73e9beb628a3f
 #EXTINF:-1 tvg-name="BTV" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/btv/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BTV-logo.png/120px-BTV-logo.png" catchup="fs" ,bTV
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d5024fd/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627990200
-#EXTINF:-1 tvg-name="Nova" catchup="shift" tvg-id="https://nova.bg/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://nstatic.nova.bg/files/nova/images/nova-logo.png" catchup="fs" , Nova
+#EXTINF:-1 tvg-name="Nova" catchup="shift" tvg-id="https://nova.bg/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://nstatic.nova.bg/files/nova/images/nova-logo.png" catchup="default" catchup-sourse="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502595/playlist.m3u8?begin=-{utc}-{duration}&access_token=d73e9beb628a3f269711b3303c95b2a8301bb227aa" , Nova
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502595/playlist.m3u8?begin=1628191800&access_token=d73e9beb628a3f269711b3303c95b2a8301bb227aa
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502595/playlist.m3u8?begin=1628136000&access_token=d73e9beb628a3f269711b3303c95b2a8301bb227aa
 #EXTINF:0  tvg-name="Nova News" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/nova-news/" tvg-country="BG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/FB_IMG_1605449680290-removebg-preview.png/revision/latest/scale-to-width-down/340?cb=20201203181951" catchup="fs" ,NovaNews
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
@@ -32,7 +33,6 @@ https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502501/t.d73e9beb628a3f
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502534/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627994700
 #EXTINF:-1 tvg-name="Alfa TV" tvg-id="https://www.potv.bg/tv-programa/alfa.html" group-title="Bulgaria" tvg-country="BG" tvg-logo="http://www.predavatel.com/bg/tv/images/alfatv.png" catchup="fs", Alfa
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 http://golden-ott.com:80/rich0607/85011C4D8398/70192
 #EXTINF:-1 tvg-name="Bulgaria On Air" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bulgaria-on-air/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://www.predavatel.com/bg/tv/images/bgonair-new6.png" catchup="fs", BulgariaOnAir
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
@@ -771,16 +771,15 @@ http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
 
 
 
-alex berlin#EXTM3U
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" group-title="Germany",[B][COLOR red]<<<--GERMANY-->>>[/COLOR][/B]
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" group-title="Germany",[B][COLOR red]<<<--GERMANY-->>>[/COLOR][/B]
 http://
-#EXTINF:-1,##### [B][COLOR lime]<<<--DE - FTA-->>>[/COLOR][/B] #####
+#EXTINF:-1 group-title="Germany",##### [B][COLOR lime]<<<--DE - FTA-->>>[/COLOR][/B] #####
 http://
 
-#EXTINF:-1,(DE) SRF 1 HD
+
+#EXTINF:-1 tvg-name="" group-title="Germany" ,(DE) SRF 1 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/3068
 #EXTINF:-1,DE - CORONA VIRUS INFO
-
 #EXTINF:-1 tvg-name="DAS ERSTE" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/DasErste-Logo.svg/1200px-DasErste-Logo.svg.png ",DAS ERSTE
 http://41.231.44.20:80/tolgax1x/tolgax1x/2366
 #EXTINF:-1 tvg-name="ARTE HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arte_HD_Verlauf_Logo.svg/2560px-Arte_HD_Verlauf_Logo.svg.png ",ARTE HD
@@ -793,58 +792,27 @@ http://41.231.44.20:80/tolgax1x/tolgax1x/1537
 http://41.231.44.20:80/tolgax1x/tolgax1x/2367
 #EXTINF:-1 tvg-name="RTL HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RTL_HD_Logo.svg/1280px-RTL_HD_Logo.svg.png",RTL HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/2459
-#EXTINF:-1 tvg-name="RTL" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RTL_HD_Logo.svg/1280px-RTL_HD_Logo.svg.png ",RTL
-
-#EXTINF:-1 tvg-name="RTLII HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RTL2HDLogo.svg/1200px-RTL2HDLogo.svg.png",RTLII HD
-
-#EXTINF:-1 tvg-name="RTL TELEVISION" group-title="Germany" tvg-country="DE" tvg-logo="https://banner2.cleanpng.com/20180516/iuq/kisspng-logo-rtl-group-television-5afcd6a0e265d3.7445379415265194569273.jpg ",RTL TELEVISION
-
-#EXTINF:-1 tvg-name="RTL 2 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/1132px-RTL_2_Logo.svg.png",RTL 2 HD
-
 #EXTINF:-1 tvg-name="RTL2" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/1132px-RTL_2_Logo.svg.png ",RTL2
 http://41.231.44.20:80/tolgax1x/tolgax1x/2460
-#EXTINF:-1 tvg-name="RTL PLUS" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTLplus_Logo_2016.png ",RTL PLUS
-
 #EXTINF:-1 tvg-name="RTL NITRO" group-title="Germany" tvg-country="DE" tvg-logo="http://4.bp.blogspot.com/-HKaH37nr_VA/T0bYApRmIII/AAAAAAAAESI/mLrp26YHTnQ/s1600/RTL+Nitro+logo+2012.png ",RTL NITRO
 http://41.231.44.20:80/tolgax1x/tolgax1x/3421
 #EXTINF:-1 tvg-name="SIXX HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sixx_HD_Cornerlogo_2011.svg/2000px-Sixx_HD_Cornerlogo_2011.svg.png",SIXX HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6006
-#EXTINF:-1 tvg-name="PROSIEBEN HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/ProSieben_HD_Logo_2015.svg/1200px-ProSieben_HD_Logo_2015.svg.png ",PROSIEBEN HD
-
 #EXTINF:-1 tvg-name="SAT 1 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Sat._1_HD_Logo_transparent.png ",SAT 1 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/2504
 #EXTINF:-1 tvg-name="SAT 1 GOLD HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Sat.1_Gold_HD_Logo_2019.png ",SAT 1 GOLD HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6000
-#EXTINF:-1 tvg-name="SAT 1" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Sat._1_HD_Logo_transparent.png ",SAT 1
-
 #EXTINF:-1 tvg-name="VOX HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/ee/Vox-HD.svg ",VOX HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/1539
-#EXTINF:-1 tvg-name="VOX" group-title="Germany" tvg-country="DE" tvg-logo=" https://imagepool.bildconnect.de/v2/global/page/zattoo/sender/210x120(223).png",VOX
-
-#EXTINF:-1 tvg-name="PHOENIX HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://www.kindpng.com/picc/m/410-4108081_logo-phoenix-transparent-hd-png-download.png",PHOENIX HD
-
 #EXTINF:-1 tvg-name="KABEL EINS HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kabel_eins_HD_Logo_2015.svg/1200px-Kabel_eins_HD_Logo_2015.svg.png ",KABEL EINS HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/1540
-#EXTINF:-1 tvg-name="KABEL 1 CLASSICS HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/11/Kabel_eins_classics_HD_2012.svg/2000px-Kabel_eins_classics_HD_2012.svg.png ",KABEL 1 CLASSICS HD
-
-#EXTINF:-1 tvg-name="TELE 5 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tele_5_HD.svg/2000px-Tele_5_HD.svg.png ",TELE 5 HD
-
-#EXTINF:-1 tvg-name="ANIXE HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/ANIXE_HD_SERIE_Logo_2016.png ",ANIXE HD
-
-#EXTINF:-1 tvg-name="DMAX HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/2000px-DMAX_HD.svg.png",DMAX HD
-
-#EXTINF:-1 tvg-name="BIBEL TV HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bibel_TV_logo.png/1024px-Bibel_TV_logo.png ",BIBEL TV HD 
-
 #EXTINF:-1 tvg-name="ZDF INFO HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ZDF_info_HD.svg/2560px-ZDF_info_HD.svg.png",ZDF INFO HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6018
-#EXTINF:-1 tvg-name="PROSIEBEN MAXX HD" group-title="Germany" tvg-country="DE" tvg-logo="https://www.pc-magazin.de/bilder/80765075/500x300-c0/image.jpg ",PROSIEBEN MAXX HD
-
-#EXTINF:-1 tvg-name="NICK /MTV HD" group-title="Germany" tvg-country="DE" tvg-logo="https://www.pngkit.com/png/full/57-579375_mtv-nickelodeon-hd-mono-when-shapes-join-together.png ",NICK /MTV HD
 
 
 
 
-#EXTINF:-1,##### [B][COLOR lime]<<<--DE - Sport-->>>[/COLOR][/B] #####
+#EXTINF:-1 tvg-name="" group-title="Germany" ,##### [B][COLOR lime]<<<--DE - Sport-->>>[/COLOR][/B] #####
 http://
 #EXTINF:-1 tvg-name="SKY SPORT NEWS HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png ",SKY SPORT NEWS HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/7367
@@ -856,56 +824,14 @@ http://41.231.44.20:80/tolgax1x/tolgax1x/7371
 http://41.231.44.20:80/tolgax1x/tolgax1x/7368
 #EXTINF:-1 tvg-name="SKY SPORT Austria" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ab/Sky_Sport_2_HD_-_Logo_2020.png ",SKY SPORT 2 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/7369
-#EXTINF:-1 tvg-name="SKY SPORT 3 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sky_Sport_3_HD_-_Logo_2015.svg/2000px-Sky_Sport_3_HD_-_Logo_2015.svg.png",SKY SPORT 3 HD
-
-#EXTINF:-1 tvg-name="SKY SPORT 4 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/2a/Sky_Sport_4_HD_Logo_2020.png ",SKY SPORT 4 HD
-
-#EXTINF:-1 tvg-name="SKY SPORT 5 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/5/58/Sky_Sport_5_HD_Logo_2020.png ",SKY SPORT 5 HD
-
-#EXTINF:-1 tvg-name="SKY SPORT 6 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/7/70/Sky_Sport_6_HD_Logo_2020.png ",SKY SPORT 6 HD
-
-#EXTINF:-1 tvg-name="SKY SPORT 7 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/0/04/Sky_Sport_7_HD_Logo_2020.png",SKY SPORT 7 HD
-
-#EXTINF:-1 tvg-name="SKY SPORT 8 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a9/Sky_Sport_8_HD_Logo_2020.png ",SKY SPORT 8 HD
-
-#EXTINF:-1 tvg-name="SKY SPORT 9 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/a/a1/Sky_Sport_9_HD_Logo_2020.png",SKY SPORT 9 HD
-
-#EXTINF:-1 tvg-name="SKY SPORT 10 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/c/ca/Sky_Sport_10_HD_Logo_2020.png",SKY SPORT 10 HD
-
-#EXTINF:-1 tvg-name="SKY SPORT 11 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/4/47/Sky_Sport_11_HD_Logo_2020.png",SKY SPORT 11 HD
-
-#EXTINF:-1 tvg-name="SKY SPORT F1 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sky_Sport_F1_HD_-_Logo_2018.svg/1280px-Sky_Sport_F1_HD_-_Logo_2018.svg.png ",SKY SPORT F1 HD
-
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 1 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/56/Sky_Sport_Bundesliga_1_HD_Logo_2016.png",SKY BUNDESLIGA 1 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/1647
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 2 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/72/Sky_Sport_Bundesliga_2_HD_Logo_2016.png",SKY BUNDESLIGA 2 HD (ON MATCH TIME)
 http://41.231.44.20:80/tolgax1x/tolgax1x/7370
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 3 HD (ON MATCH TIME" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sky_Sport_Bundesliga_3_HD_Logo_2016.png ",SKY BUNDESLIGA 3 HD (ON MATCH TIME)
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 4 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Sky_Sport_Bundesliga_4_HD_Logo_2016.png ",SKY BUNDESLIGA 4 HD (ON MATCH TIME)
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Sky_Sport_Bundesliga_5_HD_Logo_2016.png ",SKY BUNDESLIGA 5 HD (ON MATCH TIME)
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 6 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/80/Sky_Sport_Bundesliga_6_HD_Logo_2016.png",SKY BUNDESLIGA 6 HD (ON MATCH TIME)
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 7 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Sky_Sport_Bundesliga_7_HD_Logo_2016.png ",SKY BUNDESLIGA 7 HD (ON MATCH TIME)
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 8 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/19/Sky_Sport_Bundesliga_8_HD_Logo_2016.png",SKY BUNDESLIGA 8 HD (ON MATCH TIME)
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 9 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_9_HD_Logo_2016.png ",SKY BUNDESLIGA 9 HD (ON MATCH TIME)
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 10 HD (ON MATCH TIME)" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Sky_Sport_Bundesliga_10_HD_Logo_2016.png ",SKY BUNDESLIGA 10 HD (ON MATCH TIME)
-
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png ",EUROSPORT 1 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6010
 #EXTINF:-1 tvg-name="EUROSPORT 2  XTRA HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png ",EUROSPORT 2  XTRA HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6009
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",EUROSPORT 2 HD
-
-#EXTINF:-1 tvg-name="SPORT 1  HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Sport-1-Logo%2C_2013.svg ",SPORT 1  HD
-
-#EXTINF:-1 tvg-name="TELEKOM - FC BAYERN TV HD" group-title="Germany" tvg-country="DE" tvg-logo="https://www.cpmonitor.de/_data/Fcb_TV_logo_2009.jpg ",TELEKOM - FC BAYERN TV HD
-
 #EXTINF:-1 tvg-name="DAZN 1 BAR HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png",DAZN 1 BAR HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/7932
 #EXTINF:-1 tvg-name="DAZN 2 BAR HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://www.infosat.de/sites/default/files/styles/orginal/public/DAZN2-655440.jpg?itok=dNa8VcCJ",DAZN 2 BAR HD
@@ -915,156 +841,66 @@ http://41.231.44.20:80/tolgax1x/tolgax1x/7933
 
 
 
-
-#EXTINF:-1,#####[B][COLOR lime]<<<--DE - Music-->>>[/COLOR][/B]#####
+{
+#EXTINF:-1 tvg-name="" group-title="Germany" ,#####[B][COLOR lime]<<<--DE - Music-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="JUKEBOX" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/07/Jukebox_HD_Logo_2014.png",JUKEBOX
-
-#EXTINF:-1 tvg-name="CLASSICA" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4f/Classica_HD_-_Logo_2013.svg/1200px-Classica_HD_-_Logo_2013.svg.png ",CLASSICA
-
-#EXTINF:-1 tvg-name="MTV HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/MTV_HD_Logo_2015.png ",MTV HD
-
-#EXTINF:-1 tvg-name="DELUXE MUSIC HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DELUXE_MUSIC_Logo_2019.png/1200px-DELUXE_MUSIC_Logo_2019.png ",DELUXE MUSIC HD
-
-#EXTINF:-1 tvg-name="VH1" group-title="Germany" tvg-country="DE" tvg-logo="https://seeklogo.com/images/V/vh1-hd-logo-F87439ABB0-seeklogo.com.gif ",VH1
 
 
 
-
-#EXTINF:-1,#####[B][COLOR lime]<<<--DE - DOKUMENTARFILME-->>>[/COLOR][/B]#####   
+#EXTINF:-1 tvg-name="" group-title="Germany" ,#####[B][COLOR lime]<<<--DE - DOKUMENTARFILME-->>>[/COLOR][/B]#####   
 http://
 #EXTINF:-1 tvg-name="DISCOVERY HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/5f/Discovery_Channel_HD.svg/2000px-Discovery_Channel_HD.svg.png ",DISCOVERY HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/1555
-#EXTINF:-1 tvg-name="E! ENTERTAINMENT HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://e7.pngegg.com/pngimages/15/632/png-clipart-e-television-channel-entertainment-logo-channel-miscellaneous-television.png",E! ENTERTAINMENT HD
-
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",HISTORY CHANNEL
 http://41.231.44.20:80/tolgax1x/tolgax1x/3089
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png ",ANIMAL PLANET HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6008
-#EXTINF:-1 tvg-name="HISTORY HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png ",HISTORY HD
-
 #EXTINF:-1 tvg-name="NGC" group-title="Germany" tvg-country="DE" tvg-logo=" https://www.pngkey.com/png/full/388-3881582_ngc-logo-numismatic-guaranty-corporation-logo.png",NGC
 http://41.231.44.20:80/tolgax1x/tolgax1x/1546
 #EXTINF:-1 tvg-name="NGC HD" group-title="Germany" tvg-country="DE" tvg-logo="https://www.pngkey.com/png/full/388-3881582_ngc-logo-numismatic-guaranty-corporation-logo.png ",NGC HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6013
-#EXTINF:-1 tvg-name="NGC WILD HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png ",NGC WILD HD
-
-#EXTINF:-1 tvg-name="NGC WILD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png ",NGC WILD
-
-#EXTINF:-1 tvg-name="TLC HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/b/b4/TLC_HD_logo_2011.png ",TLC HD
-
-#EXTINF:-1 tvg-name="RTL LIVING" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png ",RTL LIVING
-
-#EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/00/Spiegel_GESCHICHTE_HD_Logo_2016.png",SPIEGEL GESCHICHTE
 
 
 
 
-#EXTINF:-1,#####[B][COLOR lime]<<<--DE - Angere-->>>[/COLOR][/B]#####
+#EXTINF:-1 tvg-name="" group-title="Germany"  group-title="Germany",#####[B][COLOR lime]<<<--DE - Angere-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="123TV HD" group-title="Germany" tvg-country="DE" tvg-logo="https://www.1-2-3.tv/out/123tv/img/123tv-logo.png ",123TV HD
-
-#EXTINF:-1 tvg-name="HSE 24 EXTRA HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hse_24_extra_hd.png/1200px-Hse_24_extra_hd.png",HSE 24 EXTRA HD
-
-#EXTINF:-1 tvg-name="HSE 24 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hse_24_hd.svg/2000px-Hse_24_hd.svg.png",HSE 24 HD
-
-#EXTINF:-1 tvg-name="KABEL EINS DOCU HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Kabel_eins_Doku_Logo_2016.png",KABEL EINS DOCU HD
-
-#EXTINF:-1 tvg-name="MDR S-ANHALT HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Mdr_Fernsehen_HD_Logo_2017.png",MDR S-ANHALT HD
-
-#EXTINF:-1 tvg-name="MDR CRINGEN HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Mdr_Logo_2017.png",MDR CRINGEN HD
-
-#EXTINF:-1 tvg-name="MDR SACHSEN HD" group-title="Germany" tvg-country="DE" tvg-logo="https://thumbnail.imgbin.com/8/9/0/imgbin-saxony-logo-mdr-sachsen-font-mitteldeutscher-rundfunk-SuepT7eKQ31xeFfacpX8K9tX5_t.jpg",MDR SACHSEN HD
-
 #EXTINF:-1 tvg-name="NDR FS HH HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/1200px-NDR_HD.svg.png",NDR FS HH HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/2816
-#EXTINF:-1 tvg-name="NDR FS MV HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/1200px-Logo_NDR_Fernsehen_2017.svg.png",NDR FS MV HD
-
-#EXTINF:-1 tvg-name="NDR FS NDS HD" group-title="Germany" tvg-country="DE" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/ndr-sender-logo-275832.png",NDR FS NDS HD
-
-#EXTINF:-1 tvg-name="NDR FS SH HD" group-title="Germany" tvg-country="DE" tvg-logo="NDR FS SH HD",NDR FS SH HD
-
-#EXTINF:-1 tvg-name="NITRO" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png",NITRO
-
-#EXTINF:-1 tvg-name="SCHAU TV HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SCHAUTV_Logo_II.jpg",SCHAU TV HD
-
-#EXTINF:-1 tvg-name="QVC HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png",QVC HD
-
-#EXTINF:-1 tvg-name="QVC2 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/19/Logo_QVC2_2019.svg/2000px-Logo_QVC2_2019.svg.png",QVC2 HD
-
-#EXTINF:-1 tvg-name="RBB BERLIN HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/2000px-Rbb_fernsehen_HD_Logo_2017.svg.png",RBB BERLIN HD
-
-#EXTINF:-1 tvg-name="RBB BRANDEN BURG" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RBB_Brandenburg_Logo.svg/2560px-RBB_Brandenburg_Logo.svg.png",RBB BRANDEN BURG
-
-#EXTINF:-1 tvg-name="SONNENKLAR HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sonnenklar-tv-logo.svg/2000px-Sonnenklar-tv-logo.svg.png",SONNENKLAR HD
-
-#EXTINF:-1 tvg-name="SWR FERNSEHEN BW" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SWRFernsehenBW_Logo.svg/1280px-SWRFernsehenBW_Logo.svg.png",SWR FERNSEHEN BW
-
-#EXTINF:-1 tvg-name="WDR AACHEN HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/WDR_Dachmarke.svg",WDR AACHEN HD
-
-#EXTINF:-1 tvg-name="WDR BONN HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/WDR_Fernsehen_HD_2013.png",WDR BONN HD
-
-#EXTINF:-1 tvg-name="WDR DUISBURG HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/WDR_Fernsehen_HD_Logo_2016.png/1200px-WDR_Fernsehen_HD_Logo_2016.png",WDR DUISBURG HD
-
-#EXTINF:-1 tvg-name="WDR WUPPERTAL HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/WDR_Fernsehen_HD_Logo_2016.png/1200px-WDR_Fernsehen_HD_Logo_2016.png",WDR WUPPERTAL HD
 
 
 
 
-#EXTINF:-1,#####[B][COLOR lime]<<<--DE - Jugent-->>>[/COLOR][/B]#####
+#EXTINF:-1  tvg-name="" group-title="Germany" ,#####[Bgroup-title="Germany"][COLOR lime]<<<--DE - Jugent-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="BABY TV" group-title="Germany" tvg-country="DE" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/babytvlogo.png",BABY TV
-
-#EXTINF:-1 tvg-name="BOOMERANG" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG
-
 #EXTINF:-1 tvg-name="SUPER RTL" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a4/Super_RTL_logo_2019.png",SUPER RTL
 http://41.231.44.20:80/tolgax1x/tolgax1x/3086
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",CARTOON NETWORK
-
 #EXTINF:-1 tvg-name="DISNEY CHANNEL HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",DISNEY CHANNEL HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/2861
 #EXTINF:-1 tvg-name="KIKA" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KiKA_HD.svg/2560px-KiKA_HD.svg.png",KIKA
 http://41.231.44.20:80/tolgax1x/tolgax1x/1551
 #EXTINF:-1 tvg-name="DISNEY CINEMAGIC" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_Disney_Cinemagic.png",DISNEY CINEMAGIC
 http://41.231.44.20:80/tolgax1x/tolgax1x/3090
-#EXTINF:-1 tvg-name="COMEDY CENTRAL HD" group-title="Germany" tvg-country="DE" tvg-logo="https://www.pngitem.com/pimgs/m/221-2217810_comics-from-comedy-central-graphic-design-hd-png.png",COMEDY CENTRAL HD
-
-#EXTINF:-1 tvg-name="NICK /MTV" group-title="Germany" tvg-country="DE" tvg-logo="https://www.pngkit.com/png/full/57-579375_mtv-nickelodeon-hd-mono-when-shapes-join-together.png",NICK /MTV
-
 #EXTINF:-1,(DE) Nickelodeon HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/3087
 
 
 
-#EXTINF:-1,#####[B][COLOR lime]<<<--DE - Nachrichten-->>>[/COLOR][/B]#####
+#EXTINF:-1 tvg-name="" group-title="Germany" ,#####[B][COLOR lime]<<<--DE - Nachrichten-->>>[/COLOR][/B]#####
 http://
-#EXTINF:-1 tvg-name="N-TV" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/N-tv-Logo.svg/2000px-N-tv-Logo.svg.png",N-TV
-
-#EXTINF:-1 tvg-name="EURONEWS GERMAN" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png",EURONEWS GERMAN
-
-#EXTINF:-1 tvg-name="N24" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/N24_Logo_2016.png",N24
-
 #EXTINF:-1 tvg-name="WELT HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Welt_TV_Logo_2016.png",WELT HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/4488
 
 
 
-#EXTINF:-1,#####[B][COLOR lime]<<<--DE - Unterchaltung-->>>[/COLOR][/B]#####
+#EXTINF:-1 tvg-name="" group-title="Germany" ,#####[B][COLOR lime]<<<--DE - Unterchaltung-->>>[/COLOR][/B]#####
 http://
 #EXTINF:-1 tvg-name="SYFY HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/2000px-Syfy-HD-Logo.svg.png",SYFY HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/165
-#EXTINF:-1 tvg-name="TNT SERIE HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png",TNT SERIE HD
-
 #EXTINF:-1 tvg-name="13TH STREET" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d3/13th_Street_HD_Logo_2020.png",13TH STREET
 http://41.231.44.20:80/tolgax1x/tolgax1x/3420
-#EXTINF:-1 tvg-name="13TH STREET HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d3/13th_Street_HD_Logo_2020.png",13TH STREET HD
-
 #EXTINF:-1 tvg-name="FOX HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/1554
-#EXTINF:-1 tvg-name="HEIMAT KANAL" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heimatkanal_Logo_2015.png/1200px-Heimatkanal_Logo_2015.png",HEIMAT KANAL
-
-#EXTINF:-1 tvg-name="KINOWELT TV" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kinowelt_TV_HD_Logo.svg/1200px-Kinowelt_TV_HD_Logo.svg.png",KINOWELT TV
-
 #EXTINF:-1 tvg-name="RTL CRIME HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RTL_Crime_Logo_2015.png",RTL CRIME HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/4486
 #EXTINF:-1 tvg-name="RTL PASSION HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png",RTL PASSION HD
@@ -1076,83 +912,99 @@ http://41.231.44.20:80/tolgax1x/tolgax1x/6012
 
 
 
-#EXTINF:-1,#####[B][COLOR lime]<<<--DE - Kino-->>>[/COLOR][/B]#####
+#EXTINF:-1 tvg-name="" group-title="Germany" ,#####[B][COLOR lime]<<<--DE - Kino-->>>[/COLOR][/B]#####
 http://
 #EXTINF:-1 tvg-name="SKY 1 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Sky1_HD_Germany_Logo_2016.png",SKY 1 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6007
 #EXTINF:-1 tvg-name="SKY ATLANTIC HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/d4/Sky_Atlantic_HD_Germany.svg/2000px-Sky_Atlantic_HD_Germany.svg.png",SKY ATLANTIC HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/1545
-#EXTINF:-1 tvg-name="SKY ATLANTIC" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Sky_Atlantic_logo_2020.png",SKY ATLANTIC
-
 #EXTINF:-1 tvg-name="Sky Cinema Family HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_cinema_family_hd_2016.png/1200px-Sky_cinema_family_hd_2016.png",Sky Cinema Family HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6015
 #EXTINF:-1 tvg-name="SKY CINEMA  1 HD [HEVC]" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_cinema_family_hd_2016.png/1200px-Sky_cinema_family_hd_2016.png",SKY CINEMA  1 HD 
 http://41.231.44.20:80/tolgax1x/tolgax1x/1521
-
 #EXTINF:-1 tvg-name="SKY CINEMA  24 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sky_Cinema%2B24_HD_DE_Logo_2016.png",SKY CINEMA  24 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6003
-#EXTINF:-1 tvg-name="SKY CINEMA ACTION HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sky_Cinema_Action_-_Logo_2019.svg/1280px-Sky_Cinema_Action_-_Logo_2019.svg.png",SKY CINEMA ACTION HD
-
-#EXTINF:-1 tvg-name="SKY CINEMA FUN" group-title="Germany" tvg-country="DE" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/sky-fun-276181.png",SKY CINEMA FUN
-
 #EXTINF:-1 tvg-name="SKY CINEMA EMOTION" group-title="Germany" tvg-country="DE" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/19980-1.png",SKY CINEMA EMOTION
 http://41.231.44.20:80/tolgax1x/tolgax1x/6037
-#EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/40/Sky_Cinema_Premieren_HD_2020_DE_Logo.png",SKY CINEMA PREMIEREN HD
-
 #EXTINF:-1 tvg-name="SKY CINEMA HITS HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sky_Cinema_Hits_HD_-_Logo_2018.svg/1280px-Sky_Cinema_Hits_HD_-_Logo_2018.svg.png",SKY CINEMA HITS HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/2814
 #EXTINF:-1 tvg-name="SKY CINEMA NOSTALGIE" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sky_Cinema_Nostalgie_DE_Logo_2016.png/1200px-Sky_Cinema_Nostalgie_DE_Logo_2016.png",SKY CINEMA NOSTALGIE
 http://41.231.44.20:80/tolgax1x/tolgax1x/6001
 #EXTINF:-1 tvg-name="SKY COMEDY HD" group-title="Germany" tvg-country="DE" tvg-logo="https://user-images.githubusercontent.com/11945919/73595174-6505ed00-450d-11ea-9be8-9fb792022d48.png",SKY COMEDY HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/1525
-#EXTINF:-1 tvg-name="SKY CRIME HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sky_Crime_logo_2019.svg/1200px-Sky_Crime_logo_2019.svg.png",SKY CRIME HD
-
 #EXTINF:-1 tvg-name="SKY KRIMI" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sky_Krimi_HD_DE_Logo_2016.png",SKY KRIMI
 http://41.231.44.20:80/tolgax1x/tolgax1x/2427
-#EXTINF:-1 tvg-name="SKY ONE HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/47/Sky_One_HD_DE_2020.png",SKY ONE HD
-
-#EXTINF:-1 tvg-name="TNT COMEDY HD" group-title="Germany" tvg-country="DE" tvg-logo="https://www.nicepng.com/png/detail/225-2251280_comedy-central-hd-comedy-central-hd-logo.png",TNT COMEDY HD
-
 #EXTINF:-1 tvg-name="TNT FILM" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TNT_Film_HD_Logo_2016.png",TNT FILM
 http://41.231.44.20:80/tolgax1x/tolgax1x/2461
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/df/Universal_Channel_HD_2013.png",UNIVERSAL CHANNEL HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/6017
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN +24 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/64/Sky_Cinema_Premieren_%2B24_HD_DE_2020_Logo.png",SKY CINEMA PREMIEREN +24 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/1526
-#EXTINF:-1 tvg-name="SKY CINEMA CLASSIC" group-title="Germany" tvg-country="DE" tvg-logo="https://mk0sky2021nvfhamo0ho.kinstacdn.com/wp-content/uploads/2020/03/sky-cinema-logo-classics.png",SKY CINEMA CLASSIC
 
 
 
-
-#EXTINF:-1,#####[B][COLOR lime]<<<--DE - Sky Select-->>>[/COLOR][/B]#####
+#EXTINF:-1 tvg-name="" group-title="Germany" ,#####[B][COLOR lime]<<<--DE - Sky Select-->>>[/COLOR][/B]#####
 http://
 #EXTINF:-1 tvg-name="SKY SELECT 1 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY SELECT 1 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/2462
 #EXTINF:-1 tvg-name="SKY SELECT 2 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY SELECT 2 HD
 http://41.231.44.20:80/tolgax1x/tolgax1x/4491
-#EXTINF:-1 tvg-name="SKY SELECT 3 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY SELECT 3 HD
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", Spiegel Geschichte
+http://41.231.44.20:80/tolgax1x/tolgax1x/7373
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", BR-ALPHA HD
+http://41.231.44.20:80/tolgax1x/tolgax1x/6943
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", Dresden Fernsehen HD
+http://41.231.44.20:80/tolgax1x/tolgax1x/6944
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", TV Kiel
+http://41.231.44.20:80/tolgax1x/tolgax1x/6945
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", RTL Muenchen TV
+http://41.231.44.20:80/tolgax1x/tolgax1x/6946
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", Juwelo TV
+http://41.231.44.20:80/tolgax1x/tolgax1x/6951
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", RFH
+http://41.231.44.20:80/tolgax1x/tolgax1x/6955
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="",  KULTUR MD
+http://41.231.44.20:80/tolgax1x/tolgax1x/6956
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", WTV
+http://41.231.44.20:80/tolgax1x/tolgax1x/6957
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", OKTO TV 8
+http://41.231.44.20:80/tolgax1x/tolgax1x/6961
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", FS1 AUSRTA
+http://41.231.44.20:80/tolgax1x/tolgax1x/6964
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", DORF TV AUSRTIA
+http://41.231.44.20:80/tolgax1x/tolgax1x/6965
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="",  LANDLE TV AUSTRIA
+http://41.231.44.20:80/tolgax1x/tolgax1x/6966
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", CANAL 9
+http://41.231.44.20:80/tolgax1x/tolgax1x/6967
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", QS 24 TV
+http://41.231.44.20:80/tolgax1x/tolgax1x/6969
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="",  Telebasel
+http://41.231.44.20:80/tolgax1x/tolgax1x/6970
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", Deutsches Musik Fernsehen
+http://41.231.44.20:80/tolgax1x/tolgax1x/6972
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", KroneHit TV Music
+http://41.231.44.20:80/tolgax1x/tolgax1x/6973
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", Dmax
+http://41.231.44.20:80/tolgax1x/tolgax1x/6014
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", Augsburg TV
+http://41.231.44.20:80/tolgax1x/tolgax1x/6023
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="",TV HALLE
+http://41.231.44.20:80/tolgax1x/tolgax1x/6021
+#EXTINF:-1,  Tagesschau 24 
+http://41.231.44.20:80/tolgax1x/tolgax1x/6025
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", TEGESSCHAU 24
+http://41.231.44.20:80/tolgax1x/tolgax1x/6030
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", HR FREE
+http://41.231.44.20:80/tolgax1x/tolgax1x/6020
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="", TV AKTUELL
+http://41.231.44.20:80/tolgax1x/tolgax1x/6019
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="",Austria 24
+http://41.231.44.20:80/tolgax1x/tolgax1x/6005
+#EXTINF:-1 tvg-name="" group-title="Germany" tvg-logo="",ORF 2 HD
+http://41.231.44.20:80/tolgax1x/tolgax1x/1542
 
-#EXTINF:-1 tvg-name="SKY SELECT 4 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png",SKY SELECT 4 HD
 
-#EXTINF:-1 tvg-name="SKY SELECT 5 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY SELECT 5 HD
-
-#EXTINF:-1 tvg-name="SKY SELECT 6 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY SELECT 6 HD
-
-#EXTINF:-1 tvg-name="SKY SELECT 7 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY SELECT 7 HD
-
-#EXTINF:-1 tvg-name="SKY SELECT 8 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png",SKY SELECT 8 HD
-
-#EXTINF:-1 tvg-name="SKY SELECT 9 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY SELECT 9 HD
-
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 1 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY POPCORN SELECT 1 HD
-
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 2 HD" group-title="Germany" tvg-country="DE" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png",SKY POPCORN SELECT 2 HD
-
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 3 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY POPCORN SELECT 3 HD
-
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 4 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY POPCORN SELECT 4 HD
-
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 5 HD" group-title="Germany" tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png ",SKY POPCORN SELECT 5 HD
 
 
 
@@ -1174,8 +1026,6 @@ http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38565
 #EXTINF:-1 tvg-name="BBC ONE WALES HD" tvg-country="UK" group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BBC_One_Wales.svg/1200px-BBC_One_Wales.svg.png",UK: BBC ONE WALES HD
 http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38566
 
-#EXTINF:-1 tvg-name="" tvg-country="UK" group-title="United Kingdom" tvg-logo=" ",[B][COLOR lime]<<<--UK - Sky Kits-->>>[/COLOR][/B]
-http://
 
 
 #EXTINF:-1 tvg-name="BABY TV" tvg-country="UK" group-title="United Kingdom" tvg-logo="https://www.pngkit.com/png/full/319-3196136_baby-tv-enters-us-market-baby-tv-hd.png",UK: BABY TV
@@ -1209,60 +1059,7 @@ http://
 
 
 
-#EXTINF:-1,(DE) Spiegel Geschichte
-http://41.231.44.20:80/tolgax1x/tolgax1x/7373
-#EXTINF:-1,(DE) BR-ALPHA HD
-http://41.231.44.20:80/tolgax1x/tolgax1x/6943
-#EXTINF:-1,(DE) Dresden Fernsehen HD
-http://41.231.44.20:80/tolgax1x/tolgax1x/6944
-#EXTINF:-1,(DE) TV Kiel
-http://41.231.44.20:80/tolgax1x/tolgax1x/6945
-#EXTINF:-1,(DE) RTL Muenchen TV
-http://41.231.44.20:80/tolgax1x/tolgax1x/6946
-#EXTINF:-1,(DE) Juwelo TV
-http://41.231.44.20:80/tolgax1x/tolgax1x/6951
-#EXTINF:-1,(DE) RFH
-http://41.231.44.20:80/tolgax1x/tolgax1x/6955
-#EXTINF:-1,(DE)  KULTUR MD
-http://41.231.44.20:80/tolgax1x/tolgax1x/6956
-#EXTINF:-1,(DE) WTV
-http://41.231.44.20:80/tolgax1x/tolgax1x/6957
-#EXTINF:-1,(DE) OKTO TV 8
-http://41.231.44.20:80/tolgax1x/tolgax1x/6961
-#EXTINF:-1,(DE) FS1 AUSRTA
-http://41.231.44.20:80/tolgax1x/tolgax1x/6964
-#EXTINF:-1,(DE) DORF TV AUSRTIA
-http://41.231.44.20:80/tolgax1x/tolgax1x/6965
-#EXTINF:-1,(DE)  LANDLE TV AUSTRIA
-http://41.231.44.20:80/tolgax1x/tolgax1x/6966
-#EXTINF:-1,(DE) CANAL 9
-http://41.231.44.20:80/tolgax1x/tolgax1x/6967
-#EXTINF:-1,(DE) QS 24 TV
-http://41.231.44.20:80/tolgax1x/tolgax1x/6969
-#EXTINF:-1,(DE)  Telebasel
-http://41.231.44.20:80/tolgax1x/tolgax1x/6970
-#EXTINF:-1,(DE) Deutsches Musik Fernsehen
-http://41.231.44.20:80/tolgax1x/tolgax1x/6972
-#EXTINF:-1,(DE) KroneHit TV Music
-http://41.231.44.20:80/tolgax1x/tolgax1x/6973
-#EXTINF:-1,(DE) Dmax
-http://41.231.44.20:80/tolgax1x/tolgax1x/6014
-#EXTINF:-1,(DE) Augsburg TV
-http://41.231.44.20:80/tolgax1x/tolgax1x/6023
-#EXTINF:-1,(DE)TV HALLE
-http://41.231.44.20:80/tolgax1x/tolgax1x/6021
-#EXTINF:-1,(DE)  Tagesschau 24 
-http://41.231.44.20:80/tolgax1x/tolgax1x/6025
-#EXTINF:-1,(DE) TEGESSCHAU 24
-http://41.231.44.20:80/tolgax1x/tolgax1x/6030
-#EXTINF:-1,(DE) HR FREE
-http://41.231.44.20:80/tolgax1x/tolgax1x/6020
-#EXTINF:-1,(DE) TV AKTUELL
-http://41.231.44.20:80/tolgax1x/tolgax1x/6019
-#EXTINF:-1,( DE )Austria 24
-http://41.231.44.20:80/tolgax1x/tolgax1x/6005
-#EXTINF:-1,ORF 2 HD
-http://41.231.44.20:80/tolgax1x/tolgax1x/1542
+
 #EXTINF:-1 tvg-name="KY CINEMA ACTION " tvg-country="UK" group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sky_Cinema_Action_DE_Logo_2016.png/1200px-Sky_Cinema_Action_DE_Logo_2016.png",UK: KY CINEMA ACTION 
 http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38585
 #EXTINF:-1 tvg-name="KY ATLANTIC HD" tvg-country="UK" group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sky_Atlantic_HD_DE_Logo_2015.png/1200px-Sky_Atlantic_HD_DE_Logo_2015.png",UK: KY ATLANTIC HD
@@ -1668,6 +1465,14 @@ http://yeninesiliptv.com:8080/ediz99/ediz9999/53559
 http://api.gostartv.com:8080/bkAgaiiwjU/Oys7zInPZB/1603
 #EXTINF:-1 tvg-id="PenthouseQuickies.ero" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Penthouse_hd.png" group-title="XXX", Penthouse
 http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", PENTHOUSE BLACK
+http://my.streamerstv.com:25461/Andy/Andy/846
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", PENTHOUSE GOLD
+http://my.streamerstv.com:25461/Andy/Andy/847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", PENTHOUSE PASSION
+http://my.streamerstv.com:25461/Andy/Andy/848
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", PENTHOUSE QUICKIES
+http://my.streamerstv.com:25461/Andy/Andy/849
 #EXTINF:-1 tvg-name="Private TV" tvg-id="PrivateTV.ero" tvg-logo="" group-title="XXX",Private TV 
 http://api.gostartv.com:8080/bkAgaiiwjU/Oys7zInPZB/1602
 #EXTINF:-1 tvg-id="PINKoTV.ero" tvg-name="" tvg-logo="" group-title="XXX",Pink O
@@ -1807,49 +1612,41 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1,XO: Private
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Private
 http://my.streamerstv.com:25461/Andy/Andy/853
-#EXTINF:-1,XO: BRAZZERS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", BRAZZERS
 http://my.streamerstv.com:25461/Andy/Andy/835
-#EXTINF:-1,XO: BRAZZERS TV EUROPE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", BRAZZERS TV EUROPE
 http://my.streamerstv.com:25461/Andy/Andy/836
-#EXTINF:-1,XO: DORCEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", DORCEL
 http://my.streamerstv.com:25461/Andy/Andy/837
-#EXTINF:-1,XO: DORCEL XXX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", DORCEL XXX
 http://my.streamerstv.com:25461/Andy/Andy/838
-#EXTINF:-1,XO: EROX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", EROX
 http://my.streamerstv.com:25461/Andy/Andy/839
-#EXTINF:-1,XO: EVIL ANGEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", EVIL ANGEL
 http://my.streamerstv.com:25461/Andy/Andy/840
-#EXTINF:-1,XO: HUSTLER
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", HUSTLER
 http://my.streamerstv.com:25461/Andy/Andy/841
-#EXTINF:-1,XO: HUSTLER TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", HUSTLER TV
 http://my.streamerstv.com:25461/Andy/Andy/842
-#EXTINF:-1,XO: O LA LA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", O LA LA TV
 http://my.streamerstv.com:25461/Andy/Andy/843
-#EXTINF:-1,XO: PASSIE XXX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", PASSIE XXX
 http://my.streamerstv.com:25461/Andy/Andy/844
-#EXTINF:-1,XO: PASSION XXX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", PASSION XXX
 http://my.streamerstv.com:25461/Andy/Andy/845
-#EXTINF:-1,XO: PENTHOUSE BLACK
-http://my.streamerstv.com:25461/Andy/Andy/846
-#EXTINF:-1,XO: PENTHOUSE GOLD
-http://my.streamerstv.com:25461/Andy/Andy/847
-#EXTINF:-1,XO: PENTHOUSE PASSION
-http://my.streamerstv.com:25461/Andy/Andy/848
-#EXTINF:-1,XO: PENTHOUSE QUICKIES
-http://my.streamerstv.com:25461/Andy/Andy/849
-#EXTINF:-1,XO: PINK EROTIC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", PINK EROTIC
 http://my.streamerstv.com:25461/Andy/Andy/850
-#EXTINF:-1,XO: PLAYBOY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", PLAYBOY
 http://my.streamerstv.com:25461/Andy/Andy/851
-#EXTINF:-1,XO: PLAYHOUSE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", PLAYHOUSE
 http://my.streamerstv.com:25461/Andy/Andy/852
-#EXTINF:-1,XO: REDLIGHT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", REDLIGHT
 http://my.streamerstv.com:25461/Andy/Andy/854
-#EXTINF:-1,XO: SEXTREME
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", SEXTREME
 http://my.streamerstv.com:25461/Andy/Andy/855
-#EXTINF:-1,XO: VIVID RED
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", VIVID RED
 http://my.streamerstv.com:25461/Andy/Andy/856
-#EXTINF:-1,XXX: BLACK TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",BLACK TV
 http://my.streamerstv.com:25461/Andy/Andy/2826
