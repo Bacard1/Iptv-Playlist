@@ -8,13 +8,16 @@ https://
 
 
 
+#EXTINF:-1 tvg-name="BNT 1" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png" catchup="default" catchup-sourse="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/HD/-{utc}-{duration}" ,BNT1
+https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/HD/10883.ts
+
 #EXTINF:-1 tvg-name="BNT 1" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt/" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png" catchup="fs" ,BNT1
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627994700
 
 #EXTINF:-1 tvg-name="BNT1" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt/" catchup_correcrion:="-15" group-title="Bulgaria" tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BNT1_logo.svg/100px-BNT1_logo.svg.png" catchup="default" catchup-sourse="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=-{utc}-{duration}" catchup-days="1",BNT1
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1627994700
-https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502507/t.d73e9beb628a3f269711b3303c95b2a8301bb227aa/0.m3u8?begin=1628276400
+
 
 #EXTINF:-1 tvg-name="БНТ2" tvg-id="https://www.xn----8sbafg9clhjcp.bg/tv/bnt2/" group-title="Bulgaria" tvg-country="BG"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/BNT2.png" catchup="default" catchup-sourse="https://play.elemental.tv/v1/playlists/573f5a14761973ec1d502595/playlist.m3u8?begin=-{utc}-{duration}&access_token=1628130600&access_token=d73e9beb628a3f269711b3303c95b2a8301bb227aa",BNT2
 #KODIPROP:inputstream=inputstream.ffmpegdirect
