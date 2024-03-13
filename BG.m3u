@@ -1,336 +1,201 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/Bacard1/Iptv-Playlist/main/epg%20(2).xml"
-
-
-#EXTINF:-1, BTV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154791.ts
-#EXTINF:-1, BTV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154787.ts
-#EXTINF:-1, BTV ACTION FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154945.ts
-#EXTINF:-1, BTV ACTION 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154788.ts
-#EXTINF:-1, BTV CINEMA 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154789.ts
-#EXTINF:-1, BTV COMEDY 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154790.ts
-#EXTINF:-1, BTV LADY 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154792.ts
-#EXTINF:-1, 24 KITCHEN 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154757.ts
-#EXTINF:-1, 24 KITCHEN HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154758.ts
-#EXTINF:-1, ACTION BOX HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154759.ts
-#EXTINF:-1, AGRO TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154765.ts 
-#EXTINF:-1, ALFA TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154766.ts 
-#EXTINF:-1, AMC 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154760.ts 
-#EXTINF:-1, ANIMAL PLANET 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154767.ts 
-#EXTINF:-1, ANIMAL PLANET HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154768.ts 
-#EXTINF:-1, AUTO MOTO SPORT HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154761.ts 
-#EXTINF:-1, AXN 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154762.ts 
-#EXTINF:-1, AXN BLACK 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154763.ts 
-#EXTINF:-1, AXN WHITE 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154764.ts 
-#EXTINF:-1, BABY TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154770.ts
-#EXTINF:-1, BALKANIKA MUSIC 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154794.ts 
-#EXTINF:-1, BALKANIKA MUSIC TV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154795.ts 
-#EXTINF:-1, BG MUSIC HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154772.ts 
-#EXTINF:-1, BG MUSIC 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154771.ts
-#EXTINF:-1, BHTV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154774.ts 
-#EXTINF:-1, BLOOMBERG 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154776.ts 
-#EXTINF:-1, BLOOMBERG TV BULGARIA HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154797.ts 
-#EXTINF:-1, BNT 1 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154778.ts
-#EXTINF:-1, BNT 1 FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154779.ts
-#EXTINF:-1, BNT 2 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154780.ts
-#EXTINF:-1, BNT 2 FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154781.ts
-#EXTINF:-1, BNT 3 FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154782.ts
-#EXTINF:-1, BNT 4 FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154783.ts
-#EXTINF:-1, BNT 4 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154784.ts 
-#EXTINF:-1, BNT WORD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154785.ts
-#EXTINF:-1, BULGARIA ON AIR 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154798.ts
-#EXTINF:-1, CARTOONITO 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154799.ts
-#EXTINF:-1, BOX HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154800.ts 
-#EXTINF:-1, BOX TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154786.ts 
-#EXTINF:-1, BULGARIA 24 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154801.ts
-#EXTINF:-1, BULGARIA ON AIR HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154802.ts
-#EXTINF:-1, C&amp;I NETWORK 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154803.ts 
-#EXTINF:-1, CARTOON NETWORK 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154804.ts 
-#EXTINF:-1, CBS REAILTY 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154805.ts
-#EXTINF:-1, CINE BOX 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154809.ts
-#EXTINF:-1, CINEMAX 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154810.ts
-#EXTINF:-1, CINEMAX 2 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154811.ts
-#EXTINF:-1, CINEMAX 2 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154812.ts
-#EXTINF:-1, CINEMAX HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154813.ts
-#EXTINF:-1, FILMBOX HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/1339772.ts
-#EXTINF:-1, FILMBOX STARS HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/1339773.ts
-#EXTINF:-1, FILMBOX EXTRA HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/1339771.ts
-#EXTINF:-1, CITY TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154806.ts
-#EXTINF:-1, CODEFASHION TV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154814.ts 
-#EXTINF:-1, BTV COMEDY 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154808.ts
-#EXTINF:-1, DAVINCI LEARNING 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154825.ts 
-#EXTINF:-1, 7/8 TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154816.ts
-#EXTINF:-1, DIEMA FAMILY 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154817.ts
-#EXTINF:-1, DIEMA HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154818.ts
-#EXTINF:-1, DIEMA SPORT 1 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154819.ts
-#EXTINF:-1, DIEMA SPORT 2 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154826.ts 
-#EXTINF:-1, DIEMA SPORT 2 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154820.ts 
-#EXTINF:-1, DIEMA SPORT FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154827.ts
-#EXTINF:-1, DIEMA TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154821.ts
-#EXTINF:-1, DISCOVERY CHANNEL HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154828.ts
-#EXTINF:-1, DISCOVERY SCIENCE 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154829.ts 
-#EXTINF:-1, DISCOVERY SCIENCE HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154830.ts 
-#EXTINF:-1, DISNEY CHANNEL 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154822.ts 
-#EXTINF:-1, DISNEY JUNIOR 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154832.ts 
-#EXTINF:-1, DOCUBOX HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154833.ts 
-#EXTINF:-1, DSTV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154824.ts
-#EXTINF:-1, DUCK TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154834.ts 
-#EXTINF:-1, E-KIDS 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154835.ts
-#EXTINF:-1, EPICDRAMA HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154840.ts 
-#EXTINF:-1, EUROSPORT 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154836.ts
-#EXTINF:-1, EUROSPORT 2 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154841.ts
-#EXTINF:-1, EUROSPORT 2 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154837.ts
-#EXTINF:-1, EUROSPORT HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154842.ts
-#EXTINF:-1, EVROKOM 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154838.ts 
-#EXTINF:-1, EVROKOM HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154839.ts 
-#EXTINF:-1, FEN FOLK TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154850.ts 
-#EXTINF:-1, FEN TV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154844.ts
-#EXTINF:-1, FEN TV SD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154845.ts
-#EXTINF:-1, FIGHTBOX HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154851.ts 
-#EXTINF:-1, FOLKLOR TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154847.ts 
-#EXTINF:-1, FOLKLOR TV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154855.ts 
-#EXTINF:-1, FOOD NETWORK 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154848.ts
-#EXTINF:-1, FOX 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154849.ts 
-#EXTINF:-1, FOX CRIME 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154856.ts 
-#EXTINF:-1, FOX CRIME HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154857.ts 
-#EXTINF:-1, FOX LIFE 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154858.ts 
-#EXTINF:-1, FOX LIFE HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154859.ts 
-#EXTINF:-1, HBO 1 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154861.ts
-#EXTINF:-1, HBO 2 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154862.ts
-#EXTINF:-1, HBO3 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154863.ts
-#EXTINF:-1, HISTORY CHANNEL 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154866.ts
-#EXTINF:-1, HISTORY CHANNEL HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154867.ts
-#EXTINF:-1, HIT MIX MUSIC 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154868.ts
-#EXTINF:-1, HOBBY LOV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154869.ts 
-#EXTINF:-1, HOBBY TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154870.ts 
-#EXTINF:-1, HOBBY TV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154865.ts 
-#EXTINF:-1, ID XTRA 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154871.ts
-#EXTINF:-1, ID XTRA HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154872.ts 
-#EXTINF:-1, JIM JAM 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154874.ts 
-#EXTINF:-1, NOVA NEWS 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154875.ts
-#EXTINF:-1, KINO NOVA 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154876.ts
-#EXTINF:-1, MAGIC TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154878.ts
-#EXTINF:-1, MAX SPORT 1 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154879.ts
-#EXTINF:-1, MAX SPORT 2 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154880.ts
-#EXTINF:-1, MAX SPORT 3 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154881.ts
-#EXTINF:-1, MAX SPORT 4 FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154882.ts
-#EXTINF:-1, MOVIE STAR 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154884.ts 
-#EXTINF:-1, MOVIE STAR FULL HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154883.ts 
-#EXTINF:-1, NAT GEO HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154892.ts 
-#EXTINF:-1, NAT GEO WILD HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154885.ts
-#EXTINF:-1, NAT GEO WILD HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154893.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154886.ts 
-#EXTINF:-1, NATURE &amp; HISTORY HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154894.ts 
-#EXTINF:-1, NICKELODEON 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154896.ts 
-#EXTINF:-1, NICK JR 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154895.ts 
-#EXTINF:-1, NOVA 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154887.ts 
-#EXTINF:-1, NOVA SPORT 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154888.ts
-#EXTINF:-1, NOVA SPORT HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154889.ts
-#EXTINF:-1, NOVA TV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154890.ts 
-#EXTINF:-1, NRJ 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154891.ts
-#EXTINF:-1, PERVIY KANAL 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154898.ts
-#EXTINF:-1, PLANETA 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154908.ts 
-#EXTINF:-1, PLANETA FOLK 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154899.ts 
-#EXTINF:-1, PLANETA HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154900.ts 
-#EXTINF:-1, PLANETA TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154901.ts 
-#EXTINF:-1, PP TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154902.ts 
-#EXTINF:-1, RING HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154910.ts 
-#EXTINF:-1, RING TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154911.ts 
-#EXTINF:-1, RODINA TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154913.ts 
-#EXTINF:-1, ROMA TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154912.ts 
-#EXTINF:-1, SKAT TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154914.ts 
-#EXTINF:-1, DIEMA SPORT 3 FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154916.ts
-#EXTINF:-1, SUNRISE MUSIC 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154917.ts 
-#EXTINF:-1, THE VOICE 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154928.ts
-#EXTINF:-1, TIANKOV FOLK HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154930.ts 
-#EXTINF:-1, TIANKOV ORIENT FOLK 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154931.ts 
-#EXTINF:-1, TLC 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154918.ts
-#EXTINF:-1, TRACE SPORT STARS 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154932.ts 
-#EXTINF:-1, TRACE SPORT STARS HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154933.ts 
-#EXTINF:-1, TRAVEL CHANNEL 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154919.ts 
-#EXTINF:-1, TRAVEL CHANNEL HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154934.ts
-#EXTINF:-1, TRAVEL TV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154935.ts
-#EXTINF:-1, TRAVEL TV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154920.ts 
-#EXTINF:-1, TV1 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154925.ts
-#EXTINF:-1, TV1 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154926.ts
-#EXTINF:-1, TV 1000 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154921.ts 
-#EXTINF:-1, TV EVROPA 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154923.ts
-#EXTINF:-1, TVT 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154927.ts 
-#EXTINF:-1, VIASAT EXPLORER 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154938.ts
-#EXTINF:-1, VIASAT HISTORY 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154939.ts
-#EXTINF:-1, VIASAT HISTORY HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154940.ts
-#EXTINF:-1, VIASAT NATURE 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154941.ts
-#EXTINF:-1, VIVACOM ARENA 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154936.ts
-#EXTINF:-1, VTK 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154937.ts
-#EXTINF:-1, WILD TV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154942.ts
-#EXTINF:-1, WNESSTV 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154943.ts
-#EXTINF:-1, WNESSTV HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/154944.ts
-#EXTINF:-1, MAX SPORT 1 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/83260.ts
-#EXTINF:-1, MAX SPORT 2 HD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/83259.ts
-#EXTINF:-1, MAX SPORT 3 FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/83258.ts
-#EXTINF:-1, MAX SPORT 4 FHD 
-http://line.rs6ott.com/live/codf3m42/2c03250577a7/83257.ts  
-                                    
+#EXTM3U
+#EXTINF:-1,===== BULGARIA =====
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100309
+#EXTINF:-1,BNT 1
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100311
+#EXTINF:-1,BNT2
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100312
+#EXTINF:-1,BNT 3
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100313
+#EXTINF:-1,BNT 4
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100314
+#EXTINF:-1,BTV HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100315
+#EXTINF:-1,BTV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100316
+#EXTINF:-1,SKAT TV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100317
+#EXTINF:-1,PERVIY KANAL
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100318
+#EXTINF:-1,EVROKOM
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100319
+#EXTINF:-1,FEN TV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100320
+#EXTINF:-1,HOBBY TV HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100321
+#EXTINF:-1,24 KITCHEN
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100322
+#EXTINF:-1,7/8 TV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100323
+#EXTINF:-1,DIEMA
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100324
+#EXTINF:-1,KANAL 3
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100325
+#EXTINF:-1,KINONOVA
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100326
+#EXTINF:-1,===== BG KIDS =====
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100327
+#EXTINF:-1,CARTOON NETWORK
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144832
+#EXTINF:-1,CN
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100328
+#EXTINF:-1,BOOMERANG
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144826
+#EXTINF:-1,COMEDY PLUS
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100329
+#EXTINF:-1,DISNEY CHANNEL
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100330
+#EXTINF:-1,DISNEY JUNIOR
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100331
+#EXTINF:-1,EKIDS
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100332
+#EXTINF:-1,NICK
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100333
+#EXTINF:-1,NICK JR
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100334
+#EXTINF:-1,===== BG MOVIES =====
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100335
+#EXTINF:-1,BTV ACTION
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100336
+#EXTINF:-1,BTV CINEMA
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100337
+#EXTINF:-1,BTV LADY
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100339
+#EXTINF:-1,HBO HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100340
+#EXTINF:-1,HBO 2 HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100341
+#EXTINF:-1,HBO 3 HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100342
+#EXTINF:-1,CINEMAX 1
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100343
+#EXTINF:-1,CINEMAX 2
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100344
+#EXTINF:-1,ACTION PLUS
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100345
+#EXTINF:-1,ALFA TV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144829
+#EXTINF:-1,AXN WHITE
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144830
+#EXTINF:-1,AXN BLACK
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144831
+#EXTINF:-1,AXN
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100346
+#EXTINF:-1,AMC
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100347
+#EXTINF:-1,B CINEMA HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100348
+#EXTINF:-1,CINEMA PLUS
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100349
+#EXTINF:-1,FILMBOX HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100350
+#EXTINF:-1,NRJ
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100351
+#EXTINF:-1,EPIC DRAMA
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144825
+#EXTINF:-1,MOVIE STAR
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100352
+#EXTINF:-1,===== BG ENTERTAINMENTS =====
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100353
+#EXTINF:-1,DIEMA FAMILY
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100354
+#EXTINF:-1,FOX
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100355
+#EXTINF:-1,FOX CRIME
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100356
+#EXTINF:-1,FOX LIFE
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100357
+#EXTINF:-1,ID XTRA
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100358
+#EXTINF:-1,NOVA HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100359
+#EXTINF:-1,TLC
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100360
+#EXTINF:-1,TRAVEL CHANNEL 
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100361
+#EXTINF:-1,FOOD NETWORK
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144827
+#EXTINF:-1,===== BG SPORTS =====
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100363
+#EXTINF:-1,DIEMA SPORT
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100364
+#EXTINF:-1,DIEMA SPORT 2
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100365
+#EXTINF:-1,DIEMA SPORT 3 HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144828
+#EXTINF:-1,MAX SPORT 1
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100366
+#EXTINF:-1,MAX SPORT 2
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100367
+#EXTINF:-1,MAX SPORT 3
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100368
+#EXTINF:-1,MAX SPORT 4 HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100369
+#EXTINF:-1,EUROSPORT 1 HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100370
+#EXTINF:-1,EUROSPORT HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100371
+#EXTINF:-1,EUROSPORT 2
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100372
+#EXTINF:-1,NOVA SPORT
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100373
+#EXTINF:-1,SPORT PLUS HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100374
+#EXTINF:-1,F Plus
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100375
+#EXTINF:-1,RING BG
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100377
+#EXTINF:-1,===== BG DOCUMENTARY =====
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100378
+#EXTINF:-1,DISCOVERY CHANNEL
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100380
+#EXTINF:-1,HISTORY CHANNEL HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100381
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100383
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100384
+#EXTINF:-1,ANIMAL PLANET
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100385
+#EXTINF:-1,VIASAT EXPLORER
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100386
+#EXTINF:-1,NG WILD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100387
+#EXTINF:-1,NG WILD HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100388
+#EXTINF:-1,DM SAT
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100389
+#EXTINF:-1,VIASAT HISTORY
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144823
+#EXTINF:-1,VIASAT NATURE
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144824
+#EXTINF:-1,===== BG MUSIC =====
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100390
+#EXTINF:-1,MTV HITS
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100391
+#EXTINF:-1,BALKANIKA
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100392
+#EXTINF:-1,CITY TV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100393
+#EXTINF:-1,PLANETA HD
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100394
+#EXTINF:-1,PLANETA FOLK
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100395
+#EXTINF:-1,PLANETA TV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100396
+#EXTINF:-1,FEN FOLK TV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100397
+#EXTINF:-1,FOLKLOR TV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100398
+#EXTINF:-1,MAGIC TV
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100399
+#EXTINF:-1,===== BG NEWS =====
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100400
+#EXTINF:-1,TV EVROPA
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/100401
+#EXTINF:-1,TV 1000
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144820
+#EXTINF:-1,TV1
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144821
+#EXTINF:-1,BULGARIA 24
+http://balkanfree.net:88/YUFCYRSUB0J3MLV/SQKZPUFYRMCNVM5/144822
